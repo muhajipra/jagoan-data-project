@@ -2,6 +2,7 @@ import requests
 from bs4 import BeautifulSoup as bs
 from utils import read_json, write_json
 import os
+import pandas as pd
 import numpy as np
 
 def request_page(url, config_path):
@@ -54,7 +55,7 @@ def get_review_data(review_box):
     citizenship = [citizen.find('span').get_text() for citizen in citizenship_box]
     for i, citizen in enumerate(citizenship):
         if 'kontribusi' in citizen:
-            citizenship[i] = np.nan
+            citizenship[i] = 'NaN'
     citizenship = citizenship[0]
 
     # Get the headline
@@ -62,7 +63,10 @@ def get_review_data(review_box):
     headline, review = headline.get_text(), review.get_text()
 
     # Get Status
-    arrival_data = review_box.find_all('div', {'class': 'RpeCd'})[0].get_text()
+    try:
+        arrival_data = review_box.find_all('div', {'class': 'RpeCd'})[0].get_text()
+    except:
+        arrival_data = 'NaN'
 
     # Get rating
     rating_given = review_box.find_all('svg', {'class': 'UctUV d H0'})[0].get('aria-label')
@@ -87,16 +91,49 @@ def get_data(url, config_path):
 
     return data
 
+def create_urls(first_url, config_path):
+    soup = request_page(first_url, config_path)
+    end_page = int(soup.find_all('div', {'class': 'Ci'})[0].get_text().split(' ')[-2])
+    splitter = '-Reviews-'
+    first_part, third_part = first_url.split(splitter)
+    url_list = [first_url]
+    for i in range(10, end_page, 10):
+        url = '{}{}or{}-{}'.format(first_part, splitter, i, third_part)
+        url_list.append(url)
+
+    return url_list
+
+def get_multi_urls(first_url, config_path):
+    first_page = request_page(first_url, config_path)
+    rating = get_rating(first_page)
+    write_json(rating, 'rating.json')
+
+    reviews_data = []
+    url_list = create_urls(first_url, config_path)
+    exception = []
+    for i, url in enumerate(url_list):
+        try:
+            reviews = get_data(url, config_path)
+            print('Page {}/{} successfully scraped'.format(i+1, len(url_list)))
+            for review in reviews:
+                reviews_data.append(review)
+        except:
+            print('Page {}/{} failed to scrape'.format(i+1, len(url_list)))
+            exception.append(url)
+
+    if exception is not []:
+        write_json(exception, 'exempt.json')
+    write_json(reviews_data, 'tripadvisor_reviews.json')
+
+    return reviews_data
+
+
 url = 'https://www.tripadvisor.co.id/Attraction_Review-g317103-d447076-Reviews-Ijen_Crater-Banyuwangi_East_Java_Java.html'
 config_path = 'tripadvisor/config.json'
-#print(os.listdir(os.getcwd()))
-#print(request_page(url, config_path))
-#print(bs.prettify(get_data(url, config_path)))
-#print(get_data(url, config_path))
-#print(bs.prettify(get_data(url, config_path)))
-for review in get_data(url, config_path):
-    print(review)
 
+#get_multi_urls(url, config_path)
 
+data = read_json('tripadvisor_reviews.json')
 
-
+df = pd.DataFrame.from_dict(data)
+df.to_excel('tripadvisor_reviews.xlsx')
