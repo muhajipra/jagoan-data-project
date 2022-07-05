@@ -1,14 +1,36 @@
 import requests
 from bs4 import BeautifulSoup as bs
+import pandas as pd
+import csv
 import datetime
+import json
 import re
 
-def url_crawler(number):
-    BASE_URL = 'https://pengaduan.banyuwangikab.go.id/publik/online/web_list'
+def label_duplicate(row):
+    if len(row['SKPD Tujuan']) > 1:
+        val = True
+    return val
+
+def write_excel(data, title):
+    csv_file = '{}.csv'.format(title)
+    dict_keys = data[0].keys()
+    with open(csv_file, 'w', encoding="utf-8") as f:
+        w = csv.DictWriter(f, dict_keys)
+        w.writeheader()
+        w.writerows(data)
+    
+    excel_file = '{}.xlsx'.format(title)
+    df = pd.read_csv(csv_file)
+    df['SKPD Tujuan'] = df['SKPD Tujuan'].apply(eval)
+    df['Duplicated'] = df['SKPD Tujuan'].str.len() > 1
+    df = df.explode('SKPD Tujuan')
+    df.to_excel(excel_file, index=False)
+
+def url_crawler(base_url, number):
     data = {
     'page': '{}'.format(number),
     }
-    return BASE_URL, data
+    return base_url, data
 
 def get_page(url, data):
     response = requests.post(url, data=data)
@@ -32,13 +54,16 @@ def get_response(box):
 def get_data(box):
     username = box.find_all('span', {'class': 'username'})[0].get_text()
     time, skpd = box.find_all('span', {'class': 'description'})[0].get_text().split(' | ')
-    skpd = skpd.replace('Skpd tujuan :\n', '').replace('&nbsp', '')
+    skpd = skpd.replace('Skpd tujuan :\n', '').strip()
     responder, response_date, response_content = get_response(box)
 
     if ' ' in time:
         time, hour = time.split(' ')
-    if ', ' in skpd:
-        skpd = skpd.split(', ')
+    if '&nbsp' in skpd:
+        skpd = skpd.split('&nbsp')
+        skpd = list(set(skpd))
+        if '' in skpd:
+            skpd.remove('')
 
     complaint = box.select('.expander > p')[0].get_text().replace('\n', ' ')
 
@@ -50,6 +75,7 @@ def get_content_box(url, data, data_list):
     for content in content_box:
         username, time, skpd, complaint, responder, response_date, response_content = get_data(content)
         complaint_data = {
+            'Sumber': 'web',
             'Nama': username,
             'Waktu Laporan': time,
             'SKPD Tujuan': skpd,
@@ -59,23 +85,26 @@ def get_content_box(url, data, data_list):
             'Balasan': response_content
         }
         data_list.append(complaint_data)
-    return data_list
 
+def make_pengaduan_dataset(base_url, start, end):
+    available = True
+    page_number = start
+    report_data = []
+    while available == True:
+        if end != 0:
+            if page_number == end:
+                available = False
 
-available = True
-page_number = 1
-report_data = {
-    'report': []
-}
-while available == True:
-    base_url, data = url_crawler(page_number)
-    test = get_page(base_url, data)
-    if not test.find_all('span', {'class': 'username'}):
-        available = False
-    get_content_box(base_url, data, report_data['report'])
-    
-    print('Page {} scraped'.format(page_number))
-    print(report_data['report'][-1], '\n')
-    page_number += 1
+        base_url, data = url_crawler(base_url, page_number)
+        test = get_page(base_url, data)
+        if not test.find_all('span', {'class': 'username'}):
+            available = False
+        get_content_box(base_url, data, report_data)
 
-print(len(report_data['report']))
+        print(f'Page {page_number} scraped')
+        page_number += 1
+
+    write_excel(report_data, 'pengaduan_masyarakat')
+
+base_url = 'https://pengaduan.banyuwangikab.go.id/publik/online/web_list'
+make_pengaduan_dataset(base_url, 1, 200)
