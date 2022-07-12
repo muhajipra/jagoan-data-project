@@ -5,14 +5,21 @@ import xlrd
 import pandas as pd
 from datetime import date, timedelta
 from hargapangan_cleaning import clean_excel
+from utils import *
 
-def retrieveData(days):
+def retrieveData(days, config_path, section):
     market_list = [
         {
             "name": "Pasar Banyuwangi",
             "pid": 16,
             "rid": 49,
             "mid": 170
+        },
+        {
+            "name": "Pasar Rogojampi",
+            "pid": 16,
+            "rid": 49,
+            "mid": 171
         }
     ]
 
@@ -36,17 +43,9 @@ def retrieveData(days):
         filename = market["name"]
 
         response = requests.post('https://hargapangan.id/tabel-harga/pasar-tradisional/daerah', data=data)
-        with open(filename + '.xls', 'wb') as f:
-            f.write(response.content)
-
-        # Process Files and Convert to CSV
-        wb = xlrd.open_workbook(filename + '.xls', ignore_workbook_corruption=True)
+        sqlTableName = '_'.join(filename.lower().split(' '))
+        wb = xlrd.open_workbook(file_contents=response.content, ignore_workbook_corruption=True)
         df = pd.read_excel(wb, skiprows=8)
-        df = df.replace(r'\n', '', regex=True)
-        df = df.drop(columns=['No.'])
-        os.remove(filename + '.xls')
-        df.to_excel(filename + '.xlsx', index=False)
-        clean_excel(filename)
-        
+        import_dataframe_to_mysql(config_path, section, df, sqlTableName)
 
-retrieveData(30)
+retrieveData(7, 'mysql_config.ini', 'hargapangan_remote')
