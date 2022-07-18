@@ -2,6 +2,13 @@ import json
 from configparser import ConfigParser
 import sqlalchemy
 
+def repeat_input(prompt):
+    while True:
+        try:
+            return {'y':True, 'n':False}[input(prompt)]
+        except KeyError:
+            print('Invalid input, please enter y or n')
+
 def read_json(file_path):
     with open(file_path, 'r') as f:
         data = json.load(f)

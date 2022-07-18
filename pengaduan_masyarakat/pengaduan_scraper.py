@@ -5,6 +5,7 @@ import csv
 import datetime
 import json
 import re
+from utils import read_json, write_json
 
 def label_duplicate(row):
     if len(row['SKPD Tujuan']) > 1:
@@ -32,8 +33,8 @@ def url_crawler(base_url, number):
     }
     return base_url, data
 
-def get_page(url, data):
-    response = requests.post(url, data=data)
+def get_page(url, data, headers):
+    response = requests.post(url, data=data, headers=headers)
     soup = bs(response.text, features='lxml')
     return soup
 
@@ -69,13 +70,14 @@ def get_data(box):
 
     return username, time, skpd, complaint, responder, response_date, response_content
 
-def get_content_box(url, data, data_list):
-    soup = get_page(url, data)
+def get_content_box(url, data, headers, data_list):
+    soup = get_page(url, data, headers)
     content_box = soup.find_all('div', {'class': 'box box-widget'})
+    source = url.split('/')[-1]
     for content in content_box:
         username, time, skpd, complaint, responder, response_date, response_content = get_data(content)
         complaint_data = {
-            'Sumber': 'web',
+            'Sumber': source,
             'Nama': username,
             'Waktu Laporan': time,
             'SKPD Tujuan': skpd,
@@ -86,25 +88,47 @@ def get_content_box(url, data, data_list):
         }
         data_list.append(complaint_data)
 
-def make_pengaduan_dataset(base_url, start, end):
-    available = True
-    page_number = start
+def make_pengaduan_dataset(base_urls, headers, start, end=0):
     report_data = []
-    while available == True:
-        if end != 0:
-            if page_number == end:
+    for base_url in base_urls:
+        available = True
+        page_number = start
+        while available == True:
+            if end != 0:
+                if page_number == end:
+                    available = False
+            
+            base_url, data = url_crawler(base_url, page_number)
+            source = base_url.split('/')[-1]
+            test = get_page(base_url, data, headers)
+            if not test.find_all('span', {'class': 'username'}):
                 available = False
+            get_content_box(base_url, data, headers, report_data)
 
-        base_url, data = url_crawler(base_url, page_number)
-        test = get_page(base_url, data)
-        if not test.find_all('span', {'class': 'username'}):
-            available = False
-        get_content_box(base_url, data, report_data)
-
-        print(f'Page {page_number} scraped')
-        page_number += 1
+            print(f'Page {page_number} in {source} scraped')
+            if page_number % 50 == 0:
+                write_json(report_data, 'backup_pengaduan.json')
+            page_number += 1
 
     write_excel(report_data, 'pengaduan_masyarakat')
 
-base_url = 'https://pengaduan.banyuwangikab.go.id/publik/online/web_list'
-make_pengaduan_dataset(base_url, 1, 200)
+headers = {
+    'authority': 'pengaduan.banyuwangikab.go.id',
+    'accept': '*/*',
+    'accept-language': 'en-US,en;q=0.9,id;q=0.8',
+    # 'content-length': '0',
+    # 'cookie': 'ci_session=55b627720a6d69687d9aefe1940a02ceeacce066',
+    'origin': 'https://pengaduan.banyuwangikab.go.id',
+    'referer': 'https://pengaduan.banyuwangikab.go.id/publik/sms',
+    'sec-ch-ua': '" Not;A Brand";v="99", "Microsoft Edge";v="103", "Chromium";v="103"',
+    'sec-ch-ua-mobile': '?0',
+    'sec-ch-ua-platform': '"Windows"',
+    'sec-fetch-dest': 'empty',
+    'sec-fetch-mode': 'cors',
+    'sec-fetch-site': 'same-origin',
+    'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36 Edg/103.0.1264.49',
+    'x-requested-with': 'XMLHttpRequest',
+}
+
+base_urls = ['https://pengaduan.banyuwangikab.go.id/publik/online/web_list']
+make_pengaduan_dataset(base_urls, headers, 1)
