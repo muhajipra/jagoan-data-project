@@ -1,0 +1,35 @@
+Province,Indonesian_name,Indonesian_acronym,ISO_4_,Population__2020_Census_,Area__km2_,Population_density__,Geographical_unit,Number_of_citites_regency
+Banten,Banten,Banten,ID-BT,11904562,9662,909,Java,8
+Capital Special Region of Jakarta,Daerah Khusus Ibukota Jakarta,DKI Jakarta,ID-JK,10562088,664,12786,Java,6
+Central Java,Jawa Tengah,Jateng,ID-JT,36516035,408,894,Java,35
+East Java,Jawa Timur,Jatim,ID-JI,40665696,47799,828,Java,38
+West Java,Jawa Barat,Jabar,ID-JB,48274162,35377,1176,Java,27
+Special Region of Yogyakarta,Daerah Istimewa Yogyakarta,DIY,ID-YO,3668719,3133,1138,Java,5
+Bangka Belitung Islands,Kepulauan Bangka Belitung,Babel,ID-BB,1455678,16424,64,Sumatra,7
+Bengkulu,Bengkulu,Bengkulu,ID-BE,2010670,19919,84,Sumatra,10
+Jambi,Jambi,Jambi,ID-JA,3548228,50058,57,Sumatra,11
+Lampung,Lampung,Lampung,ID-LA,9007848,34623,226,Sumatra,15
+Aceh,Aceh,Aceh,ID-AC,5274871,57956,77,Sumatra,23
+North Sumatra,Sumatra Utara,Sumut,ID-SU,14799361,72981,188,Sumatra,33
+Riau,Riau,Riau,ID-RI,6394087,87023,52,Sumatra,12
+Riau Islands,Kepulauan Riau,Kepri,ID-KR,2064564,8201,208,Sumatra,7
+South Sumatra,Sumatra Selatan,Sumsel,ID-SS,8467432,91592,86,Sumatra,17
+West Sumatra,Sumatra Barat,Sumbar,ID-SB,5534472,42012,110,Sumatra,19
+Central Sulawesi,Sulawesi Tengah,Sulteng,ID-ST,2985734,61841,41,Sulawesi,13
+Gorontalo,Gorontalo,Gorontalo,ID-GO,1171681,11257,94,Sulawesi,6
+North Sulawesi,Sulawesi Utara,Sulut,ID-SA,2621923,13851,162,Sulawesi,15
+South Sulawesi,Sulawesi Selatan,Sulsel,ID-SN,9073509,46717,151,Sulawesi,24
+Southeast Sulawesi,Sulawesi Tenggara,Sultra,ID-SG,2624875,38067,51,Sulawesi,17
+West Sulawesi,Sulawesi Barat,Sulbar,ID-SR,1419229,16787,73,Sulawesi,6
+Central Kalimantan,Kalimantan Tengah,Kalteng,ID-KT,2669969,153564,14,Kalimantan,14
+East Kalimantan[6],Kalimantan Timur,Kaltim,ID-KI,3766039,127267,22,Kalimantan,10
+North Kalimantan,Kalimantan Utara,Kaltara,ID-KU,701814,72275,10,Kalimantan,5
+South Kalimantan,Kalimantan Selatan,Kalsel,ID-KS,4073584,38744,96,Kalimantan,13
+West Kalimantan,Kalimantan Barat,Kalbar,ID-KB,5414390,147307,30,Kalimantan,14
+Maluku,Maluku,Maluku,ID-MA,1848923,46914,32,Maluku Islands,11
+North Maluku,Maluku Utara,Malut,ID-MU,1282937,31982,31,Maluku Islands,10
+Papua,Papua,Papua,ID-PA,4303707,319036,8,Western New Guinea,29
+West Papua,Papua Barat,Pabar,ID-PB[7],1134068,97024,8,Western New Guinea,13
+Bali,Bali,Bali,ID-BA,4317404,578,621,Lesser Sunda Islands,9
+East Nusa Tenggara,Nusa Tenggara Timur,NTT,ID-NT,5325566,48718,92,Lesser Sunda Islands,22
+West Nusa Tenggara,Nusa Tenggara Barat,NTB,ID-NB,5320092,18572,234,Lesser Sunda Islands,10

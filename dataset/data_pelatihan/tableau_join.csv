@@ -1,0 +1,228 @@
+Country,Region,EODB_rank
+Tajikistan ,C.W. OF IND. STATES ,123
+Kyrgyzstan ,C.W. OF IND. STATES ,77
+Uzbekistan ,C.W. OF IND. STATES ,74
+Moldova ,C.W. OF IND. STATES ,44
+Georgia ,C.W. OF IND. STATES ,9
+Azerbaijan ,C.W. OF IND. STATES ,57
+Armenia ,C.W. OF IND. STATES ,47
+Ukraine ,C.W. OF IND. STATES ,76
+Turkmenistan ,C.W. OF IND. STATES ,
+Belarus ,C.W. OF IND. STATES ,38
+Kazakhstan ,C.W. OF IND. STATES ,36
+Russia ,C.W. OF IND. STATES ,35
+Haiti ,LATIN AMER. & CARIB    ,181
+Nicaragua ,LATIN AMER. & CARIB    ,131
+Bolivia ,LATIN AMER. & CARIB    ,152
+Honduras ,LATIN AMER. & CARIB    ,115
+Cuba ,LATIN AMER. & CARIB    ,
+Saint Vincent and the Grenadines ,LATIN AMER. & CARIB    ,129
+Ecuador ,LATIN AMER. & CARIB    ,118
+Montserrat ,LATIN AMER. & CARIB    ,
+Jamaica ,LATIN AMER. & CARIB    ,70
+Guyana ,LATIN AMER. & CARIB    ,126
+Suriname ,LATIN AMER. & CARIB    ,165
+Guatemala ,LATIN AMER. & CARIB    ,97
+Paraguay ,LATIN AMER. & CARIB    ,108
+El Salvador ,LATIN AMER. & CARIB    ,73
+Venezuela ,LATIN AMER. & CARIB    ,188
+Belize ,LATIN AMER. & CARIB    ,121
+Grenada ,LATIN AMER. & CARIB    ,142
+Peru ,LATIN AMER. & CARIB    ,58
+Dominica ,LATIN AMER. & CARIB    ,98
+Saint Lucia ,LATIN AMER. & CARIB    ,91
+Dominican Republic ,LATIN AMER. & CARIB    ,99
+Colombia ,LATIN AMER. & CARIB    ,59
+Panama ,LATIN AMER. & CARIB    ,79
+Brazil ,LATIN AMER. & CARIB    ,125
+Guadeloupe ,LATIN AMER. & CARIB    ,
+French Guiana ,LATIN AMER. & CARIB    ,
+Anguilla ,LATIN AMER. & CARIB    ,
+Saint Kitts & Nevis ,LATIN AMER. & CARIB    ,134
+Mexico ,LATIN AMER. & CARIB    ,49
+Costa Rica ,LATIN AMER. & CARIB    ,61
+Trinidad & Tobago ,LATIN AMER. & CARIB    ,102
+Turks & Caicos Is ,LATIN AMER. & CARIB    ,
+Chile ,LATIN AMER. & CARIB    ,55
+Antigua & Barbuda ,LATIN AMER. & CARIB    ,107
+Argentina ,LATIN AMER. & CARIB    ,117
+Netherlands Antilles ,LATIN AMER. & CARIB    ,
+Uruguay ,LATIN AMER. & CARIB    ,94
+Martinique ,LATIN AMER. & CARIB    ,
+Barbados ,LATIN AMER. & CARIB    ,132
+British Virgin Is. ,LATIN AMER. & CARIB    ,
+"Bahamas, The ",LATIN AMER. & CARIB    ,
+Puerto Rico ,LATIN AMER. & CARIB    ,64
+Virgin Islands ,LATIN AMER. & CARIB    ,
+Aruba ,LATIN AMER. & CARIB    ,
+Cayman Islands ,LATIN AMER. & CARIB    ,
+East Timor ,ASIA (EX. NEAR EAST)         ,178
+Afghanistan ,ASIA (EX. NEAR EAST)         ,183
+Bhutan ,ASIA (EX. NEAR EAST)         ,75
+"Korea, North ",ASIA (EX. NEAR EAST)         ,4
+Nepal ,ASIA (EX. NEAR EAST)         ,105
+Laos ,ASIA (EX. NEAR EAST)         ,
+Burma ,ASIA (EX. NEAR EAST)         ,
+Mongolia ,ASIA (EX. NEAR EAST)         ,62
+Bangladesh ,ASIA (EX. NEAR EAST)         ,177
+Cambodia ,ASIA (EX. NEAR EAST)         ,135
+Pakistan ,ASIA (EX. NEAR EAST)         ,147
+Vietnam ,ASIA (EX. NEAR EAST)         ,68
+India ,ASIA (EX. NEAR EAST)         ,100
+Indonesia ,ASIA (EX. NEAR EAST)         ,72
+Sri Lanka ,ASIA (EX. NEAR EAST)         ,111
+Maldives ,ASIA (EX. NEAR EAST)         ,136
+Philippines ,ASIA (EX. NEAR EAST)         ,113
+China ,ASIA (EX. NEAR EAST)         ,78
+Iran ,ASIA (EX. NEAR EAST)         ,124
+Thailand ,ASIA (EX. NEAR EAST)         ,26
+Malaysia ,ASIA (EX. NEAR EAST)         ,24
+"Korea, South ",ASIA (EX. NEAR EAST)         ,
+Brunei ,ASIA (EX. NEAR EAST)         ,56
+Macau ,ASIA (EX. NEAR EAST)         ,
+Taiwan ,ASIA (EX. NEAR EAST)         ,15
+Singapore ,ASIA (EX. NEAR EAST)         ,2
+Japan ,ASIA (EX. NEAR EAST)         ,34
+Hong Kong ,ASIA (EX. NEAR EAST)         ,5
+Latvia ,BALTICS                            ,19
+Lithuania ,BALTICS                            ,16
+Estonia ,BALTICS                            ,12
+Serbia ,EASTERN EUROPE                     ,43
+Albania ,EASTERN EUROPE                     ,65
+Bosnia & Herzegovina ,EASTERN EUROPE                     ,86
+Macedonia ,EASTERN EUROPE                     ,11
+Romania ,EASTERN EUROPE                     ,45
+Bulgaria ,EASTERN EUROPE                     ,50
+Croatia ,EASTERN EUROPE                     ,51
+Poland ,EASTERN EUROPE                     ,27
+Slovakia ,EASTERN EUROPE                     ,39
+Hungary ,EASTERN EUROPE                     ,48
+Czech Republic ,EASTERN EUROPE                     ,30
+Slovenia ,EASTERN EUROPE                     ,37
+Gaza Strip ,NEAR EAST                          ,
+West Bank ,NEAR EAST                          ,114
+Yemen ,NEAR EAST                          ,186
+Iraq ,NEAR EAST                          ,169
+Syria ,NEAR EAST                          ,
+Jordan ,NEAR EAST                          ,103
+Lebanon ,NEAR EAST                          ,133
+Turkey ,NEAR EAST                          ,60
+Saudi Arabia ,NEAR EAST                          ,92
+Oman ,NEAR EAST                          ,
+Bahrain ,NEAR EAST                          ,66
+Kuwait ,NEAR EAST                          ,96
+Cyprus ,NEAR EAST                          ,53
+Israel ,NEAR EAST                          ,54
+Qatar ,NEAR EAST                          ,83
+United Arab Emirates ,NEAR EAST                          ,21
+Egypt ,NORTHERN AFRICA                    ,128
+Morocco ,NORTHERN AFRICA                    ,69
+Algeria ,NORTHERN AFRICA                    ,166
+Libya ,NORTHERN AFRICA                    ,185
+Tunisia ,NORTHERN AFRICA                    ,88
+Western Sahara ,NORTHERN AFRICA                    ,
+St Pierre & Miquelon ,NORTHERN AMERICA                   ,
+Greenland ,NORTHERN AMERICA                   ,
+Canada ,NORTHERN AMERICA                   ,18
+Bermuda ,NORTHERN AMERICA                   ,
+United States ,NORTHERN AMERICA                   ,6
+Kiribati ,OCEANIA                            ,157
+Tuvalu ,OCEANIA                            ,
+Marshall Islands ,OCEANIA                            ,149
+Solomon Islands ,OCEANIA                            ,116
+"Micronesia, Fed. St. ",OCEANIA                            ,155
+Papua New Guinea ,OCEANIA                            ,109
+Tonga ,OCEANIA                            ,89
+Vanuatu ,OCEANIA                            ,90
+Wallis and Futuna ,OCEANIA                            ,
+Cook Islands ,OCEANIA                            ,
+Nauru ,OCEANIA                            ,
+Samoa ,OCEANIA                            ,87
+Fiji ,OCEANIA                            ,101
+American Samoa ,OCEANIA                            ,
+Palau ,OCEANIA                            ,130
+N. Mariana Islands ,OCEANIA                            ,
+New Caledonia ,OCEANIA                            ,
+French Polynesia ,OCEANIA                            ,
+Guam ,OCEANIA                            ,
+New Zealand ,OCEANIA                            ,1
+Australia ,OCEANIA                            ,14
+Sierra Leone ,SUB-SAHARAN AFRICA                 ,160
+Somalia ,SUB-SAHARAN AFRICA                 ,190
+Burundi ,SUB-SAHARAN AFRICA                 ,164
+Malawi ,SUB-SAHARAN AFRICA                 ,110
+Tanzania ,SUB-SAHARAN AFRICA                 ,137
+Comoros ,SUB-SAHARAN AFRICA                 ,158
+"Congo, Dem. Rep. ",SUB-SAHARAN AFRICA                 ,179
+"Congo, Repub. of the ",SUB-SAHARAN AFRICA                 ,182
+Eritrea ,SUB-SAHARAN AFRICA                 ,189
+Ethiopia ,SUB-SAHARAN AFRICA                 ,161
+Guinea-Bissau ,SUB-SAHARAN AFRICA                 ,176
+Madagascar ,SUB-SAHARAN AFRICA                 ,162
+Niger ,SUB-SAHARAN AFRICA                 ,144
+Zambia ,SUB-SAHARAN AFRICA                 ,85
+Mali ,SUB-SAHARAN AFRICA                 ,143
+Nigeria ,SUB-SAHARAN AFRICA                 ,145
+Kenya ,SUB-SAHARAN AFRICA                 ,80
+Liberia ,SUB-SAHARAN AFRICA                 ,172
+Benin ,SUB-SAHARAN AFRICA                 ,151
+Burkina Faso ,SUB-SAHARAN AFRICA                 ,148
+Central African Rep. ,SUB-SAHARAN AFRICA                 ,184
+Chad ,SUB-SAHARAN AFRICA                 ,180
+Mozambique ,SUB-SAHARAN AFRICA                 ,138
+Sao Tome & Principe ,SUB-SAHARAN AFRICA                 ,
+Djibouti ,SUB-SAHARAN AFRICA                 ,154
+Rwanda ,SUB-SAHARAN AFRICA                 ,41
+Cape Verde ,SUB-SAHARAN AFRICA                 ,127
+Cote d'Ivoire ,SUB-SAHARAN AFRICA                 ,139
+Uganda ,SUB-SAHARAN AFRICA                 ,122
+Togo ,SUB-SAHARAN AFRICA                 ,156
+Senegal ,SUB-SAHARAN AFRICA                 ,140
+"Gambia, The ",SUB-SAHARAN AFRICA                 ,146
+Cameroon ,SUB-SAHARAN AFRICA                 ,163
+Mauritania ,SUB-SAHARAN AFRICA                 ,150
+Angola ,SUB-SAHARAN AFRICA                 ,175
+Sudan ,SUB-SAHARAN AFRICA                 ,170
+Zimbabwe ,SUB-SAHARAN AFRICA                 ,159
+Guinea ,SUB-SAHARAN AFRICA                 ,
+Ghana ,SUB-SAHARAN AFRICA                 ,120
+Saint Helena ,SUB-SAHARAN AFRICA                 ,
+Mayotte ,SUB-SAHARAN AFRICA                 ,
+Equatorial Guinea ,SUB-SAHARAN AFRICA                 ,153
+Lesotho ,SUB-SAHARAN AFRICA                 ,104
+Swaziland ,SUB-SAHARAN AFRICA                 ,112
+Gabon ,SUB-SAHARAN AFRICA                 ,167
+Reunion ,SUB-SAHARAN AFRICA                 ,
+Namibia ,SUB-SAHARAN AFRICA                 ,106
+Seychelles ,SUB-SAHARAN AFRICA                 ,
+Botswana ,SUB-SAHARAN AFRICA                 ,81
+South Africa ,SUB-SAHARAN AFRICA                 ,82
+Mauritius ,SUB-SAHARAN AFRICA                 ,29
+Gibraltar ,WESTERN EUROPE                     ,
+Malta ,WESTERN EUROPE                     ,84
+Portugal ,WESTERN EUROPE                     ,29
+Andorra ,WESTERN EUROPE                     ,
+Greece ,WESTERN EUROPE                     ,67
+Guernsey ,WESTERN EUROPE                     ,
+Isle of Man ,WESTERN EUROPE                     ,
+Faroe Islands ,WESTERN EUROPE                     ,
+Spain ,WESTERN EUROPE                     ,28
+Jersey ,WESTERN EUROPE                     ,
+Liechtenstein ,WESTERN EUROPE                     ,
+Italy ,WESTERN EUROPE                     ,46
+Sweden ,WESTERN EUROPE                     ,10
+Monaco ,WESTERN EUROPE                     ,
+Finland ,WESTERN EUROPE                     ,13
+France ,WESTERN EUROPE                     ,31
+Germany ,WESTERN EUROPE                     ,20
+United Kingdom ,WESTERN EUROPE                     ,7
+Netherlands ,WESTERN EUROPE                     ,32
+Belgium ,WESTERN EUROPE                     ,52
+Ireland ,WESTERN EUROPE                     ,17
+Austria ,WESTERN EUROPE                     ,22
+Iceland ,WESTERN EUROPE                     ,23
+Denmark ,WESTERN EUROPE                     ,3
+Switzerland ,WESTERN EUROPE                     ,33
+San Marino ,WESTERN EUROPE                     ,93
+Norway ,WESTERN EUROPE                     ,8
+Luxembourg ,WESTERN EUROPE                     ,63
