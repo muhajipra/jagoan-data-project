@@ -1,0 +1,1849 @@
+stock_name,period_end_date,type,category,sub_category,value
+Bank BCA,2022-12-31,Assets,"Other Assets, Total",Other Assets,22821054
+Bank BCA,2022-12-31,Assets,Fixed Assets,"Goodwill, Net",1158201
+Bank BCA,2022-12-31,Assets,Fixed Assets,"Property/Plant/Equipment, Total - Net",24709372
+Bank BCA,2022-12-31,Assets,Current Assets,Cash and Due from Banks,161598872
+Bank BCA,2022-12-31,Assets,Current Assets,Other Earning Assets,429696227
+Bank BCA,2022-12-31,Assets,Fixed Assets,"Other Long Term Assets, Total",7321331
+Bank BCA,2022-12-31,Assets,Non-Current Assets,Net Loans,676420877
+Bank BCA,2022-12-31,Equities,Unrealized Gain (Loss),Unrealized Gain (Loss),1824992
+Bank BCA,2022-12-31,Equities,Retained Earnings,Retained Earnings,200960243
+Bank BCA,2022-12-31,Equities,Additional Paid-In Capital,Additional Paid-In Capital,5548977
+Bank BCA,2022-12-31,Equities,"Other Equity, Total",Other Equity,5548977
+Bank BCA,2022-12-31,Equities,"Common Stock, Total",Common Stock,1540938
+Bank BCA,2022-12-31,Liabilities,Current Liabilities,"Other Bearing Liabilities, Total",9666648
+Bank BCA,2022-12-31,Liabilities,Non-Current Liabilities,Deferred Income Tax,9740
+Bank BCA,2022-12-31,Liabilities,Non-Current Liabilities,Total Long Term Debt,709909
+Bank BCA,2022-12-31,Liabilities,Current Liabilities,"Other Current Liabilities, Total",2373869
+Bank BCA,2022-12-31,Liabilities,Non-Current Liabilities,Other Liabilities Total,11342847
+Bank BCA,2022-12-31,Liabilities,Current Liabilities,Total Short Term Borrowings,255962
+Bank BCA,2022-12-31,Liabilities,Non-Current Liabilities,Other Liabilities Total,11342847
+Bank BCA,2022-12-31,Liabilities,Current Liabilities,Accrued Expenses,20429778
+Bank BCA,2022-12-31,Liabilities,Current Liabilities,Accounts Payable,0
+Bank BCA,2022-12-31,Liabilities,Current Liabilities,Total Deposits,1047654224
+Bank BCA,2022-09-30,Assets,"Other Assets, Total",Other Assets,24972922
+Bank BCA,2022-09-30,Assets,Fixed Assets,"Goodwill, Net",1158201
+Bank BCA,2022-09-30,Assets,Fixed Assets,"Property/Plant/Equipment, Total - Net",22018438
+Bank BCA,2022-09-30,Assets,Current Assets,Cash and Due from Banks,156220958
+Bank BCA,2022-09-30,Assets,Current Assets,Other Earning Assets,420006414
+Bank BCA,2022-09-30,Assets,Fixed Assets,"Other Long Term Assets, Total",7307423
+Bank BCA,2022-09-30,Assets,Non-Current Assets,Net Loans,645288866
+Bank BCA,2022-09-30,Equities,Unrealized Gain (Loss),Unrealized Gain (Loss),1173290
+Bank BCA,2022-09-30,Equities,Retained Earnings,Retained Earnings,193746903
+Bank BCA,2022-09-30,Equities,Additional Paid-In Capital,Additional Paid-In Capital,5548977
+Bank BCA,2022-09-30,Equities,"Other Equity, Total",Other Equity,5548977
+Bank BCA,2022-09-30,Equities,"Common Stock, Total",Common Stock,1540938
+Bank BCA,2022-09-30,Liabilities,Current Liabilities,"Other Bearing Liabilities, Total",9152066
+Bank BCA,2022-09-30,Liabilities,Non-Current Liabilities,Deferred Income Tax,0
+Bank BCA,2022-09-30,Liabilities,Non-Current Liabilities,Total Long Term Debt,1428108
+Bank BCA,2022-09-30,Liabilities,Current Liabilities,"Other Current Liabilities, Total",1951506
+Bank BCA,2022-09-30,Liabilities,Non-Current Liabilities,Other Liabilities Total,11714667
+Bank BCA,2022-09-30,Liabilities,Current Liabilities,Total Short Term Borrowings,254991
+Bank BCA,2022-09-30,Liabilities,Non-Current Liabilities,Other Liabilities Total,11714667
+Bank BCA,2022-09-30,Liabilities,Current Liabilities,Accrued Expenses,18902930
+Bank BCA,2022-09-30,Liabilities,Current Liabilities,Accounts Payable,0
+Bank BCA,2022-09-30,Liabilities,Current Liabilities,Total Deposits,1032745610
+Bank BCA,2022-06-30,Assets,"Other Assets, Total",Other Assets,22454439
+Bank BCA,2022-06-30,Assets,Fixed Assets,"Goodwill, Net",1158201
+Bank BCA,2022-06-30,Assets,Fixed Assets,"Property/Plant/Equipment, Total - Net",21993249
+Bank BCA,2022-06-30,Assets,Current Assets,Cash and Due from Banks,228783449
+Bank BCA,2022-06-30,Assets,Current Assets,Other Earning Assets,390754173
+Bank BCA,2022-06-30,Assets,Fixed Assets,"Other Long Term Assets, Total",6712600
+Bank BCA,2022-06-30,Assets,Non-Current Assets,Net Loans,638454913
+Bank BCA,2022-06-30,Equities,Unrealized Gain (Loss),Unrealized Gain (Loss),3137712
+Bank BCA,2022-06-30,Equities,Retained Earnings,Retained Earnings,182841811
+Bank BCA,2022-06-30,Equities,Additional Paid-In Capital,Additional Paid-In Capital,5548977
+Bank BCA,2022-06-30,Equities,"Other Equity, Total",Other Equity,5548977
+Bank BCA,2022-06-30,Equities,"Common Stock, Total",Common Stock,1540938
+Bank BCA,2022-06-30,Liabilities,Current Liabilities,"Other Bearing Liabilities, Total",9105773
+Bank BCA,2022-06-30,Liabilities,Non-Current Liabilities,Deferred Income Tax,0
+Bank BCA,2022-06-30,Liabilities,Non-Current Liabilities,Total Long Term Debt,663611
+Bank BCA,2022-06-30,Liabilities,Current Liabilities,"Other Current Liabilities, Total",1648402
+Bank BCA,2022-06-30,Liabilities,Non-Current Liabilities,Other Liabilities Total,11655795
+Bank BCA,2022-06-30,Liabilities,Current Liabilities,Total Short Term Borrowings,20214
+Bank BCA,2022-06-30,Liabilities,Non-Current Liabilities,Other Liabilities Total,11655795
+Bank BCA,2022-06-30,Liabilities,Current Liabilities,Accrued Expenses,19033781
+Bank BCA,2022-06-30,Liabilities,Current Liabilities,Accounts Payable,0
+Bank BCA,2022-06-30,Liabilities,Current Liabilities,Total Deposits,1018137048
+Bank BCA,2022-03-31,Assets,"Other Assets, Total",Other Assets,22602169
+Bank BCA,2022-03-31,Assets,Fixed Assets,"Goodwill, Net",1158201
+Bank BCA,2022-03-31,Assets,Fixed Assets,"Property/Plant/Equipment, Total - Net",22177450
+Bank BCA,2022-03-31,Assets,Current Assets,Cash and Due from Banks,164260813
+Bank BCA,2022-03-31,Assets,Current Assets,Other Earning Assets,383799386
+Bank BCA,2022-03-31,Assets,Fixed Assets,"Other Long Term Assets, Total",6134320
+Bank BCA,2022-03-31,Assets,Non-Current Assets,Net Loans,601050559
+Bank BCA,2022-03-31,Equities,Unrealized Gain (Loss),Unrealized Gain (Loss),4845078
+Bank BCA,2022-03-31,Equities,Retained Earnings,Retained Earnings,172852933
+Bank BCA,2022-03-31,Equities,Additional Paid-In Capital,Additional Paid-In Capital,5548977
+Bank BCA,2022-03-31,Equities,"Other Equity, Total",Other Equity,5548977
+Bank BCA,2022-03-31,Equities,"Common Stock, Total",Common Stock,1540938
+Bank BCA,2022-03-31,Liabilities,Current Liabilities,"Other Bearing Liabilities, Total",9526139
+Bank BCA,2022-03-31,Liabilities,Non-Current Liabilities,Deferred Income Tax,0
+Bank BCA,2022-03-31,Liabilities,Non-Current Liabilities,Total Long Term Debt,601097
+Bank BCA,2022-03-31,Liabilities,Current Liabilities,"Other Current Liabilities, Total",2689448
+Bank BCA,2022-03-31,Liabilities,Non-Current Liabilities,Other Liabilities Total,10835530
+Bank BCA,2022-03-31,Liabilities,Current Liabilities,Total Short Term Borrowings,264725
+Bank BCA,2022-03-31,Liabilities,Non-Current Liabilities,Other Liabilities Total,10835530
+Bank BCA,2022-03-31,Liabilities,Current Liabilities,Accrued Expenses,34187166
+Bank BCA,2022-03-31,Liabilities,Current Liabilities,Accounts Payable,0
+Bank BCA,2022-03-31,Liabilities,Current Liabilities,Total Deposits,1005389938
+Bank BCA,2021-12-31,Assets,"Other Assets, Total",Other Assets,22479982
+Bank BCA,2021-12-31,Assets,Fixed Assets,"Goodwill, Net",1158201
+Bank BCA,2021-12-31,Assets,Fixed Assets,"Property/Plant/Equipment, Total - Net",22169299
+Bank BCA,2021-12-31,Assets,Current Assets,Cash and Due from Banks,188154635
+Bank BCA,2021-12-31,Assets,Current Assets,Other Earning Assets,385649633
+Bank BCA,2021-12-31,Assets,Fixed Assets,"Other Long Term Assets, Total",5525516
+Bank BCA,2021-12-31,Assets,Non-Current Assets,Net Loans,603747486
+Bank BCA,2021-12-31,Equities,Unrealized Gain (Loss),Unrealized Gain (Loss),6142177
+Bank BCA,2021-12-31,Equities,Retained Earnings,Retained Earnings,179581506
+Bank BCA,2021-12-31,Equities,Additional Paid-In Capital,Additional Paid-In Capital,5548977
+Bank BCA,2021-12-31,Equities,"Other Equity, Total",Other Equity,5548977
+Bank BCA,2021-12-31,Equities,"Common Stock, Total",Common Stock,1540938
+Bank BCA,2021-12-31,Liabilities,Current Liabilities,"Other Bearing Liabilities, Total",6644294
+Bank BCA,2021-12-31,Liabilities,Non-Current Liabilities,Deferred Income Tax,0
+Bank BCA,2021-12-31,Liabilities,Non-Current Liabilities,Total Long Term Debt,562260
+Bank BCA,2021-12-31,Liabilities,Current Liabilities,"Other Current Liabilities, Total",1819660
+Bank BCA,2021-12-31,Liabilities,Non-Current Liabilities,Other Liabilities Total,10551431
+Bank BCA,2021-12-31,Liabilities,Current Liabilities,Total Short Term Borrowings,77021
+Bank BCA,2021-12-31,Liabilities,Non-Current Liabilities,Other Liabilities Total,10551431
+Bank BCA,2021-12-31,Liabilities,Current Liabilities,Accrued Expenses,18479001
+Bank BCA,2021-12-31,Liabilities,Current Liabilities,Accounts Payable,0
+Bank BCA,2021-12-31,Liabilities,Current Liabilities,Total Deposits,985965965
+Bank BCA,2021-09-30,Assets,"Other Assets, Total",Other Assets,22478078
+Bank BCA,2021-09-30,Assets,Fixed Assets,"Goodwill, Net",1158201
+Bank BCA,2021-09-30,Assets,Fixed Assets,"Property/Plant/Equipment, Total - Net",21485626
+Bank BCA,2021-09-30,Assets,Current Assets,Cash and Due from Banks,179731735
+Bank BCA,2021-09-30,Assets,Current Assets,Other Earning Assets,349040697
+Bank BCA,2021-09-30,Assets,Fixed Assets,"Other Long Term Assets, Total",5656012
+Bank BCA,2021-09-30,Assets,Non-Current Assets,Net Loans,572703256
+Bank BCA,2021-09-30,Equities,Unrealized Gain (Loss),Unrealized Gain (Loss),6362997
+Bank BCA,2021-09-30,Equities,Retained Earnings,Retained Earnings,174460437
+Bank BCA,2021-09-30,Equities,Additional Paid-In Capital,Additional Paid-In Capital,5548977
+Bank BCA,2021-09-30,Equities,"Other Equity, Total",Other Equity,5548977
+Bank BCA,2021-09-30,Equities,"Common Stock, Total",Common Stock,1540938
+Bank BCA,2021-09-30,Liabilities,Current Liabilities,"Other Bearing Liabilities, Total",6337724
+Bank BCA,2021-09-30,Liabilities,Non-Current Liabilities,Deferred Income Tax,6228
+Bank BCA,2021-09-30,Liabilities,Non-Current Liabilities,Total Long Term Debt,1068798
+Bank BCA,2021-09-30,Liabilities,Current Liabilities,"Other Current Liabilities, Total",1962454
+Bank BCA,2021-09-30,Liabilities,Non-Current Liabilities,Other Liabilities Total,12135839
+Bank BCA,2021-09-30,Liabilities,Current Liabilities,Total Short Term Borrowings,43460
+Bank BCA,2021-09-30,Liabilities,Non-Current Liabilities,Other Liabilities Total,12135839
+Bank BCA,2021-09-30,Liabilities,Current Liabilities,Accrued Expenses,18411614
+Bank BCA,2021-09-30,Liabilities,Current Liabilities,Accounts Payable,0
+Bank BCA,2021-09-30,Liabilities,Current Liabilities,Total Deposits,930729738
+Bank BCA,2021-06-30,Assets,"Other Assets, Total",Other Assets,22976239
+Bank BCA,2021-06-30,Assets,Fixed Assets,"Goodwill, Net",1158201
+Bank BCA,2021-06-30,Assets,Fixed Assets,"Property/Plant/Equipment, Total - Net",21530422
+Bank BCA,2021-06-30,Assets,Current Assets,Cash and Due from Banks,165862287
+Bank BCA,2021-06-30,Assets,Current Assets,Other Earning Assets,303330452
+Bank BCA,2021-06-30,Assets,Fixed Assets,"Other Long Term Assets, Total",5842225
+Bank BCA,2021-06-30,Assets,Non-Current Assets,Net Loans,560595826
+Bank BCA,2021-06-30,Equities,Unrealized Gain (Loss),Unrealized Gain (Loss),6023199
+Bank BCA,2021-06-30,Equities,Retained Earnings,Retained Earnings,164345981
+Bank BCA,2021-06-30,Equities,Additional Paid-In Capital,Additional Paid-In Capital,5548977
+Bank BCA,2021-06-30,Equities,"Other Equity, Total",Other Equity,5548977
+Bank BCA,2021-06-30,Equities,"Common Stock, Total",Common Stock,1540938
+Bank BCA,2021-06-30,Liabilities,Current Liabilities,"Other Bearing Liabilities, Total",6338543
+Bank BCA,2021-06-30,Liabilities,Non-Current Liabilities,Deferred Income Tax,4222
+Bank BCA,2021-06-30,Liabilities,Non-Current Liabilities,Total Long Term Debt,1084206
+Bank BCA,2021-06-30,Liabilities,Current Liabilities,"Other Current Liabilities, Total",1967943
+Bank BCA,2021-06-30,Liabilities,Non-Current Liabilities,Other Liabilities Total,13813111
+Bank BCA,2021-06-30,Liabilities,Current Liabilities,Total Short Term Borrowings,43944
+Bank BCA,2021-06-30,Liabilities,Non-Current Liabilities,Other Liabilities Total,13813111
+Bank BCA,2021-06-30,Liabilities,Current Liabilities,Accrued Expenses,16837623
+Bank BCA,2021-06-30,Liabilities,Current Liabilities,Accounts Payable,0
+Bank BCA,2021-06-30,Liabilities,Current Liabilities,Total Deposits,901639330
+Bank BCA,2021-03-31,Assets,"Other Assets, Total",Other Assets,24318782
+Bank BCA,2021-03-31,Assets,Fixed Assets,"Goodwill, Net",1158201
+Bank BCA,2021-03-31,Assets,Fixed Assets,"Property/Plant/Equipment, Total - Net",21621435
+Bank BCA,2021-03-31,Assets,Current Assets,Cash and Due from Banks,89030970
+Bank BCA,2021-03-31,Assets,Current Assets,Other Earning Assets,340028522
+Bank BCA,2021-03-31,Assets,Fixed Assets,"Other Long Term Assets, Total",6249282
+Bank BCA,2021-03-31,Assets,Non-Current Assets,Net Loans,556267015
+Bank BCA,2021-03-31,Equities,Unrealized Gain (Loss),Unrealized Gain (Loss),4782159
+Bank BCA,2021-03-31,Equities,Retained Earnings,Retained Earnings,156929826
+Bank BCA,2021-03-31,Equities,Additional Paid-In Capital,Additional Paid-In Capital,5548977
+Bank BCA,2021-03-31,Equities,"Other Equity, Total",Other Equity,5548977
+Bank BCA,2021-03-31,Equities,"Common Stock, Total",Common Stock,1540938
+Bank BCA,2021-03-31,Liabilities,Current Liabilities,"Other Bearing Liabilities, Total",5919790
+Bank BCA,2021-03-31,Liabilities,Non-Current Liabilities,Deferred Income Tax,2738
+Bank BCA,2021-03-31,Liabilities,Non-Current Liabilities,Total Long Term Debt,1099202
+Bank BCA,2021-03-31,Liabilities,Current Liabilities,"Other Current Liabilities, Total",3032853
+Bank BCA,2021-03-31,Liabilities,Non-Current Liabilities,Other Liabilities Total,14019515
+Bank BCA,2021-03-31,Liabilities,Current Liabilities,Total Short Term Borrowings,169894
+Bank BCA,2021-03-31,Liabilities,Non-Current Liabilities,Other Liabilities Total,14019515
+Bank BCA,2021-03-31,Liabilities,Current Liabilities,Accrued Expenses,30446527
+Bank BCA,2021-03-31,Liabilities,Current Liabilities,Accounts Payable,0
+Bank BCA,2021-03-31,Liabilities,Current Liabilities,Total Deposits,856714388
+Bank BCA,2020-12-31,Assets,"Other Assets, Total",Other Assets,24705681
+Bank BCA,2020-12-31,Assets,Fixed Assets,"Goodwill, Net",1158201
+Bank BCA,2020-12-31,Assets,Fixed Assets,"Property/Plant/Equipment, Total - Net",21915054
+Bank BCA,2020-12-31,Assets,Current Assets,Cash and Due from Banks,111227812
+Bank BCA,2020-12-31,Assets,Current Assets,Other Earning Assets,322155779
+Bank BCA,2020-12-31,Assets,Fixed Assets,"Other Long Term Assets, Total",4880722
+Bank BCA,2020-12-31,Assets,Non-Current Assets,Net Loans,560757929
+Bank BCA,2020-12-31,Equities,Unrealized Gain (Loss),Unrealized Gain (Loss),7070825
+Bank BCA,2020-12-31,Equities,Retained Earnings,Retained Earnings,160541080
+Bank BCA,2020-12-31,Equities,Additional Paid-In Capital,Additional Paid-In Capital,5548977
+Bank BCA,2020-12-31,Equities,"Other Equity, Total",Other Equity,5548977
+Bank BCA,2020-12-31,Equities,"Common Stock, Total",Common Stock,1540938
+Bank BCA,2020-12-31,Liabilities,Current Liabilities,"Other Bearing Liabilities, Total",4400045
+Bank BCA,2020-12-31,Liabilities,Non-Current Liabilities,Deferred Income Tax,5957
+Bank BCA,2020-12-31,Liabilities,Non-Current Liabilities,Total Long Term Debt,1112306
+Bank BCA,2020-12-31,Liabilities,Current Liabilities,"Other Current Liabilities, Total",2272189
+Bank BCA,2020-12-31,Liabilities,Non-Current Liabilities,Other Liabilities Total,13322725
+Bank BCA,2020-12-31,Liabilities,Current Liabilities,Total Short Term Borrowings,0
+Bank BCA,2020-12-31,Liabilities,Non-Current Liabilities,Other Liabilities Total,13322725
+Bank BCA,2020-12-31,Liabilities,Current Liabilities,Accrued Expenses,17540226
+Bank BCA,2020-12-31,Liabilities,Current Liabilities,Accounts Payable,0
+Bank BCA,2020-12-31,Liabilities,Current Liabilities,Total Deposits,850916286
+Bank BCA,2020-09-30,Assets,"Other Assets, Total",Other Assets,22235975
+Bank BCA,2020-09-30,Assets,Fixed Assets,"Goodwill, Net",1158200
+Bank BCA,2020-09-30,Assets,Fixed Assets,"Property/Plant/Equipment, Total - Net",21456413
+Bank BCA,2020-09-30,Assets,Current Assets,Cash and Due from Banks,97920758
+Bank BCA,2020-09-30,Assets,Current Assets,Other Earning Assets,304186621
+Bank BCA,2020-09-30,Assets,Fixed Assets,"Other Long Term Assets, Total",5133208
+Bank BCA,2020-09-30,Assets,Non-Current Assets,Net Loans,553936034
+Bank BCA,2020-09-30,Equities,Unrealized Gain (Loss),Unrealized Gain (Loss),4949515
+Bank BCA,2020-09-30,Equities,Retained Earnings,Retained Earnings,157062728
+Bank BCA,2020-09-30,Equities,Additional Paid-In Capital,Additional Paid-In Capital,5548977
+Bank BCA,2020-09-30,Equities,"Other Equity, Total",Other Equity,5548977
+Bank BCA,2020-09-30,Equities,"Common Stock, Total",Common Stock,1540938
+Bank BCA,2020-09-30,Liabilities,Current Liabilities,"Other Bearing Liabilities, Total",4729138
+Bank BCA,2020-09-30,Liabilities,Non-Current Liabilities,Deferred Income Tax,3397
+Bank BCA,2020-09-30,Liabilities,Non-Current Liabilities,Total Long Term Debt,1344101
+Bank BCA,2020-09-30,Liabilities,Current Liabilities,"Other Current Liabilities, Total",1953933
+Bank BCA,2020-09-30,Liabilities,Non-Current Liabilities,Other Liabilities Total,12351016
+Bank BCA,2020-09-30,Liabilities,Current Liabilities,Total Short Term Borrowings,46148
+Bank BCA,2020-09-30,Liabilities,Non-Current Liabilities,Other Liabilities Total,12351016
+Bank BCA,2020-09-30,Liabilities,Current Liabilities,Accrued Expenses,16564869
+Bank BCA,2020-09-30,Liabilities,Current Liabilities,Accounts Payable,0
+Bank BCA,2020-09-30,Liabilities,Current Liabilities,Total Deposits,786593856
+Bank BCA,2020-06-30,Assets,"Other Assets, Total",Other Assets,23599902
+Bank BCA,2020-06-30,Assets,Fixed Assets,"Goodwill, Net",855830
+Bank BCA,2020-06-30,Assets,Fixed Assets,"Property/Plant/Equipment, Total - Net",21440775
+Bank BCA,2020-06-30,Assets,Current Assets,Cash and Due from Banks,94440078
+Bank BCA,2020-06-30,Assets,Current Assets,Other Earning Assets,313191233
+Bank BCA,2020-06-30,Assets,Fixed Assets,"Other Long Term Assets, Total",5179435
+Bank BCA,2020-06-30,Assets,Non-Current Assets,Net Loans,569232278
+Bank BCA,2020-06-30,Equities,Unrealized Gain (Loss),Unrealized Gain (Loss),2910572
+Bank BCA,2020-06-30,Equities,Retained Earnings,Retained Earnings,149267553
+Bank BCA,2020-06-30,Equities,Additional Paid-In Capital,Additional Paid-In Capital,5548977
+Bank BCA,2020-06-30,Equities,"Other Equity, Total",Other Equity,5548977
+Bank BCA,2020-06-30,Equities,"Common Stock, Total",Common Stock,1540938
+Bank BCA,2020-06-30,Liabilities,Current Liabilities,"Other Bearing Liabilities, Total",4455097
+Bank BCA,2020-06-30,Liabilities,Non-Current Liabilities,Deferred Income Tax,2783
+Bank BCA,2020-06-30,Liabilities,Non-Current Liabilities,Total Long Term Debt,1366540
+Bank BCA,2020-06-30,Liabilities,Current Liabilities,"Other Current Liabilities, Total",1688877
+Bank BCA,2020-06-30,Liabilities,Non-Current Liabilities,Other Liabilities Total,11946136
+Bank BCA,2020-06-30,Liabilities,Current Liabilities,Total Short Term Borrowings,21568
+Bank BCA,2020-06-30,Liabilities,Non-Current Liabilities,Other Liabilities Total,11946136
+Bank BCA,2020-06-30,Liabilities,Current Liabilities,Accrued Expenses,18673525
+Bank BCA,2020-06-30,Liabilities,Current Liabilities,Accounts Payable,0
+Bank BCA,2020-06-30,Liabilities,Current Liabilities,Total Deposits,766848279
+Bank BCA,2020-03-31,Assets,"Other Assets, Total",Other Assets,22463607
+Bank BCA,2020-03-31,Assets,Fixed Assets,"Goodwill, Net",855830
+Bank BCA,2020-03-31,Assets,Fixed Assets,"Property/Plant/Equipment, Total - Net",21469601
+Bank BCA,2020-03-31,Assets,Current Assets,Cash and Due from Banks,114108547
+Bank BCA,2020-03-31,Assets,Current Assets,Other Earning Assets,303334756
+Bank BCA,2020-03-31,Assets,Fixed Assets,"Other Long Term Assets, Total",5587584
+Bank BCA,2020-03-31,Assets,Non-Current Assets,Net Loans,589507626
+Bank BCA,2020-03-31,Equities,Unrealized Gain (Loss),Unrealized Gain (Loss),-391971
+Bank BCA,2020-03-31,Equities,Retained Earnings,Retained Earnings,154933125
+Bank BCA,2020-03-31,Equities,Additional Paid-In Capital,Additional Paid-In Capital,5548977
+Bank BCA,2020-03-31,Equities,"Other Equity, Total",Other Equity,5548977
+Bank BCA,2020-03-31,Equities,"Common Stock, Total",Common Stock,1540938
+Bank BCA,2020-03-31,Liabilities,Current Liabilities,"Other Bearing Liabilities, Total",5776462
+Bank BCA,2020-03-31,Liabilities,Non-Current Liabilities,Deferred Income Tax,0
+Bank BCA,2020-03-31,Liabilities,Non-Current Liabilities,Total Long Term Debt,1409778
+Bank BCA,2020-03-31,Liabilities,Current Liabilities,"Other Current Liabilities, Total",1781433
+Bank BCA,2020-03-31,Liabilities,Non-Current Liabilities,Other Liabilities Total,20073932
+Bank BCA,2020-03-31,Liabilities,Current Liabilities,Total Short Term Borrowings,4918255
+Bank BCA,2020-03-31,Liabilities,Non-Current Liabilities,Other Liabilities Total,20073932
+Bank BCA,2020-03-31,Liabilities,Current Liabilities,Accrued Expenses,17988300
+Bank BCA,2020-03-31,Liabilities,Current Liabilities,Accounts Payable,0
+Bank BCA,2020-03-31,Liabilities,Current Liabilities,Total Deposits,747447208
+Bank BCA,2019-12-31,Assets,"Other Assets, Total",Other Assets,22602919
+Bank BCA,2019-12-31,Assets,Fixed Assets,"Goodwill, Net",855830
+Bank BCA,2019-12-31,Assets,Fixed Assets,"Property/Plant/Equipment, Total - Net",20852301
+Bank BCA,2019-12-31,Assets,Current Assets,Cash and Due from Banks,114796041
+Bank BCA,2019-12-31,Assets,Current Assets,Other Earning Assets,242796134
+Bank BCA,2019-12-31,Assets,Fixed Assets,"Other Long Term Assets, Total",3184290
+Bank BCA,2019-12-31,Assets,Non-Current Assets,Net Loans,588215138
+Bank BCA,2019-12-31,Equities,Unrealized Gain (Loss),Unrealized Gain (Loss),1951554
+Bank BCA,2019-12-31,Equities,Retained Earnings,Retained Earnings,155115533
+Bank BCA,2019-12-31,Equities,Additional Paid-In Capital,Additional Paid-In Capital,5548977
+Bank BCA,2019-12-31,Equities,"Other Equity, Total",Other Equity,5548977
+Bank BCA,2019-12-31,Equities,"Common Stock, Total",Common Stock,1540938
+Bank BCA,2019-12-31,Liabilities,Current Liabilities,"Other Bearing Liabilities, Total",5321249
+Bank BCA,2019-12-31,Liabilities,Non-Current Liabilities,Deferred Income Tax,0
+Bank BCA,2019-12-31,Liabilities,Non-Current Liabilities,Total Long Term Debt,1339330
+Bank BCA,2019-12-31,Liabilities,Current Liabilities,"Other Current Liabilities, Total",1635469
+Bank BCA,2019-12-31,Liabilities,Non-Current Liabilities,Other Liabilities Total,8061330
+Bank BCA,2019-12-31,Liabilities,Current Liabilities,Total Short Term Borrowings,113249
+Bank BCA,2019-12-31,Liabilities,Non-Current Liabilities,Other Liabilities Total,8061330
+Bank BCA,2019-12-31,Liabilities,Current Liabilities,Accrued Expenses,14022369
+Bank BCA,2019-12-31,Liabilities,Current Liabilities,Accounts Payable,0
+Bank BCA,2019-12-31,Liabilities,Current Liabilities,Total Deposits,711512097
+Bank BCA,2019-09-30,Assets,"Other Assets, Total",Other Assets,22775413
+Bank BCA,2019-09-30,Assets,Fixed Assets,"Goodwill, Net",167625
+Bank BCA,2019-09-30,Assets,Fixed Assets,"Property/Plant/Equipment, Total - Net",19327413
+Bank BCA,2019-09-30,Assets,Current Assets,Cash and Due from Banks,107976538
+Bank BCA,2019-09-30,Assets,Current Assets,Other Earning Assets,222225330
+Bank BCA,2019-09-30,Assets,Fixed Assets,"Other Long Term Assets, Total",2921079
+Bank BCA,2019-09-30,Assets,Non-Current Assets,Net Loans,569718552
+Bank BCA,2019-09-30,Equities,Unrealized Gain (Loss),Unrealized Gain (Loss),1479312
+Bank BCA,2019-09-30,Equities,Retained Earnings,Retained Earnings,150209258
+Bank BCA,2019-09-30,Equities,Additional Paid-In Capital,Additional Paid-In Capital,5548977
+Bank BCA,2019-09-30,Equities,"Other Equity, Total",Other Equity,5548977
+Bank BCA,2019-09-30,Equities,"Common Stock, Total",Common Stock,1540938
+Bank BCA,2019-09-30,Liabilities,Current Liabilities,"Other Bearing Liabilities, Total",5845943
+Bank BCA,2019-09-30,Liabilities,Non-Current Liabilities,Deferred Income Tax,0
+Bank BCA,2019-09-30,Liabilities,Non-Current Liabilities,Total Long Term Debt,568803
+Bank BCA,2019-09-30,Liabilities,Current Liabilities,"Other Current Liabilities, Total",1184009
+Bank BCA,2019-09-30,Liabilities,Non-Current Liabilities,Other Liabilities Total,7215292
+Bank BCA,2019-09-30,Liabilities,Current Liabilities,Total Short Term Borrowings,117289
+Bank BCA,2019-09-30,Liabilities,Non-Current Liabilities,Other Liabilities Total,7215292
+Bank BCA,2019-09-30,Liabilities,Current Liabilities,Accrued Expenses,16913458
+Bank BCA,2019-09-30,Liabilities,Current Liabilities,Accounts Payable,0
+Bank BCA,2019-09-30,Liabilities,Current Liabilities,Total Deposits,691064720
+Bank BCA,2019-06-30,Assets,"Other Assets, Total",Other Assets,20548651
+Bank BCA,2019-06-30,Assets,Fixed Assets,"Goodwill, Net",167626
+Bank BCA,2019-06-30,Assets,Fixed Assets,"Property/Plant/Equipment, Total - Net",19306097
+Bank BCA,2019-06-30,Assets,Current Assets,Cash and Due from Banks,104678165
+Bank BCA,2019-06-30,Assets,Current Assets,Other Earning Assets,223512506
+Bank BCA,2019-06-30,Assets,Fixed Assets,"Other Long Term Assets, Total",2985952
+Bank BCA,2019-06-30,Assets,Non-Current Assets,Net Loans,550412423
+Bank BCA,2019-06-30,Equities,Unrealized Gain (Loss),Unrealized Gain (Loss),1242729
+Bank BCA,2019-06-30,Equities,Retained Earnings,Retained Earnings,142147537
+Bank BCA,2019-06-30,Equities,Additional Paid-In Capital,Additional Paid-In Capital,5548977
+Bank BCA,2019-06-30,Equities,"Other Equity, Total",Other Equity,5548977
+Bank BCA,2019-06-30,Equities,"Common Stock, Total",Common Stock,1540938
+Bank BCA,2019-06-30,Liabilities,Current Liabilities,"Other Bearing Liabilities, Total",5511263
+Bank BCA,2019-06-30,Liabilities,Non-Current Liabilities,Deferred Income Tax,0
+Bank BCA,2019-06-30,Liabilities,Non-Current Liabilities,Total Long Term Debt,645263
+Bank BCA,2019-06-30,Liabilities,Current Liabilities,"Other Current Liabilities, Total",1232963
+Bank BCA,2019-06-30,Liabilities,Non-Current Liabilities,Other Liabilities Total,6940801
+Bank BCA,2019-06-30,Liabilities,Current Liabilities,Total Short Term Borrowings,62922
+Bank BCA,2019-06-30,Liabilities,Non-Current Liabilities,Other Liabilities Total,6940801
+Bank BCA,2019-06-30,Liabilities,Current Liabilities,Accrued Expenses,15045968
+Bank BCA,2019-06-30,Liabilities,Current Liabilities,Accounts Payable,0
+Bank BCA,2019-06-30,Liabilities,Current Liabilities,Total Deposits,679482675
+Bank BCA,2019-03-31,Assets,"Other Assets, Total",Other Assets,21266676
+Bank BCA,2019-03-31,Assets,Fixed Assets,"Goodwill, Net",167626
+Bank BCA,2019-03-31,Assets,Fixed Assets,"Property/Plant/Equipment, Total - Net",19327705
+Bank BCA,2019-03-31,Assets,Current Assets,Cash and Due from Banks,100475652
+Bank BCA,2019-03-31,Assets,Current Assets,Other Earning Assets,222379497
+Bank BCA,2019-03-31,Assets,Fixed Assets,"Other Long Term Assets, Total",2795604
+Bank BCA,2019-03-31,Assets,Non-Current Assets,Net Loans,530947904
+Bank BCA,2019-03-31,Equities,Unrealized Gain (Loss),Unrealized Gain (Loss),908666
+Bank BCA,2019-03-31,Equities,Retained Earnings,Retained Earnings,141634685
+Bank BCA,2019-03-31,Equities,Additional Paid-In Capital,Additional Paid-In Capital,5548977
+Bank BCA,2019-03-31,Equities,"Other Equity, Total",Other Equity,5548977
+Bank BCA,2019-03-31,Equities,"Common Stock, Total",Common Stock,1540938
+Bank BCA,2019-03-31,Liabilities,Current Liabilities,"Other Bearing Liabilities, Total",5796274
+Bank BCA,2019-03-31,Liabilities,Non-Current Liabilities,Deferred Income Tax,0
+Bank BCA,2019-03-31,Liabilities,Non-Current Liabilities,Total Long Term Debt,605161
+Bank BCA,2019-03-31,Liabilities,Current Liabilities,"Other Current Liabilities, Total",1489636
+Bank BCA,2019-03-31,Liabilities,Non-Current Liabilities,Other Liabilities Total,6850825
+Bank BCA,2019-03-31,Liabilities,Current Liabilities,Total Short Term Borrowings,70445
+Bank BCA,2019-03-31,Liabilities,Non-Current Liabilities,Other Liabilities Total,6850825
+Bank BCA,2019-03-31,Liabilities,Current Liabilities,Accrued Expenses,15494597
+Bank BCA,2019-03-31,Liabilities,Current Liabilities,Accounts Payable,0
+Bank BCA,2019-03-31,Liabilities,Current Liabilities,Total Deposits,640113330
+Bank BCA,2018-12-31,Assets,"Other Assets, Total",Other Assets,23343693
+Bank BCA,2018-12-31,Assets,Fixed Assets,"Goodwill, Net",167625
+Bank BCA,2018-12-31,Assets,Fixed Assets,"Property/Plant/Equipment, Total - Net",19336901
+Bank BCA,2018-12-31,Assets,Current Assets,Cash and Due from Banks,105420501
+Bank BCA,2018-12-31,Assets,Current Assets,Other Earning Assets,194596556
+Bank BCA,2018-12-31,Assets,Fixed Assets,"Other Long Term Assets, Total",3147666
+Bank BCA,2018-12-31,Assets,Non-Current Assets,Net Loans,537142396
+Bank BCA,2018-12-31,Equities,Unrealized Gain (Loss),Unrealized Gain (Loss),-132647
+Bank BCA,2018-12-31,Equities,Retained Earnings,Retained Earnings,135570246
+Bank BCA,2018-12-31,Equities,Additional Paid-In Capital,Additional Paid-In Capital,5548977
+Bank BCA,2018-12-31,Equities,"Other Equity, Total",Other Equity,5548977
+Bank BCA,2018-12-31,Equities,"Common Stock, Total",Common Stock,1540938
+Bank BCA,2018-12-31,Liabilities,Current Liabilities,"Other Bearing Liabilities, Total",5843486
+Bank BCA,2018-12-31,Liabilities,Non-Current Liabilities,Deferred Income Tax,0
+Bank BCA,2018-12-31,Liabilities,Non-Current Liabilities,Total Long Term Debt,731145
+Bank BCA,2018-12-31,Liabilities,Current Liabilities,"Other Current Liabilities, Total",1165336
+Bank BCA,2018-12-31,Liabilities,Non-Current Liabilities,Other Liabilities Total,6594991
+Bank BCA,2018-12-31,Liabilities,Current Liabilities,Total Short Term Borrowings,48111
+Bank BCA,2018-12-31,Liabilities,Non-Current Liabilities,Other Liabilities Total,6594991
+Bank BCA,2018-12-31,Liabilities,Current Liabilities,Accrued Expenses,15025822
+Bank BCA,2018-12-31,Liabilities,Current Liabilities,Accounts Payable,0
+Bank BCA,2018-12-31,Liabilities,Current Liabilities,Total Deposits,641523561
+Bank BCA,2018-09-30,Assets,"Other Assets, Total",Other Assets,20123579
+Bank BCA,2018-09-30,Assets,Fixed Assets,"Goodwill, Net",167347
+Bank BCA,2018-09-30,Assets,Fixed Assets,"Property/Plant/Equipment, Total - Net",16715097
+Bank BCA,2018-09-30,Assets,Current Assets,Cash and Due from Banks,102333136
+Bank BCA,2018-09-30,Assets,Current Assets,Other Earning Assets,209260444
+Bank BCA,2018-09-30,Assets,Fixed Assets,"Other Long Term Assets, Total",3179622
+Bank BCA,2018-09-30,Assets,Non-Current Assets,Net Loans,513602776
+Bank BCA,2018-09-30,Equities,Unrealized Gain (Loss),Unrealized Gain (Loss),-467698
+Bank BCA,2018-09-30,Equities,Retained Earnings,Retained Earnings,129996873
+Bank BCA,2018-09-30,Equities,Additional Paid-In Capital,Additional Paid-In Capital,5548977
+Bank BCA,2018-09-30,Equities,"Other Equity, Total",Other Equity,5548977
+Bank BCA,2018-09-30,Equities,"Common Stock, Total",Common Stock,1540938
+Bank BCA,2018-09-30,Liabilities,Current Liabilities,"Other Bearing Liabilities, Total",6473612
+Bank BCA,2018-09-30,Liabilities,Non-Current Liabilities,Deferred Income Tax,0
+Bank BCA,2018-09-30,Liabilities,Non-Current Liabilities,Total Long Term Debt,774201
+Bank BCA,2018-09-30,Liabilities,Current Liabilities,"Other Current Liabilities, Total",1120808
+Bank BCA,2018-09-30,Liabilities,Non-Current Liabilities,Other Liabilities Total,8728178
+Bank BCA,2018-09-30,Liabilities,Current Liabilities,Total Short Term Borrowings,34865
+Bank BCA,2018-09-30,Liabilities,Non-Current Liabilities,Other Liabilities Total,8728178
+Bank BCA,2018-09-30,Liabilities,Current Liabilities,Accrued Expenses,12575770
+Bank BCA,2018-09-30,Liabilities,Current Liabilities,Accounts Payable,0
+Bank BCA,2018-09-30,Liabilities,Current Liabilities,Total Deposits,624092144
+Bank BCA,2018-06-30,Assets,"Other Assets, Total",Other Assets,17082556
+Bank BCA,2018-06-30,Assets,Fixed Assets,"Goodwill, Net",167347
+Bank BCA,2018-06-30,Assets,Fixed Assets,"Property/Plant/Equipment, Total - Net",16811900
+Bank BCA,2018-06-30,Assets,Current Assets,Cash and Due from Banks,107620396
+Bank BCA,2018-06-30,Assets,Current Assets,Other Earning Assets,218516515
+Bank BCA,2018-06-30,Assets,Fixed Assets,"Other Long Term Assets, Total",3141489
+Bank BCA,2018-06-30,Assets,Non-Current Assets,Net Loans,493238422
+Bank BCA,2018-06-30,Equities,Unrealized Gain (Loss),Unrealized Gain (Loss),-217500
+Bank BCA,2018-06-30,Equities,Retained Earnings,Retained Earnings,122909813
+Bank BCA,2018-06-30,Equities,Additional Paid-In Capital,Additional Paid-In Capital,5548977
+Bank BCA,2018-06-30,Equities,"Other Equity, Total",Other Equity,5548977
+Bank BCA,2018-06-30,Equities,"Common Stock, Total",Common Stock,1540938
+Bank BCA,2018-06-30,Liabilities,Current Liabilities,"Other Bearing Liabilities, Total",5258732
+Bank BCA,2018-06-30,Liabilities,Non-Current Liabilities,Deferred Income Tax,0
+Bank BCA,2018-06-30,Liabilities,Non-Current Liabilities,Total Long Term Debt,317257
+Bank BCA,2018-06-30,Liabilities,Current Liabilities,"Other Current Liabilities, Total",637378
+Bank BCA,2018-06-30,Liabilities,Non-Current Liabilities,Other Liabilities Total,7921300
+Bank BCA,2018-06-30,Liabilities,Current Liabilities,Total Short Term Borrowings,194595
+Bank BCA,2018-06-30,Liabilities,Non-Current Liabilities,Other Liabilities Total,7921300
+Bank BCA,2018-06-30,Liabilities,Current Liabilities,Accrued Expenses,12857580
+Bank BCA,2018-06-30,Liabilities,Current Liabilities,Accounts Payable,0
+Bank BCA,2018-06-30,Liabilities,Current Liabilities,Total Deposits,625824218
+Bank BCA,2018-03-31,Assets,"Other Assets, Total",Other Assets,16373947
+Bank BCA,2018-03-31,Assets,Fixed Assets,"Goodwill, Net",167347
+Bank BCA,2018-03-31,Assets,Fixed Assets,"Property/Plant/Equipment, Total - Net",16874656
+Bank BCA,2018-03-31,Assets,Current Assets,Cash and Due from Banks,83992691
+Bank BCA,2018-03-31,Assets,Current Assets,Other Earning Assets,256690189
+Bank BCA,2018-03-31,Assets,Fixed Assets,"Other Long Term Assets, Total",2923623
+Bank BCA,2018-03-31,Assets,Non-Current Assets,Net Loans,468623457
+Bank BCA,2018-03-31,Equities,Unrealized Gain (Loss),Unrealized Gain (Loss),1008413
+Bank BCA,2018-03-31,Equities,Retained Earnings,Retained Earnings,121311519
+Bank BCA,2018-03-31,Equities,Additional Paid-In Capital,Additional Paid-In Capital,5548977
+Bank BCA,2018-03-31,Equities,"Other Equity, Total",Other Equity,5548977
+Bank BCA,2018-03-31,Equities,"Common Stock, Total",Common Stock,1540938
+Bank BCA,2018-03-31,Liabilities,Current Liabilities,"Other Bearing Liabilities, Total",5812748
+Bank BCA,2018-03-31,Liabilities,Non-Current Liabilities,Deferred Income Tax,0
+Bank BCA,2018-03-31,Liabilities,Non-Current Liabilities,Total Long Term Debt,569687
+Bank BCA,2018-03-31,Liabilities,Current Liabilities,"Other Current Liabilities, Total",579013
+Bank BCA,2018-03-31,Liabilities,Non-Current Liabilities,Other Liabilities Total,6685975
+Bank BCA,2018-03-31,Liabilities,Current Liabilities,Total Short Term Borrowings,178052
+Bank BCA,2018-03-31,Liabilities,Non-Current Liabilities,Other Liabilities Total,6685975
+Bank BCA,2018-03-31,Liabilities,Current Liabilities,Accrued Expenses,12861782
+Bank BCA,2018-03-31,Liabilities,Current Liabilities,Accounts Payable,0
+Bank BCA,2018-03-31,Liabilities,Current Liabilities,Total Deposits,595034765
+Bank BCA,2017-12-31,Assets,"Other Assets, Total",Other Assets,18596833
+Bank BCA,2017-12-31,Assets,Fixed Assets,"Goodwill, Net",0
+Bank BCA,2017-12-31,Assets,Fixed Assets,"Property/Plant/Equipment, Total - Net",16868949
+Bank BCA,2017-12-31,Assets,Current Assets,Cash and Due from Banks,88290295
+Bank BCA,2017-12-31,Assets,Current Assets,Other Earning Assets,147102116
+Bank BCA,2017-12-31,Assets,Fixed Assets,"Other Long Term Assets, Total",3219241
+Bank BCA,2017-12-31,Assets,Non-Current Assets,Net Loans,467079695
+Bank BCA,2017-12-31,Equities,Unrealized Gain (Loss),Unrealized Gain (Loss),1274336
+Bank BCA,2017-12-31,Equities,Retained Earnings,Retained Earnings,115999707
+Bank BCA,2017-12-31,Equities,Additional Paid-In Capital,Additional Paid-In Capital,5548977
+Bank BCA,2017-12-31,Equities,"Other Equity, Total",Other Equity,5548977
+Bank BCA,2017-12-31,Equities,"Common Stock, Total",Common Stock,1540938
+Bank BCA,2017-12-31,Liabilities,Current Liabilities,"Other Bearing Liabilities, Total",5800477
+Bank BCA,2017-12-31,Liabilities,Non-Current Liabilities,Deferred Income Tax,0
+Bank BCA,2017-12-31,Liabilities,Non-Current Liabilities,Total Long Term Debt,592336
+Bank BCA,2017-12-31,Liabilities,Current Liabilities,"Other Current Liabilities, Total",147398
+Bank BCA,2017-12-31,Liabilities,Non-Current Liabilities,Other Liabilities Total,6560126
+Bank BCA,2017-12-31,Liabilities,Current Liabilities,Total Short Term Borrowings,96225
+Bank BCA,2017-12-31,Liabilities,Non-Current Liabilities,Other Liabilities Total,6560126
+Bank BCA,2017-12-31,Liabilities,Current Liabilities,Accrued Expenses,11332381
+Bank BCA,2017-12-31,Liabilities,Current Liabilities,Accounts Payable,0
+Bank BCA,2017-12-31,Liabilities,Current Liabilities,Total Deposits,591330269
+Bank BCA,2017-09-30,Assets,"Other Assets, Total",Other Assets,13828373
+Bank BCA,2017-09-30,Assets,Fixed Assets,"Goodwill, Net",0
+Bank BCA,2017-09-30,Assets,Fixed Assets,"Property/Plant/Equipment, Total - Net",16775300
+Bank BCA,2017-09-30,Assets,Current Assets,Cash and Due from Banks,89429068
+Bank BCA,2017-09-30,Assets,Current Assets,Other Earning Assets,128546468
+Bank BCA,2017-09-30,Assets,Fixed Assets,"Other Long Term Assets, Total",3051627
+Bank BCA,2017-09-30,Assets,Non-Current Assets,Net Loans,438599112
+Bank BCA,2017-09-30,Equities,Unrealized Gain (Loss),Unrealized Gain (Loss),1145458
+Bank BCA,2017-09-30,Equities,Retained Earnings,Retained Earnings,112140462
+Bank BCA,2017-09-30,Equities,Additional Paid-In Capital,Additional Paid-In Capital,5549468
+Bank BCA,2017-09-30,Equities,"Other Equity, Total",Other Equity,5549468
+Bank BCA,2017-09-30,Equities,"Common Stock, Total",Common Stock,1540938
+Bank BCA,2017-09-30,Liabilities,Current Liabilities,"Other Bearing Liabilities, Total",5662979
+Bank BCA,2017-09-30,Liabilities,Non-Current Liabilities,Deferred Income Tax,0
+Bank BCA,2017-09-30,Liabilities,Non-Current Liabilities,Total Long Term Debt,673331
+Bank BCA,2017-09-30,Liabilities,Current Liabilities,"Other Current Liabilities, Total",563853
+Bank BCA,2017-09-30,Liabilities,Non-Current Liabilities,Other Liabilities Total,5787333
+Bank BCA,2017-09-30,Liabilities,Current Liabilities,Total Short Term Borrowings,487343
+Bank BCA,2017-09-30,Liabilities,Non-Current Liabilities,Other Liabilities Total,5787333
+Bank BCA,2017-09-30,Liabilities,Current Liabilities,Accrued Expenses,10294775
+Bank BCA,2017-09-30,Liabilities,Current Liabilities,Accounts Payable,0
+Bank BCA,2017-09-30,Liabilities,Current Liabilities,Total Deposits,586260114
+Bank BCA,2017-06-30,Assets,"Other Assets, Total",Other Assets,21970222
+Bank BCA,2017-06-30,Assets,Fixed Assets,"Goodwill, Net",0
+Bank BCA,2017-06-30,Assets,Fixed Assets,"Property/Plant/Equipment, Total - Net",16813183
+Bank BCA,2017-06-30,Assets,Current Assets,Cash and Due from Banks,118265883
+Bank BCA,2017-06-30,Assets,Current Assets,Other Earning Assets,141786918
+Bank BCA,2017-06-30,Assets,Fixed Assets,"Other Long Term Assets, Total",3121374
+Bank BCA,2017-06-30,Assets,Non-Current Assets,Net Loans,432775230
+Bank BCA,2017-06-30,Equities,Unrealized Gain (Loss),Unrealized Gain (Loss),734794
+Bank BCA,2017-06-30,Equities,Retained Earnings,Retained Earnings,105833520
+Bank BCA,2017-06-30,Equities,Additional Paid-In Capital,Additional Paid-In Capital,5564552
+Bank BCA,2017-06-30,Equities,"Other Equity, Total",Other Equity,5564552
+Bank BCA,2017-06-30,Equities,"Common Stock, Total",Common Stock,1540938
+Bank BCA,2017-06-30,Liabilities,Current Liabilities,"Other Bearing Liabilities, Total",5625034
+Bank BCA,2017-06-30,Liabilities,Non-Current Liabilities,Deferred Income Tax,0
+Bank BCA,2017-06-30,Liabilities,Non-Current Liabilities,Total Long Term Debt,657136
+Bank BCA,2017-06-30,Liabilities,Current Liabilities,"Other Current Liabilities, Total",237158
+Bank BCA,2017-06-30,Liabilities,Non-Current Liabilities,Other Liabilities Total,5867854
+Bank BCA,2017-06-30,Liabilities,Current Liabilities,Total Short Term Borrowings,153009
+Bank BCA,2017-06-30,Liabilities,Non-Current Liabilities,Other Liabilities Total,5867854
+Bank BCA,2017-06-30,Liabilities,Current Liabilities,Accrued Expenses,17746123
+Bank BCA,2017-06-30,Liabilities,Current Liabilities,Accounts Payable,0
+Bank BCA,2017-06-30,Liabilities,Current Liabilities,Total Deposits,584610889
+Bank BCA,2017-03-31,Assets,"Other Assets, Total",Other Assets,13071807
+Bank BCA,2017-03-31,Assets,Fixed Assets,"Goodwill, Net",0
+Bank BCA,2017-03-31,Assets,Fixed Assets,"Property/Plant/Equipment, Total - Net",16820017
+Bank BCA,2017-03-31,Assets,Current Assets,Cash and Due from Banks,85866875
+Bank BCA,2017-03-31,Assets,Current Assets,Other Earning Assets,142987440
+Bank BCA,2017-03-31,Assets,Fixed Assets,"Other Long Term Assets, Total",3259880
+Bank BCA,2017-03-31,Assets,Non-Current Assets,Net Loans,408628620
+Bank BCA,2017-03-31,Equities,Unrealized Gain (Loss),Unrealized Gain (Loss),593556
+Bank BCA,2017-03-31,Equities,Retained Earnings,Retained Earnings,103493232
+Bank BCA,2017-03-31,Equities,Additional Paid-In Capital,Additional Paid-In Capital,5564552
+Bank BCA,2017-03-31,Equities,"Other Equity, Total",Other Equity,5564552
+Bank BCA,2017-03-31,Equities,"Common Stock, Total",Common Stock,1540938
+Bank BCA,2017-03-31,Liabilities,Current Liabilities,"Other Bearing Liabilities, Total",4902050
+Bank BCA,2017-03-31,Liabilities,Non-Current Liabilities,Deferred Income Tax,0
+Bank BCA,2017-03-31,Liabilities,Non-Current Liabilities,Total Long Term Debt,706773
+Bank BCA,2017-03-31,Liabilities,Current Liabilities,"Other Current Liabilities, Total",250353
+Bank BCA,2017-03-31,Liabilities,Non-Current Liabilities,Other Liabilities Total,6048967
+Bank BCA,2017-03-31,Liabilities,Current Liabilities,Total Short Term Borrowings,149991
+Bank BCA,2017-03-31,Liabilities,Non-Current Liabilities,Other Liabilities Total,6048967
+Bank BCA,2017-03-31,Liabilities,Current Liabilities,Accrued Expenses,11382937
+Bank BCA,2017-03-31,Liabilities,Current Liabilities,Accounts Payable,0
+Bank BCA,2017-03-31,Liabilities,Current Liabilities,Total Deposits,543681902
+Bank BCA,2016-12-31,Assets,"Other Assets, Total",Other Assets,13098569
+Bank BCA,2016-12-31,Assets,Fixed Assets,"Goodwill, Net",0
+Bank BCA,2016-12-31,Assets,Fixed Assets,"Property/Plant/Equipment, Total - Net",16990835
+Bank BCA,2016-12-31,Assets,Current Assets,Cash and Due from Banks,104370627
+Bank BCA,2016-12-31,Assets,Current Assets,Other Earning Assets,121138565
+Bank BCA,2016-12-31,Assets,Fixed Assets,"Other Long Term Assets, Total",3548734
+Bank BCA,2016-12-31,Assets,Non-Current Assets,Net Loans,415179073
+Bank BCA,2016-12-31,Equities,Unrealized Gain (Loss),Unrealized Gain (Loss),-131961
+Bank BCA,2016-12-31,Equities,Retained Earnings,Retained Earnings,98513798
+Bank BCA,2016-12-31,Equities,Additional Paid-In Capital,Additional Paid-In Capital,5564552
+Bank BCA,2016-12-31,Equities,"Other Equity, Total",Other Equity,5564552
+Bank BCA,2016-12-31,Equities,"Common Stock, Total",Common Stock,1540938
+Bank BCA,2016-12-31,Liabilities,Current Liabilities,"Other Bearing Liabilities, Total",4187148
+Bank BCA,2016-12-31,Liabilities,Non-Current Liabilities,Deferred Income Tax,0
+Bank BCA,2016-12-31,Liabilities,Non-Current Liabilities,Total Long Term Debt,999256
+Bank BCA,2016-12-31,Liabilities,Current Liabilities,"Other Current Liabilities, Total",163682
+Bank BCA,2016-12-31,Liabilities,Non-Current Liabilities,Other Liabilities Total,6292276
+Bank BCA,2016-12-31,Liabilities,Current Liabilities,Total Short Term Borrowings,134748
+Bank BCA,2016-12-31,Liabilities,Non-Current Liabilities,Other Liabilities Total,6292276
+Bank BCA,2016-12-31,Liabilities,Current Liabilities,Accrued Expenses,9258788
+Bank BCA,2016-12-31,Liabilities,Current Liabilities,Accounts Payable,0
+Bank BCA,2016-12-31,Liabilities,Current Liabilities,Total Deposits,538866329
+Bank BCA,2016-09-30,Assets,"Other Assets, Total",Other Assets,12041734
+Bank BCA,2016-09-30,Assets,Fixed Assets,"Goodwill, Net",0
+Bank BCA,2016-09-30,Assets,Fixed Assets,"Property/Plant/Equipment, Total - Net",16093322
+Bank BCA,2016-09-30,Assets,Current Assets,Cash and Due from Banks,96352210
+Bank BCA,2016-09-30,Assets,Current Assets,Other Earning Assets,170351290
+Bank BCA,2016-09-30,Assets,Fixed Assets,"Other Long Term Assets, Total",3158054
+Bank BCA,2016-09-30,Assets,Non-Current Assets,Net Loans,386080142
+Bank BCA,2016-09-30,Equities,Unrealized Gain (Loss),Unrealized Gain (Loss),672891
+Bank BCA,2016-09-30,Equities,Retained Earnings,Retained Earnings,94540388
+Bank BCA,2016-09-30,Equities,Additional Paid-In Capital,Additional Paid-In Capital,5564552
+Bank BCA,2016-09-30,Equities,"Other Equity, Total",Other Equity,5564552
+Bank BCA,2016-09-30,Equities,"Common Stock, Total",Common Stock,1540938
+Bank BCA,2016-09-30,Liabilities,Current Liabilities,"Other Bearing Liabilities, Total",4114047
+Bank BCA,2016-09-30,Liabilities,Non-Current Liabilities,Deferred Income Tax,0
+Bank BCA,2016-09-30,Liabilities,Non-Current Liabilities,Total Long Term Debt,949733
+Bank BCA,2016-09-30,Liabilities,Current Liabilities,"Other Current Liabilities, Total",514887
+Bank BCA,2016-09-30,Liabilities,Non-Current Liabilities,Other Liabilities Total,6851418
+Bank BCA,2016-09-30,Liabilities,Current Liabilities,Total Short Term Borrowings,25013965
+Bank BCA,2016-09-30,Liabilities,Non-Current Liabilities,Other Liabilities Total,6851418
+Bank BCA,2016-09-30,Liabilities,Current Liabilities,Accrued Expenses,8933593
+Bank BCA,2016-09-30,Liabilities,Current Liabilities,Accounts Payable,0
+Bank BCA,2016-09-30,Liabilities,Current Liabilities,Total Deposits,500692797
+Bank BCA,2016-06-30,Assets,"Other Assets, Total",Other Assets,13415198
+Bank BCA,2016-06-30,Assets,Fixed Assets,"Goodwill, Net",0
+Bank BCA,2016-06-30,Assets,Fixed Assets,"Property/Plant/Equipment, Total - Net",16142610
+Bank BCA,2016-06-30,Assets,Current Assets,Cash and Due from Banks,89807809
+Bank BCA,2016-06-30,Assets,Current Assets,Other Earning Assets,111135998
+Bank BCA,2016-06-30,Assets,Fixed Assets,"Other Long Term Assets, Total",3143967
+Bank BCA,2016-06-30,Assets,Non-Current Assets,Net Loans,387982996
+Bank BCA,2016-06-30,Equities,Unrealized Gain (Loss),Unrealized Gain (Loss),357312
+Bank BCA,2016-06-30,Equities,Retained Earnings,Retained Earnings,88989510
+Bank BCA,2016-06-30,Equities,Additional Paid-In Capital,Additional Paid-In Capital,5564552
+Bank BCA,2016-06-30,Equities,"Other Equity, Total",Other Equity,5564552
+Bank BCA,2016-06-30,Equities,"Common Stock, Total",Common Stock,1540938
+Bank BCA,2016-06-30,Liabilities,Current Liabilities,"Other Bearing Liabilities, Total",3770894
+Bank BCA,2016-06-30,Liabilities,Non-Current Liabilities,Deferred Income Tax,0
+Bank BCA,2016-06-30,Liabilities,Non-Current Liabilities,Total Long Term Debt,1377460
+Bank BCA,2016-06-30,Liabilities,Current Liabilities,"Other Current Liabilities, Total",273673
+Bank BCA,2016-06-30,Liabilities,Non-Current Liabilities,Other Liabilities Total,6811892
+Bank BCA,2016-06-30,Liabilities,Current Liabilities,Total Short Term Borrowings,132116
+Bank BCA,2016-06-30,Liabilities,Non-Current Liabilities,Other Liabilities Total,6811892
+Bank BCA,2016-06-30,Liabilities,Current Liabilities,Accrued Expenses,8817383
+Bank BCA,2016-06-30,Liabilities,Current Liabilities,Accounts Payable,0
+Bank BCA,2016-06-30,Liabilities,Current Liabilities,Total Deposits,497899952
+Bank BCA,2016-03-31,Assets,"Other Assets, Total",Other Assets,11516252
+Bank BCA,2016-03-31,Assets,Fixed Assets,"Goodwill, Net",0
+Bank BCA,2016-03-31,Assets,Fixed Assets,"Property/Plant/Equipment, Total - Net",16078338
+Bank BCA,2016-03-31,Assets,Current Assets,Cash and Due from Banks,79184966
+Bank BCA,2016-03-31,Assets,Current Assets,Other Earning Assets,103079999
+Bank BCA,2016-03-31,Assets,Fixed Assets,"Other Long Term Assets, Total",3211086
+Bank BCA,2016-03-31,Assets,Non-Current Assets,Net Loans,374626347
+Bank BCA,2016-03-31,Equities,Unrealized Gain (Loss),Unrealized Gain (Loss),320757
+Bank BCA,2016-03-31,Equities,Retained Earnings,Retained Earnings,86509715
+Bank BCA,2016-03-31,Equities,Additional Paid-In Capital,Additional Paid-In Capital,5564552
+Bank BCA,2016-03-31,Equities,"Other Equity, Total",Other Equity,5564552
+Bank BCA,2016-03-31,Equities,"Common Stock, Total",Common Stock,1540938
+Bank BCA,2016-03-31,Liabilities,Current Liabilities,"Other Bearing Liabilities, Total",3532354
+Bank BCA,2016-03-31,Liabilities,Non-Current Liabilities,Deferred Income Tax,0
+Bank BCA,2016-03-31,Liabilities,Non-Current Liabilities,Total Long Term Debt,1101179
+Bank BCA,2016-03-31,Liabilities,Current Liabilities,"Other Current Liabilities, Total",360431
+Bank BCA,2016-03-31,Liabilities,Non-Current Liabilities,Other Liabilities Total,6915662
+Bank BCA,2016-03-31,Liabilities,Current Liabilities,Total Short Term Borrowings,132608
+Bank BCA,2016-03-31,Liabilities,Non-Current Liabilities,Other Liabilities Total,6915662
+Bank BCA,2016-03-31,Liabilities,Current Liabilities,Accrued Expenses,9820222
+Bank BCA,2016-03-31,Liabilities,Current Liabilities,Accounts Payable,0
+Bank BCA,2016-03-31,Liabilities,Current Liabilities,Total Deposits,477099687
+Bank BCA,2015-12-31,Assets,"Other Assets, Total",Other Assets,11160644
+Bank BCA,2015-12-31,Assets,Fixed Assets,"Goodwill, Net",0
+Bank BCA,2015-12-31,Assets,Fixed Assets,"Property/Plant/Equipment, Total - Net",9712021
+Bank BCA,2015-12-31,Assets,Current Assets,Cash and Due from Banks,120322060
+Bank BCA,2015-12-31,Assets,Current Assets,Other Earning Assets,60342898
+Bank BCA,2015-12-31,Assets,Fixed Assets,"Other Long Term Assets, Total",3225988
+Bank BCA,2015-12-31,Assets,Non-Current Assets,Net Loans,389132662
+Bank BCA,2015-12-31,Equities,Unrealized Gain (Loss),Unrealized Gain (Loss),-103499
+Bank BCA,2015-12-31,Equities,Retained Earnings,Retained Earnings,82002399
+Bank BCA,2015-12-31,Equities,Additional Paid-In Capital,Additional Paid-In Capital,5564552
+Bank BCA,2015-12-31,Equities,"Other Equity, Total",Other Equity,5564552
+Bank BCA,2015-12-31,Equities,"Common Stock, Total",Common Stock,1540938
+Bank BCA,2015-12-31,Liabilities,Current Liabilities,"Other Bearing Liabilities, Total",4374939
+Bank BCA,2015-12-31,Liabilities,Non-Current Liabilities,Deferred Income Tax,0
+Bank BCA,2015-12-31,Liabilities,Non-Current Liabilities,Total Long Term Debt,1614722
+Bank BCA,2015-12-31,Liabilities,Current Liabilities,"Other Current Liabilities, Total",251091
+Bank BCA,2015-12-31,Liabilities,Non-Current Liabilities,Other Liabilities Total,6929079
+Bank BCA,2015-12-31,Liabilities,Current Liabilities,Total Short Term Borrowings,38602
+Bank BCA,2015-12-31,Liabilities,Non-Current Liabilities,Other Liabilities Total,6929079
+Bank BCA,2015-12-31,Liabilities,Current Liabilities,Accrued Expenses,7613476
+Bank BCA,2015-12-31,Liabilities,Current Liabilities,Accounts Payable,0
+Bank BCA,2015-12-31,Liabilities,Current Liabilities,Total Deposits,480976341
+Bank BCA,2015-09-30,Assets,"Other Assets, Total",Other Assets,10812795
+Bank BCA,2015-09-30,Assets,Fixed Assets,"Goodwill, Net",0
+Bank BCA,2015-09-30,Assets,Fixed Assets,"Property/Plant/Equipment, Total - Net",9357867
+Bank BCA,2015-09-30,Assets,Current Assets,Cash and Due from Banks,115099499
+Bank BCA,2015-09-30,Assets,Current Assets,Other Earning Assets,63574203
+Bank BCA,2015-09-30,Assets,Fixed Assets,"Other Long Term Assets, Total",2952213
+Bank BCA,2015-09-30,Assets,Non-Current Assets,Net Loans,367005820
+Bank BCA,2015-09-30,Equities,Unrealized Gain (Loss),Unrealized Gain (Loss),-54334
+Bank BCA,2015-09-30,Equities,Retained Earnings,Retained Earnings,78557828
+Bank BCA,2015-09-30,Equities,Additional Paid-In Capital,Additional Paid-In Capital,5564552
+Bank BCA,2015-09-30,Equities,"Other Equity, Total",Other Equity,5564552
+Bank BCA,2015-09-30,Equities,"Common Stock, Total",Common Stock,1540938
+Bank BCA,2015-09-30,Liabilities,Current Liabilities,"Other Bearing Liabilities, Total",3952699
+Bank BCA,2015-09-30,Liabilities,Non-Current Liabilities,Deferred Income Tax,0
+Bank BCA,2015-09-30,Liabilities,Non-Current Liabilities,Total Long Term Debt,2208735
+Bank BCA,2015-09-30,Liabilities,Current Liabilities,"Other Current Liabilities, Total",493031
+Bank BCA,2015-09-30,Liabilities,Non-Current Liabilities,Other Liabilities Total,9171310
+Bank BCA,2015-09-30,Liabilities,Current Liabilities,Total Short Term Borrowings,128919
+Bank BCA,2015-09-30,Liabilities,Non-Current Liabilities,Other Liabilities Total,9171310
+Bank BCA,2015-09-30,Liabilities,Current Liabilities,Accrued Expenses,7977255
+Bank BCA,2015-09-30,Liabilities,Current Liabilities,Accounts Payable,0
+Bank BCA,2015-09-30,Liabilities,Current Liabilities,Total Deposits,471899333
+Bank BCA,2015-06-30,Assets,"Other Assets, Total",Other Assets,11208996
+Bank BCA,2015-06-30,Assets,Fixed Assets,"Goodwill, Net",0
+Bank BCA,2015-06-30,Assets,Fixed Assets,"Property/Plant/Equipment, Total - Net",8979735
+Bank BCA,2015-06-30,Assets,Current Assets,Cash and Due from Banks,112060628
+Bank BCA,2015-06-30,Assets,Current Assets,Other Earning Assets,64638084
+Bank BCA,2015-06-30,Assets,Fixed Assets,"Other Long Term Assets, Total",2647287
+Bank BCA,2015-06-30,Assets,Non-Current Assets,Net Loans,349898659
+Bank BCA,2015-06-30,Equities,Unrealized Gain (Loss),Unrealized Gain (Loss),146962
+Bank BCA,2015-06-30,Equities,Retained Earnings,Retained Earnings,73902541
+Bank BCA,2015-06-30,Equities,Additional Paid-In Capital,Additional Paid-In Capital,5564552
+Bank BCA,2015-06-30,Equities,"Other Equity, Total",Other Equity,5564552
+Bank BCA,2015-06-30,Equities,"Common Stock, Total",Common Stock,1540938
+Bank BCA,2015-06-30,Liabilities,Current Liabilities,"Other Bearing Liabilities, Total",4777145
+Bank BCA,2015-06-30,Liabilities,Non-Current Liabilities,Deferred Income Tax,0
+Bank BCA,2015-06-30,Liabilities,Non-Current Liabilities,Total Long Term Debt,2015851
+Bank BCA,2015-06-30,Liabilities,Current Liabilities,"Other Current Liabilities, Total",197991
+Bank BCA,2015-06-30,Liabilities,Non-Current Liabilities,Other Liabilities Total,7030398
+Bank BCA,2015-06-30,Liabilities,Current Liabilities,Total Short Term Borrowings,47998
+Bank BCA,2015-06-30,Liabilities,Non-Current Liabilities,Other Liabilities Total,7030398
+Bank BCA,2015-06-30,Liabilities,Current Liabilities,Accrued Expenses,11152159
+Bank BCA,2015-06-30,Liabilities,Current Liabilities,Accounts Payable,0
+Bank BCA,2015-06-30,Liabilities,Current Liabilities,Total Deposits,461723144
+Bank BCA,2015-03-31,Assets,"Other Assets, Total",Other Assets,12202751
+Bank BCA,2015-03-31,Assets,Fixed Assets,"Goodwill, Net",0
+Bank BCA,2015-03-31,Assets,Fixed Assets,"Property/Plant/Equipment, Total - Net",8944581
+Bank BCA,2015-03-31,Assets,Current Assets,Cash and Due from Banks,84642729
+Bank BCA,2015-03-31,Assets,Current Assets,Other Earning Assets,89287462
+Bank BCA,2015-03-31,Assets,Fixed Assets,"Other Long Term Assets, Total",2602311
+Bank BCA,2015-03-31,Assets,Non-Current Assets,Net Loans,339096701
+Bank BCA,2015-03-31,Equities,Unrealized Gain (Loss),Unrealized Gain (Loss),301008
+Bank BCA,2015-03-31,Equities,Retained Earnings,Retained Earnings,72028192
+Bank BCA,2015-03-31,Equities,Additional Paid-In Capital,Additional Paid-In Capital,5564552
+Bank BCA,2015-03-31,Equities,"Other Equity, Total",Other Equity,5564552
+Bank BCA,2015-03-31,Equities,"Common Stock, Total",Common Stock,1540938
+Bank BCA,2015-03-31,Liabilities,Current Liabilities,"Other Bearing Liabilities, Total",3645604
+Bank BCA,2015-03-31,Liabilities,Non-Current Liabilities,Deferred Income Tax,0
+Bank BCA,2015-03-31,Liabilities,Non-Current Liabilities,Total Long Term Debt,3103380
+Bank BCA,2015-03-31,Liabilities,Current Liabilities,"Other Current Liabilities, Total",221654
+Bank BCA,2015-03-31,Liabilities,Non-Current Liabilities,Other Liabilities Total,6817236
+Bank BCA,2015-03-31,Liabilities,Current Liabilities,Total Short Term Borrowings,20920
+Bank BCA,2015-03-31,Liabilities,Non-Current Liabilities,Other Liabilities Total,6817236
+Bank BCA,2015-03-31,Liabilities,Current Liabilities,Accrued Expenses,10735201
+Bank BCA,2015-03-31,Liabilities,Current Liabilities,Accounts Payable,0
+Bank BCA,2015-03-31,Liabilities,Current Liabilities,Total Deposits,450680622
+Bank BCA,2014-12-31,Assets,"Other Assets, Total",Other Assets,10360575
+Bank BCA,2014-12-31,Assets,Fixed Assets,"Goodwill, Net",0
+Bank BCA,2014-12-31,Assets,Fixed Assets,"Property/Plant/Equipment, Total - Net",8844930
+Bank BCA,2014-12-31,Assets,Current Assets,Cash and Due from Banks,74569195
+Bank BCA,2014-12-31,Assets,Current Assets,Other Earning Assets,81286410
+Bank BCA,2014-12-31,Assets,Fixed Assets,"Other Long Term Assets, Total",2693681
+Bank BCA,2014-12-31,Assets,Non-Current Assets,Net Loans,349111080
+Bank BCA,2014-12-31,Equities,Unrealized Gain (Loss),Unrealized Gain (Loss),-74572
+Bank BCA,2014-12-31,Equities,Retained Earnings,Retained Earnings,68140804
+Bank BCA,2014-12-31,Equities,Additional Paid-In Capital,Additional Paid-In Capital,5564552
+Bank BCA,2014-12-31,Equities,"Other Equity, Total",Other Equity,5564552
+Bank BCA,2014-12-31,Equities,"Common Stock, Total",Common Stock,1540938
+Bank BCA,2014-12-31,Liabilities,Current Liabilities,"Other Bearing Liabilities, Total",4697946
+Bank BCA,2014-12-31,Liabilities,Non-Current Liabilities,Deferred Income Tax,0
+Bank BCA,2014-12-31,Liabilities,Non-Current Liabilities,Total Long Term Debt,4910492
+Bank BCA,2014-12-31,Liabilities,Current Liabilities,"Other Current Liabilities, Total",251818
+Bank BCA,2014-12-31,Liabilities,Non-Current Liabilities,Other Liabilities Total,6725673
+Bank BCA,2014-12-31,Liabilities,Current Liabilities,Total Short Term Borrowings,0
+Bank BCA,2014-12-31,Liabilities,Non-Current Liabilities,Other Liabilities Total,6725673
+Bank BCA,2014-12-31,Liabilities,Current Liabilities,Accrued Expenses,6260219
+Bank BCA,2014-12-31,Liabilities,Current Liabilities,Accounts Payable,0
+Bank BCA,2014-12-31,Liabilities,Current Liabilities,Total Deposits,453909346
+Bank BCA,2014-09-30,Assets,"Other Assets, Total",Other Assets,11075008
+Bank BCA,2014-09-30,Assets,Fixed Assets,"Goodwill, Net",0
+Bank BCA,2014-09-30,Assets,Fixed Assets,"Property/Plant/Equipment, Total - Net",8172373
+Bank BCA,2014-09-30,Assets,Current Assets,Cash and Due from Banks,73711497
+Bank BCA,2014-09-30,Assets,Current Assets,Other Earning Assets,60318420
+Bank BCA,2014-09-30,Assets,Fixed Assets,"Other Long Term Assets, Total",1698042
+Bank BCA,2014-09-30,Assets,Non-Current Assets,Net Loans,332759780
+Bank BCA,2014-09-30,Equities,Unrealized Gain (Loss),Unrealized Gain (Loss),-142646
+Bank BCA,2014-09-30,Equities,Retained Earnings,Retained Earnings,67281092
+Bank BCA,2014-09-30,Equities,Additional Paid-In Capital,Additional Paid-In Capital,5564552
+Bank BCA,2014-09-30,Equities,"Other Equity, Total",Other Equity,5564552
+Bank BCA,2014-09-30,Equities,"Common Stock, Total",Common Stock,1540938
+Bank BCA,2014-09-30,Liabilities,Current Liabilities,"Other Bearing Liabilities, Total",4526851
+Bank BCA,2014-09-30,Liabilities,Non-Current Liabilities,Deferred Income Tax,0
+Bank BCA,2014-09-30,Liabilities,Non-Current Liabilities,Total Long Term Debt,6092192
+Bank BCA,2014-09-30,Liabilities,Current Liabilities,"Other Current Liabilities, Total",403212
+Bank BCA,2014-09-30,Liabilities,Non-Current Liabilities,Other Liabilities Total,3396204
+Bank BCA,2014-09-30,Liabilities,Current Liabilities,Total Short Term Borrowings,0
+Bank BCA,2014-09-30,Liabilities,Non-Current Liabilities,Other Liabilities Total,3396204
+Bank BCA,2014-09-30,Liabilities,Current Liabilities,Accrued Expenses,10188026
+Bank BCA,2014-09-30,Liabilities,Current Liabilities,Accounts Payable,0
+Bank BCA,2014-09-30,Liabilities,Current Liabilities,Total Deposits,437206767
+Bank BCA,2014-06-30,Assets,"Other Assets, Total",Other Assets,12893775
+Bank BCA,2014-06-30,Assets,Fixed Assets,"Goodwill, Net",0
+Bank BCA,2014-06-30,Assets,Fixed Assets,"Property/Plant/Equipment, Total - Net",7683465
+Bank BCA,2014-06-30,Assets,Current Assets,Cash and Due from Banks,79017189
+Bank BCA,2014-06-30,Assets,Current Assets,Other Earning Assets,59290836
+Bank BCA,2014-06-30,Assets,Fixed Assets,"Other Long Term Assets, Total",1644036
+Bank BCA,2014-06-30,Assets,Non-Current Assets,Net Loans,324147824
+Bank BCA,2014-06-30,Equities,Unrealized Gain (Loss),Unrealized Gain (Loss),-147189
+Bank BCA,2014-06-30,Equities,Retained Earnings,Retained Earnings,62933908
+Bank BCA,2014-06-30,Equities,Additional Paid-In Capital,Additional Paid-In Capital,5564552
+Bank BCA,2014-06-30,Equities,"Other Equity, Total",Other Equity,5564552
+Bank BCA,2014-06-30,Equities,"Common Stock, Total",Common Stock,1540938
+Bank BCA,2014-06-30,Liabilities,Current Liabilities,"Other Bearing Liabilities, Total",4842186
+Bank BCA,2014-06-30,Liabilities,Non-Current Liabilities,Deferred Income Tax,0
+Bank BCA,2014-06-30,Liabilities,Non-Current Liabilities,Total Long Term Debt,5289823
+Bank BCA,2014-06-30,Liabilities,Current Liabilities,"Other Current Liabilities, Total",260553
+Bank BCA,2014-06-30,Liabilities,Non-Current Liabilities,Other Liabilities Total,3495688
+Bank BCA,2014-06-30,Liabilities,Current Liabilities,Total Short Term Borrowings,0
+Bank BCA,2014-06-30,Liabilities,Non-Current Liabilities,Other Liabilities Total,3495688
+Bank BCA,2014-06-30,Liabilities,Current Liabilities,Accrued Expenses,10755219
+Bank BCA,2014-06-30,Liabilities,Current Liabilities,Accounts Payable,0
+Bank BCA,2014-06-30,Liabilities,Current Liabilities,Total Deposits,427022468
+Bank BCA,2014-03-31,Assets,"Other Assets, Total",Other Assets,10279504
+Bank BCA,2014-03-31,Assets,Fixed Assets,"Goodwill, Net",0
+Bank BCA,2014-03-31,Assets,Fixed Assets,"Property/Plant/Equipment, Total - Net",7435162
+Bank BCA,2014-03-31,Assets,Current Assets,Cash and Due from Banks,61256521
+Bank BCA,2014-03-31,Assets,Current Assets,Other Earning Assets,57437638
+Bank BCA,2014-03-31,Assets,Fixed Assets,"Other Long Term Assets, Total",1702397
+Bank BCA,2014-03-31,Assets,Non-Current Assets,Net Loans,320060139
+Bank BCA,2014-03-31,Equities,Unrealized Gain (Loss),Unrealized Gain (Loss),-156624
+Bank BCA,2014-03-31,Equities,Retained Earnings,Retained Earnings,60596322
+Bank BCA,2014-03-31,Equities,Additional Paid-In Capital,Additional Paid-In Capital,5564552
+Bank BCA,2014-03-31,Equities,"Other Equity, Total",Other Equity,5564552
+Bank BCA,2014-03-31,Equities,"Common Stock, Total",Common Stock,1540938
+Bank BCA,2014-03-31,Liabilities,Current Liabilities,"Other Bearing Liabilities, Total",3895704
+Bank BCA,2014-03-31,Liabilities,Non-Current Liabilities,Deferred Income Tax,0
+Bank BCA,2014-03-31,Liabilities,Non-Current Liabilities,Total Long Term Debt,3878838
+Bank BCA,2014-03-31,Liabilities,Current Liabilities,"Other Current Liabilities, Total",291729
+Bank BCA,2014-03-31,Liabilities,Non-Current Liabilities,Other Liabilities Total,3764082
+Bank BCA,2014-03-31,Liabilities,Current Liabilities,Total Short Term Borrowings,0
+Bank BCA,2014-03-31,Liabilities,Non-Current Liabilities,Other Liabilities Total,3764082
+Bank BCA,2014-03-31,Liabilities,Current Liabilities,Accrued Expenses,8629246
+Bank BCA,2014-03-31,Liabilities,Current Liabilities,Accounts Payable,0
+Bank BCA,2014-03-31,Liabilities,Current Liabilities,Total Deposits,412493933
+Bank BCA,2013-12-31,Assets,"Other Assets, Total",Other Assets,9197214
+Bank BCA,2013-12-31,Assets,Fixed Assets,"Goodwill, Net",0
+Bank BCA,2013-12-31,Assets,Fixed Assets,"Property/Plant/Equipment, Total - Net",7440017
+Bank BCA,2013-12-31,Assets,Current Assets,Cash and Due from Banks,67254552
+Bank BCA,2013-12-31,Assets,Current Assets,Other Earning Assets,56080278
+Bank BCA,2013-12-31,Assets,Fixed Assets,"Other Long Term Assets, Total",1779493
+Bank BCA,2013-12-31,Assets,Non-Current Assets,Net Loans,313496848
+Bank BCA,2013-12-31,Equities,Unrealized Gain (Loss),Unrealized Gain (Loss),-478631
+Bank BCA,2013-12-31,Equities,Retained Earnings,Retained Earnings,56929641
+Bank BCA,2013-12-31,Equities,Additional Paid-In Capital,Additional Paid-In Capital,5564552
+Bank BCA,2013-12-31,Equities,"Other Equity, Total",Other Equity,5564552
+Bank BCA,2013-12-31,Equities,"Common Stock, Total",Common Stock,1540938
+Bank BCA,2013-12-31,Liabilities,Current Liabilities,"Other Bearing Liabilities, Total",4539442
+Bank BCA,2013-12-31,Liabilities,Non-Current Liabilities,Deferred Income Tax,0
+Bank BCA,2013-12-31,Liabilities,Non-Current Liabilities,Total Long Term Debt,3633799
+Bank BCA,2013-12-31,Liabilities,Current Liabilities,"Other Current Liabilities, Total",276017
+Bank BCA,2013-12-31,Liabilities,Non-Current Liabilities,Other Liabilities Total,3639350
+Bank BCA,2013-12-31,Liabilities,Current Liabilities,Total Short Term Borrowings,0
+Bank BCA,2013-12-31,Liabilities,Non-Current Liabilities,Other Liabilities Total,3639350
+Bank BCA,2013-12-31,Liabilities,Current Liabilities,Accrued Expenses,5768437
+Bank BCA,2013-12-31,Liabilities,Current Liabilities,Accounts Payable,0
+Bank BCA,2013-12-31,Liabilities,Current Liabilities,Total Deposits,414480850
+Bank BCA,2013-09-30,Assets,"Other Assets, Total",Other Assets,8489253
+Bank BCA,2013-09-30,Assets,Fixed Assets,"Goodwill, Net",0
+Bank BCA,2013-09-30,Assets,Fixed Assets,"Property/Plant/Equipment, Total - Net",7111528
+Bank BCA,2013-09-30,Assets,Current Assets,Cash and Due from Banks,71250448
+Bank BCA,2013-09-30,Assets,Current Assets,Other Earning Assets,58687836
+Bank BCA,2013-09-30,Assets,Fixed Assets,"Other Long Term Assets, Total",1608147
+Bank BCA,2013-09-30,Assets,Non-Current Assets,Net Loans,293839830
+Bank BCA,2013-09-30,Equities,Unrealized Gain (Loss),Unrealized Gain (Loss),-395486
+Bank BCA,2013-09-30,Equities,Retained Earnings,Retained Earnings,54148954
+Bank BCA,2013-09-30,Equities,Additional Paid-In Capital,Additional Paid-In Capital,5574973
+Bank BCA,2013-09-30,Equities,"Other Equity, Total",Other Equity,5574973
+Bank BCA,2013-09-30,Equities,"Common Stock, Total",Common Stock,1540938
+Bank BCA,2013-09-30,Liabilities,Current Liabilities,"Other Bearing Liabilities, Total",5197811
+Bank BCA,2013-09-30,Liabilities,Non-Current Liabilities,Deferred Income Tax,0
+Bank BCA,2013-09-30,Liabilities,Non-Current Liabilities,Total Long Term Debt,2918793
+Bank BCA,2013-09-30,Liabilities,Current Liabilities,"Other Current Liabilities, Total",610323
+Bank BCA,2013-09-30,Liabilities,Non-Current Liabilities,Other Liabilities Total,3536628
+Bank BCA,2013-09-30,Liabilities,Current Liabilities,Total Short Term Borrowings,0
+Bank BCA,2013-09-30,Liabilities,Non-Current Liabilities,Other Liabilities Total,3536628
+Bank BCA,2013-09-30,Liabilities,Current Liabilities,Accrued Expenses,8291868
+Bank BCA,2013-09-30,Liabilities,Current Liabilities,Accounts Payable,0
+Bank BCA,2013-09-30,Liabilities,Current Liabilities,Total Deposits,405346843
+Bank BCA,2013-06-30,Assets,"Other Assets, Total",Other Assets,13329993
+Bank BCA,2013-06-30,Assets,Fixed Assets,"Goodwill, Net",0
+Bank BCA,2013-06-30,Assets,Fixed Assets,"Property/Plant/Equipment, Total - Net",6844801
+Bank BCA,2013-06-30,Assets,Current Assets,Cash and Due from Banks,72158955
+Bank BCA,2013-06-30,Assets,Current Assets,Other Earning Assets,54650192
+Bank BCA,2013-06-30,Assets,Fixed Assets,"Other Long Term Assets, Total",1277387
+Bank BCA,2013-06-30,Assets,Non-Current Assets,Net Loans,275849853
+Bank BCA,2013-06-30,Equities,Unrealized Gain (Loss),Unrealized Gain (Loss),72821
+Bank BCA,2013-06-30,Equities,Retained Earnings,Retained Earnings,49998804
+Bank BCA,2013-06-30,Equities,Additional Paid-In Capital,Additional Paid-In Capital,5711369
+Bank BCA,2013-06-30,Equities,"Other Equity, Total",Other Equity,5711369
+Bank BCA,2013-06-30,Equities,"Common Stock, Total",Common Stock,1540938
+Bank BCA,2013-06-30,Liabilities,Current Liabilities,"Other Bearing Liabilities, Total",5031266
+Bank BCA,2013-06-30,Liabilities,Non-Current Liabilities,Deferred Income Tax,0
+Bank BCA,2013-06-30,Liabilities,Non-Current Liabilities,Total Long Term Debt,1058749
+Bank BCA,2013-06-30,Liabilities,Current Liabilities,"Other Current Liabilities, Total",322965
+Bank BCA,2013-06-30,Liabilities,Non-Current Liabilities,Other Liabilities Total,6049454
+Bank BCA,2013-06-30,Liabilities,Current Liabilities,Total Short Term Borrowings,481294
+Bank BCA,2013-06-30,Liabilities,Non-Current Liabilities,Other Liabilities Total,6049454
+Bank BCA,2013-06-30,Liabilities,Current Liabilities,Accrued Expenses,6303416
+Bank BCA,2013-06-30,Liabilities,Current Liabilities,Accounts Payable,0
+Bank BCA,2013-06-30,Liabilities,Current Liabilities,Total Deposits,381147267
+Bank BCA,2013-03-31,Assets,"Other Assets, Total",Other Assets,13359449
+Bank BCA,2013-03-31,Assets,Fixed Assets,"Goodwill, Net",0
+Bank BCA,2013-03-31,Assets,Fixed Assets,"Property/Plant/Equipment, Total - Net",6709492
+Bank BCA,2013-03-31,Assets,Current Assets,Cash and Due from Banks,80146612
+Bank BCA,2013-03-31,Assets,Current Assets,Other Earning Assets,56493300
+Bank BCA,2013-03-31,Assets,Fixed Assets,"Other Long Term Assets, Total",1015870
+Bank BCA,2013-03-31,Assets,Non-Current Assets,Net Loans,260654425
+Bank BCA,2013-03-31,Equities,Unrealized Gain (Loss),Unrealized Gain (Loss),728916
+Bank BCA,2013-03-31,Equities,Retained Earnings,Retained Earnings,48320129
+Bank BCA,2013-03-31,Equities,Additional Paid-In Capital,Additional Paid-In Capital,5711369
+Bank BCA,2013-03-31,Equities,"Other Equity, Total",Other Equity,5711369
+Bank BCA,2013-03-31,Equities,"Common Stock, Total",Common Stock,1540938
+Bank BCA,2013-03-31,Liabilities,Current Liabilities,"Other Bearing Liabilities, Total",5761451
+Bank BCA,2013-03-31,Liabilities,Non-Current Liabilities,Deferred Income Tax,0
+Bank BCA,2013-03-31,Liabilities,Non-Current Liabilities,Total Long Term Debt,989067
+Bank BCA,2013-03-31,Liabilities,Current Liabilities,"Other Current Liabilities, Total",240807
+Bank BCA,2013-03-31,Liabilities,Non-Current Liabilities,Other Liabilities Total,5464651
+Bank BCA,2013-03-31,Liabilities,Current Liabilities,Total Short Term Borrowings,430941
+Bank BCA,2013-03-31,Liabilities,Non-Current Liabilities,Other Liabilities Total,5464651
+Bank BCA,2013-03-31,Liabilities,Current Liabilities,Accrued Expenses,7327942
+Bank BCA,2013-03-31,Liabilities,Current Liabilities,Accounts Payable,0
+Bank BCA,2013-03-31,Liabilities,Current Liabilities,Total Deposits,370630838
+Bank BCA,2012-12-31,Assets,"Other Assets, Total",Other Assets,13699373
+Bank BCA,2012-12-31,Assets,Fixed Assets,"Goodwill, Net",0
+Bank BCA,2012-12-31,Assets,Fixed Assets,"Property/Plant/Equipment, Total - Net",6406625
+Bank BCA,2012-12-31,Assets,Current Assets,Cash and Due from Banks,78187692
+Bank BCA,2012-12-31,Assets,Current Assets,Other Earning Assets,56467467
+Bank BCA,2012-12-31,Assets,Fixed Assets,"Other Long Term Assets, Total",919802
+Bank BCA,2012-12-31,Assets,Non-Current Assets,Net Loans,252760457
+Bank BCA,2012-12-31,Equities,Unrealized Gain (Loss),Unrealized Gain (Loss),857070
+Bank BCA,2012-12-31,Equities,Retained Earnings,Retained Earnings,45428239
+Bank BCA,2012-12-31,Equities,Additional Paid-In Capital,Additional Paid-In Capital,4396429
+Bank BCA,2012-12-31,Equities,"Other Equity, Total",Other Equity,4396429
+Bank BCA,2012-12-31,Equities,"Common Stock, Total",Common Stock,1540938
+Bank BCA,2012-12-31,Liabilities,Current Liabilities,"Other Bearing Liabilities, Total",5839495
+Bank BCA,2012-12-31,Liabilities,Non-Current Liabilities,Deferred Income Tax,0
+Bank BCA,2012-12-31,Liabilities,Non-Current Liabilities,Total Long Term Debt,1029011
+Bank BCA,2012-12-31,Liabilities,Current Liabilities,"Other Current Liabilities, Total",216614
+Bank BCA,2012-12-31,Liabilities,Non-Current Liabilities,Other Liabilities Total,5424963
+Bank BCA,2012-12-31,Liabilities,Current Liabilities,Total Short Term Borrowings,128018
+Bank BCA,2012-12-31,Liabilities,Non-Current Liabilities,Other Liabilities Total,5424963
+Bank BCA,2012-12-31,Liabilities,Current Liabilities,Accrued Expenses,5620847
+Bank BCA,2012-12-31,Liabilities,Current Liabilities,Accounts Payable,0
+Bank BCA,2012-12-31,Liabilities,Current Liabilities,Total Deposits,372837307
+Bank BCA,2012-09-30,Assets,"Other Assets, Total",Other Assets,11014385
+Bank BCA,2012-09-30,Assets,Fixed Assets,"Goodwill, Net",0
+Bank BCA,2012-09-30,Assets,Fixed Assets,"Property/Plant/Equipment, Total - Net",5550083
+Bank BCA,2012-09-30,Assets,Current Assets,Cash and Due from Banks,82862019
+Bank BCA,2012-09-30,Assets,Current Assets,Other Earning Assets,124823589
+Bank BCA,2012-09-30,Assets,Fixed Assets,"Other Long Term Assets, Total",971092
+Bank BCA,2012-09-30,Assets,Non-Current Assets,Net Loans,233727471
+Bank BCA,2012-09-30,Equities,Unrealized Gain (Loss),Unrealized Gain (Loss),629292
+Bank BCA,2012-09-30,Equities,Retained Earnings,Retained Earnings,43530908
+Bank BCA,2012-09-30,Equities,Additional Paid-In Capital,Additional Paid-In Capital,3895933
+Bank BCA,2012-09-30,Equities,"Other Equity, Total",Other Equity,3895933
+Bank BCA,2012-09-30,Equities,"Common Stock, Total",Common Stock,1540938
+Bank BCA,2012-09-30,Liabilities,Current Liabilities,"Other Bearing Liabilities, Total",6019199
+Bank BCA,2012-09-30,Liabilities,Non-Current Liabilities,Deferred Income Tax,0
+Bank BCA,2012-09-30,Liabilities,Non-Current Liabilities,Total Long Term Debt,770477
+Bank BCA,2012-09-30,Liabilities,Current Liabilities,"Other Current Liabilities, Total",651035
+Bank BCA,2012-09-30,Liabilities,Non-Current Liabilities,Other Liabilities Total,2535212
+Bank BCA,2012-09-30,Liabilities,Current Liabilities,Total Short Term Borrowings,511552
+Bank BCA,2012-09-30,Liabilities,Non-Current Liabilities,Other Liabilities Total,2535212
+Bank BCA,2012-09-30,Liabilities,Current Liabilities,Accrued Expenses,4415407
+Bank BCA,2012-09-30,Liabilities,Current Liabilities,Accounts Payable,0
+Bank BCA,2012-09-30,Liabilities,Current Liabilities,Total Deposits,362891197
+Bank BCA,2012-06-30,Assets,"Other Assets, Total",Other Assets,11433467
+Bank BCA,2012-06-30,Assets,Fixed Assets,"Goodwill, Net",0
+Bank BCA,2012-06-30,Assets,Fixed Assets,"Property/Plant/Equipment, Total - Net",5102873
+Bank BCA,2012-06-30,Assets,Current Assets,Cash and Due from Banks,73429865
+Bank BCA,2012-06-30,Assets,Current Assets,Other Earning Assets,131669810
+Bank BCA,2012-06-30,Assets,Fixed Assets,"Other Long Term Assets, Total",801099
+Bank BCA,2012-06-30,Assets,Non-Current Assets,Net Loans,222214062
+Bank BCA,2012-06-30,Equities,Unrealized Gain (Loss),Unrealized Gain (Loss),596943
+Bank BCA,2012-06-30,Equities,Retained Earnings,Retained Earnings,40053670
+Bank BCA,2012-06-30,Equities,Additional Paid-In Capital,Additional Paid-In Capital,3895933
+Bank BCA,2012-06-30,Equities,"Other Equity, Total",Other Equity,3895933
+Bank BCA,2012-06-30,Equities,"Common Stock, Total",Common Stock,1540938
+Bank BCA,2012-06-30,Liabilities,Current Liabilities,"Other Bearing Liabilities, Total",5878458
+Bank BCA,2012-06-30,Liabilities,Non-Current Liabilities,Deferred Income Tax,0
+Bank BCA,2012-06-30,Liabilities,Non-Current Liabilities,Total Long Term Debt,758690
+Bank BCA,2012-06-30,Liabilities,Current Liabilities,"Other Current Liabilities, Total",746036
+Bank BCA,2012-06-30,Liabilities,Non-Current Liabilities,Other Liabilities Total,2762076
+Bank BCA,2012-06-30,Liabilities,Current Liabilities,Total Short Term Borrowings,1327501
+Bank BCA,2012-06-30,Liabilities,Non-Current Liabilities,Other Liabilities Total,2762076
+Bank BCA,2012-06-30,Liabilities,Current Liabilities,Accrued Expenses,4181545
+Bank BCA,2012-06-30,Liabilities,Current Liabilities,Accounts Payable,0
+Bank BCA,2012-06-30,Liabilities,Current Liabilities,Total Deposits,347409638
+Bank BCA,2012-03-31,Assets,"Other Assets, Total",Other Assets,9944564
+Bank BCA,2012-03-31,Assets,Fixed Assets,"Goodwill, Net",0
+Bank BCA,2012-03-31,Assets,Fixed Assets,"Property/Plant/Equipment, Total - Net",4777217
+Bank BCA,2012-03-31,Assets,Current Assets,Cash and Due from Banks,80904691
+Bank BCA,2012-03-31,Assets,Current Assets,Other Earning Assets,116694120
+Bank BCA,2012-03-31,Assets,Fixed Assets,"Other Long Term Assets, Total",822577
+Bank BCA,2012-03-31,Assets,Non-Current Assets,Net Loans,205434472
+Bank BCA,2012-03-31,Equities,Unrealized Gain (Loss),Unrealized Gain (Loss),676859
+Bank BCA,2012-03-31,Equities,Retained Earnings,Retained Earnings,38782229
+Bank BCA,2012-03-31,Equities,Additional Paid-In Capital,Additional Paid-In Capital,3895933
+Bank BCA,2012-03-31,Equities,"Other Equity, Total",Other Equity,3895933
+Bank BCA,2012-03-31,Equities,"Common Stock, Total",Common Stock,1540938
+Bank BCA,2012-03-31,Liabilities,Current Liabilities,"Other Bearing Liabilities, Total",5798143
+Bank BCA,2012-03-31,Liabilities,Non-Current Liabilities,Deferred Income Tax,0
+Bank BCA,2012-03-31,Liabilities,Non-Current Liabilities,Total Long Term Debt,784412
+Bank BCA,2012-03-31,Liabilities,Current Liabilities,"Other Current Liabilities, Total",466297
+Bank BCA,2012-03-31,Liabilities,Non-Current Liabilities,Other Liabilities Total,1423266
+Bank BCA,2012-03-31,Liabilities,Current Liabilities,Total Short Term Borrowings,1101258
+Bank BCA,2012-03-31,Liabilities,Non-Current Liabilities,Other Liabilities Total,1423266
+Bank BCA,2012-03-31,Liabilities,Current Liabilities,Accrued Expenses,5384721
+Bank BCA,2012-03-31,Liabilities,Current Liabilities,Accounts Payable,0
+Bank BCA,2012-03-31,Liabilities,Current Liabilities,Total Deposits,341456378
+Bank BCA,2011-12-31,Assets,"Other Assets, Total",Other Assets,9633203
+Bank BCA,2011-12-31,Assets,Fixed Assets,"Goodwill, Net",0
+Bank BCA,2011-12-31,Assets,Fixed Assets,"Property/Plant/Equipment, Total - Net",4144659
+Bank BCA,2011-12-31,Assets,Current Assets,Cash and Due from Banks,87746644
+Bank BCA,2011-12-31,Assets,Current Assets,Other Earning Assets,59932826
+Bank BCA,2011-12-31,Assets,Fixed Assets,"Other Long Term Assets, Total",798382
+Bank BCA,2011-12-31,Assets,Non-Current Assets,Net Loans,198440354
+Bank BCA,2011-12-31,Equities,Unrealized Gain (Loss),Unrealized Gain (Loss),695412
+Bank BCA,2011-12-31,Equities,Retained Earnings,Retained Earnings,36478664
+Bank BCA,2011-12-31,Equities,Additional Paid-In Capital,Additional Paid-In Capital,3895933
+Bank BCA,2011-12-31,Equities,"Other Equity, Total",Other Equity,3895933
+Bank BCA,2011-12-31,Equities,"Common Stock, Total",Common Stock,1540938
+Bank BCA,2011-12-31,Liabilities,Current Liabilities,"Other Bearing Liabilities, Total",4043322
+Bank BCA,2011-12-31,Liabilities,Non-Current Liabilities,Deferred Income Tax,0
+Bank BCA,2011-12-31,Liabilities,Non-Current Liabilities,Total Long Term Debt,715507
+Bank BCA,2011-12-31,Liabilities,Current Liabilities,"Other Current Liabilities, Total",159860
+Bank BCA,2011-12-31,Liabilities,Non-Current Liabilities,Other Liabilities Total,3776860
+Bank BCA,2011-12-31,Liabilities,Current Liabilities,Total Short Term Borrowings,449188
+Bank BCA,2011-12-31,Liabilities,Non-Current Liabilities,Other Liabilities Total,3776860
+Bank BCA,2011-12-31,Liabilities,Current Liabilities,Accrued Expenses,3693094
+Bank BCA,2011-12-31,Liabilities,Current Liabilities,Accounts Payable,0
+Bank BCA,2011-12-31,Liabilities,Current Liabilities,Total Deposits,327043182
+Bank BCA,2011-09-30,Assets,"Other Assets, Total",Other Assets,9956505
+Bank BCA,2011-09-30,Assets,Fixed Assets,"Goodwill, Net",0
+Bank BCA,2011-09-30,Assets,Fixed Assets,"Property/Plant/Equipment, Total - Net",3772716
+Bank BCA,2011-09-30,Assets,Current Assets,Cash and Due from Banks,103627686
+Bank BCA,2011-09-30,Assets,Current Assets,Other Earning Assets,119584533
+Bank BCA,2011-09-30,Assets,Fixed Assets,"Other Long Term Assets, Total",940588
+Bank BCA,2011-09-30,Assets,Non-Current Assets,Net Loans,172945469
+Bank BCA,2011-09-30,Equities,Unrealized Gain (Loss),Unrealized Gain (Loss),572835
+Bank BCA,2011-09-30,Equities,Retained Earnings,Retained Earnings,34486621
+Bank BCA,2011-09-30,Equities,Additional Paid-In Capital,Additional Paid-In Capital,3895933
+Bank BCA,2011-09-30,Equities,"Other Equity, Total",Other Equity,3895933
+Bank BCA,2011-09-30,Equities,"Common Stock, Total",Common Stock,1540938
+Bank BCA,2011-09-30,Liabilities,Current Liabilities,"Other Bearing Liabilities, Total",3564195
+Bank BCA,2011-09-30,Liabilities,Non-Current Liabilities,Deferred Income Tax,0
+Bank BCA,2011-09-30,Liabilities,Non-Current Liabilities,Total Long Term Debt,539264
+Bank BCA,2011-09-30,Liabilities,Current Liabilities,"Other Current Liabilities, Total",466673
+Bank BCA,2011-09-30,Liabilities,Non-Current Liabilities,Other Liabilities Total,2580267
+Bank BCA,2011-09-30,Liabilities,Current Liabilities,Total Short Term Borrowings,699862
+Bank BCA,2011-09-30,Liabilities,Non-Current Liabilities,Other Liabilities Total,2580267
+Bank BCA,2011-09-30,Liabilities,Current Liabilities,Accrued Expenses,4109901
+Bank BCA,2011-09-30,Liabilities,Current Liabilities,Accounts Payable,0
+Bank BCA,2011-09-30,Liabilities,Current Liabilities,Total Deposits,310565660
+Bank BCA,2011-06-30,Assets,"Other Assets, Total",Other Assets,8587788
+Bank BCA,2011-06-30,Assets,Fixed Assets,"Goodwill, Net",0
+Bank BCA,2011-06-30,Assets,Fixed Assets,"Property/Plant/Equipment, Total - Net",3735930
+Bank BCA,2011-06-30,Assets,Current Assets,Cash and Due from Banks,101010699
+Bank BCA,2011-06-30,Assets,Current Assets,Other Earning Assets,119114423
+Bank BCA,2011-06-30,Assets,Fixed Assets,"Other Long Term Assets, Total",882001
+Bank BCA,2011-06-30,Assets,Non-Current Assets,Net Loans,156286032
+Bank BCA,2011-06-30,Equities,Unrealized Gain (Loss),Unrealized Gain (Loss),689470
+Bank BCA,2011-06-30,Equities,Retained Earnings,Retained Earnings,31622577
+Bank BCA,2011-06-30,Equities,Additional Paid-In Capital,Additional Paid-In Capital,3895933
+Bank BCA,2011-06-30,Equities,"Other Equity, Total",Other Equity,3895933
+Bank BCA,2011-06-30,Equities,"Common Stock, Total",Common Stock,1540938
+Bank BCA,2011-06-30,Liabilities,Current Liabilities,"Other Bearing Liabilities, Total",2821890
+Bank BCA,2011-06-30,Liabilities,Non-Current Liabilities,Deferred Income Tax,0
+Bank BCA,2011-06-30,Liabilities,Non-Current Liabilities,Total Long Term Debt,507599
+Bank BCA,2011-06-30,Liabilities,Current Liabilities,"Other Current Liabilities, Total",702036
+Bank BCA,2011-06-30,Liabilities,Non-Current Liabilities,Other Liabilities Total,2747661
+Bank BCA,2011-06-30,Liabilities,Current Liabilities,Total Short Term Borrowings,127964
+Bank BCA,2011-06-30,Liabilities,Non-Current Liabilities,Other Liabilities Total,2747661
+Bank BCA,2011-06-30,Liabilities,Current Liabilities,Accrued Expenses,3618527
+Bank BCA,2011-06-30,Liabilities,Current Liabilities,Accounts Payable,0
+Bank BCA,2011-06-30,Liabilities,Current Liabilities,Total Deposits,292138574
+Bank BCA,2011-03-31,Assets,"Other Assets, Total",Other Assets,7683885
+Bank BCA,2011-03-31,Assets,Fixed Assets,"Goodwill, Net",0
+Bank BCA,2011-03-31,Assets,Fixed Assets,"Property/Plant/Equipment, Total - Net",3520375
+Bank BCA,2011-03-31,Assets,Current Assets,Cash and Due from Banks,93908906
+Bank BCA,2011-03-31,Assets,Current Assets,Other Earning Assets,136811021
+Bank BCA,2011-03-31,Assets,Fixed Assets,"Other Long Term Assets, Total",1029372
+Bank BCA,2011-03-31,Assets,Non-Current Assets,Net Loans,146455093
+Bank BCA,2011-03-31,Equities,Unrealized Gain (Loss),Unrealized Gain (Loss),698326
+Bank BCA,2011-03-31,Equities,Retained Earnings,Retained Earnings,30550614
+Bank BCA,2011-03-31,Equities,Additional Paid-In Capital,Additional Paid-In Capital,3895933
+Bank BCA,2011-03-31,Equities,"Other Equity, Total",Other Equity,3895933
+Bank BCA,2011-03-31,Equities,"Common Stock, Total",Common Stock,1540938
+Bank BCA,2011-03-31,Liabilities,Current Liabilities,"Other Bearing Liabilities, Total",2719537
+Bank BCA,2011-03-31,Liabilities,Non-Current Liabilities,Deferred Income Tax,0
+Bank BCA,2011-03-31,Liabilities,Non-Current Liabilities,Total Long Term Debt,543609
+Bank BCA,2011-03-31,Liabilities,Current Liabilities,"Other Current Liabilities, Total",410596
+Bank BCA,2011-03-31,Liabilities,Non-Current Liabilities,Other Liabilities Total,1829363
+Bank BCA,2011-03-31,Liabilities,Current Liabilities,Total Short Term Borrowings,571204
+Bank BCA,2011-03-31,Liabilities,Non-Current Liabilities,Other Liabilities Total,1829363
+Bank BCA,2011-03-31,Liabilities,Current Liabilities,Accrued Expenses,3830074
+Bank BCA,2011-03-31,Liabilities,Current Liabilities,Accounts Payable,0
+Bank BCA,2011-03-31,Liabilities,Current Liabilities,Total Deposits,280503253
+Bank BCA,2010-12-31,Assets,"Other Assets, Total",Other Assets,7095644
+Bank BCA,2010-12-31,Assets,Fixed Assets,"Goodwill, Net",0
+Bank BCA,2010-12-31,Assets,Fixed Assets,"Property/Plant/Equipment, Total - Net",3406957
+Bank BCA,2010-12-31,Assets,Current Assets,Cash and Due from Banks,94202112
+Bank BCA,2010-12-31,Assets,Current Assets,Other Earning Assets,127501013
+Bank BCA,2010-12-31,Assets,Fixed Assets,"Other Long Term Assets, Total",951767
+Bank BCA,2010-12-31,Assets,Non-Current Assets,Net Loans,150016746
+Bank BCA,2010-12-31,Equities,Unrealized Gain (Loss),Unrealized Gain (Loss),744113
+Bank BCA,2010-12-31,Equities,Retained Earnings,Retained Earnings,28536187
+Bank BCA,2010-12-31,Equities,Additional Paid-In Capital,Additional Paid-In Capital,3895933
+Bank BCA,2010-12-31,Equities,"Other Equity, Total",Other Equity,3895933
+Bank BCA,2010-12-31,Equities,"Common Stock, Total",Common Stock,1540938
+Bank BCA,2010-12-31,Liabilities,Current Liabilities,"Other Bearing Liabilities, Total",2550557
+Bank BCA,2010-12-31,Liabilities,Non-Current Liabilities,Deferred Income Tax,0
+Bank BCA,2010-12-31,Liabilities,Non-Current Liabilities,Total Long Term Debt,460165
+Bank BCA,2010-12-31,Liabilities,Current Liabilities,"Other Current Liabilities, Total",493337
+Bank BCA,2010-12-31,Liabilities,Non-Current Liabilities,Other Liabilities Total,1851812
+Bank BCA,2010-12-31,Liabilities,Current Liabilities,Total Short Term Borrowings,448721
+Bank BCA,2010-12-31,Liabilities,Non-Current Liabilities,Other Liabilities Total,1851812
+Bank BCA,2010-12-31,Liabilities,Current Liabilities,Accrued Expenses,2977280
+Bank BCA,2010-12-31,Liabilities,Current Liabilities,Accounts Payable,0
+Bank BCA,2010-12-31,Liabilities,Current Liabilities,Total Deposits,281529353
+Bank BCA,2010-09-30,Assets,"Other Assets, Total",Other Assets,8920930
+Bank BCA,2010-09-30,Assets,Fixed Assets,"Goodwill, Net",0
+Bank BCA,2010-09-30,Assets,Fixed Assets,"Property/Plant/Equipment, Total - Net",3184785
+Bank BCA,2010-09-30,Assets,Current Assets,Cash and Due from Banks,70956368
+Bank BCA,2010-09-30,Assets,Current Assets,Other Earning Assets,173243343
+Bank BCA,2010-09-30,Assets,Fixed Assets,"Other Long Term Assets, Total",831946
+Bank BCA,2010-09-30,Assets,Non-Current Assets,Net Loans,135247237
+Bank BCA,2010-09-30,Equities,Unrealized Gain (Loss),Unrealized Gain (Loss),609990
+Bank BCA,2010-09-30,Equities,Retained Earnings,Retained Earnings,26996751
+Bank BCA,2010-09-30,Equities,Additional Paid-In Capital,Additional Paid-In Capital,3895933
+Bank BCA,2010-09-30,Equities,"Other Equity, Total",Other Equity,3895933
+Bank BCA,2010-09-30,Equities,"Common Stock, Total",Common Stock,1540938
+Bank BCA,2010-09-30,Liabilities,Current Liabilities,"Other Bearing Liabilities, Total",2471394
+Bank BCA,2010-09-30,Liabilities,Non-Current Liabilities,Deferred Income Tax,0
+Bank BCA,2010-09-30,Liabilities,Non-Current Liabilities,Total Long Term Debt,0
+Bank BCA,2010-09-30,Liabilities,Current Liabilities,"Other Current Liabilities, Total",1605758
+Bank BCA,2010-09-30,Liabilities,Non-Current Liabilities,Other Liabilities Total,2282089
+Bank BCA,2010-09-30,Liabilities,Current Liabilities,Total Short Term Borrowings,700304
+Bank BCA,2010-09-30,Liabilities,Non-Current Liabilities,Other Liabilities Total,2282089
+Bank BCA,2010-09-30,Liabilities,Current Liabilities,Accrued Expenses,5273753
+Bank BCA,2010-09-30,Liabilities,Current Liabilities,Accounts Payable,0
+Bank BCA,2010-09-30,Liabilities,Current Liabilities,Total Deposits,265431585
+Bank BCA,2010-06-30,Assets,"Other Assets, Total",Other Assets,7378642
+Bank BCA,2010-06-30,Assets,Fixed Assets,"Goodwill, Net",0
+Bank BCA,2010-06-30,Assets,Fixed Assets,"Property/Plant/Equipment, Total - Net",3029974
+Bank BCA,2010-06-30,Assets,Current Assets,Cash and Due from Banks,42260843
+Bank BCA,2010-06-30,Assets,Current Assets,Other Earning Assets,228493862
+Bank BCA,2010-06-30,Assets,Fixed Assets,"Other Long Term Assets, Total",847106
+Bank BCA,2010-06-30,Assets,Non-Current Assets,Net Loans,128036615
+Bank BCA,2010-06-30,Equities,Unrealized Gain (Loss),Unrealized Gain (Loss),504835
+Bank BCA,2010-06-30,Equities,Retained Earnings,Retained Earnings,24866091
+Bank BCA,2010-06-30,Equities,Additional Paid-In Capital,Additional Paid-In Capital,3895933
+Bank BCA,2010-06-30,Equities,"Other Equity, Total",Other Equity,3895933
+Bank BCA,2010-06-30,Equities,"Common Stock, Total",Common Stock,1540938
+Bank BCA,2010-06-30,Liabilities,Current Liabilities,"Other Bearing Liabilities, Total",2028112
+Bank BCA,2010-06-30,Liabilities,Non-Current Liabilities,Deferred Income Tax,0
+Bank BCA,2010-06-30,Liabilities,Non-Current Liabilities,Total Long Term Debt,0
+Bank BCA,2010-06-30,Liabilities,Current Liabilities,"Other Current Liabilities, Total",1368996
+Bank BCA,2010-06-30,Liabilities,Non-Current Liabilities,Other Liabilities Total,1752519
+Bank BCA,2010-06-30,Liabilities,Current Liabilities,Total Short Term Borrowings,482276
+Bank BCA,2010-06-30,Liabilities,Non-Current Liabilities,Other Liabilities Total,1752519
+Bank BCA,2010-06-30,Liabilities,Current Liabilities,Accrued Expenses,4954745
+Bank BCA,2010-06-30,Liabilities,Current Liabilities,Accounts Payable,0
+Bank BCA,2010-06-30,Liabilities,Current Liabilities,Total Deposits,257789721
+Bank BCA,2010-03-31,Assets,"Other Assets, Total",Other Assets,6778701
+Bank BCA,2010-03-31,Assets,Fixed Assets,"Goodwill, Net",0
+Bank BCA,2010-03-31,Assets,Fixed Assets,"Property/Plant/Equipment, Total - Net",2940148
+Bank BCA,2010-03-31,Assets,Current Assets,Cash and Due from Banks,41511649
+Bank BCA,2010-03-31,Assets,Current Assets,Other Earning Assets,225954612
+Bank BCA,2010-03-31,Assets,Fixed Assets,"Other Long Term Assets, Total",913787
+Bank BCA,2010-03-31,Assets,Non-Current Assets,Net Loans,117201089
+Bank BCA,2010-03-31,Equities,Unrealized Gain (Loss),Unrealized Gain (Loss),473826
+Bank BCA,2010-03-31,Equities,Retained Earnings,Retained Earnings,24522234
+Bank BCA,2010-03-31,Equities,Additional Paid-In Capital,Additional Paid-In Capital,3895933
+Bank BCA,2010-03-31,Equities,"Other Equity, Total",Other Equity,3895933
+Bank BCA,2010-03-31,Equities,"Common Stock, Total",Common Stock,1540938
+Bank BCA,2010-03-31,Liabilities,Current Liabilities,"Other Bearing Liabilities, Total",2091992
+Bank BCA,2010-03-31,Liabilities,Non-Current Liabilities,Deferred Income Tax,0
+Bank BCA,2010-03-31,Liabilities,Non-Current Liabilities,Total Long Term Debt,0
+Bank BCA,2010-03-31,Liabilities,Current Liabilities,"Other Current Liabilities, Total",227212
+Bank BCA,2010-03-31,Liabilities,Non-Current Liabilities,Other Liabilities Total,955138
+Bank BCA,2010-03-31,Liabilities,Current Liabilities,Total Short Term Borrowings,414061
+Bank BCA,2010-03-31,Liabilities,Non-Current Liabilities,Other Liabilities Total,955138
+Bank BCA,2010-03-31,Liabilities,Current Liabilities,Accrued Expenses,3764923
+Bank BCA,2010-03-31,Liabilities,Current Liabilities,Accounts Payable,0
+Bank BCA,2010-03-31,Liabilities,Current Liabilities,Total Deposits,246951764
+Bank BCA,2009-12-31,Assets,"Other Assets, Total",Other Assets,5331862
+Bank BCA,2009-12-31,Assets,Fixed Assets,"Goodwill, Net",0
+Bank BCA,2009-12-31,Assets,Fixed Assets,"Property/Plant/Equipment, Total - Net",2971269
+Bank BCA,2009-12-31,Assets,Current Assets,Cash and Due from Banks,37539609
+Bank BCA,2009-12-31,Assets,Current Assets,Other Earning Assets,227231365
+Bank BCA,2009-12-31,Assets,Fixed Assets,"Other Long Term Assets, Total",1046739
+Bank BCA,2009-12-31,Assets,Non-Current Assets,Net Loans,119595661
+Bank BCA,2009-12-31,Equities,Unrealized Gain (Loss),Unrealized Gain (Loss),422913
+Bank BCA,2009-12-31,Equities,Retained Earnings,Retained Earnings,22591069
+Bank BCA,2009-12-31,Equities,Additional Paid-In Capital,Additional Paid-In Capital,3895933
+Bank BCA,2009-12-31,Equities,"Other Equity, Total",Other Equity,3895933
+Bank BCA,2009-12-31,Equities,"Common Stock, Total",Common Stock,1540938
+Bank BCA,2009-12-31,Liabilities,Current Liabilities,"Other Bearing Liabilities, Total",2031512
+Bank BCA,2009-12-31,Liabilities,Non-Current Liabilities,Deferred Income Tax,0
+Bank BCA,2009-12-31,Liabilities,Non-Current Liabilities,Total Long Term Debt,0
+Bank BCA,2009-12-31,Liabilities,Current Liabilities,"Other Current Liabilities, Total",269334
+Bank BCA,2009-12-31,Liabilities,Non-Current Liabilities,Other Liabilities Total,475280
+Bank BCA,2009-12-31,Liabilities,Current Liabilities,Total Short Term Borrowings,730333
+Bank BCA,2009-12-31,Liabilities,Non-Current Liabilities,Other Liabilities Total,475280
+Bank BCA,2009-12-31,Liabilities,Current Liabilities,Accrued Expenses,2559253
+Bank BCA,2009-12-31,Liabilities,Current Liabilities,Accounts Payable,0
+Bank BCA,2009-12-31,Liabilities,Current Liabilities,Total Deposits,248469919
+Bank BCA,2009-09-30,Assets,"Other Assets, Total",Other Assets,7170078
+Bank BCA,2009-09-30,Assets,Fixed Assets,"Goodwill, Net",0
+Bank BCA,2009-09-30,Assets,Fixed Assets,"Property/Plant/Equipment, Total - Net",2704323
+Bank BCA,2009-09-30,Assets,Current Assets,Cash and Due from Banks,44175940
+Bank BCA,2009-09-30,Assets,Current Assets,Other Earning Assets,214550565
+Bank BCA,2009-09-30,Assets,Fixed Assets,"Other Long Term Assets, Total",1109762
+Bank BCA,2009-09-30,Assets,Non-Current Assets,Net Loans,108517724
+Bank BCA,2009-09-30,Equities,Unrealized Gain (Loss),Unrealized Gain (Loss),348601
+Bank BCA,2009-09-30,Equities,Retained Earnings,Retained Earnings,21845807
+Bank BCA,2009-09-30,Equities,Additional Paid-In Capital,Additional Paid-In Capital,3895933
+Bank BCA,2009-09-30,Equities,"Other Equity, Total",Other Equity,3895933
+Bank BCA,2009-09-30,Equities,"Common Stock, Total",Common Stock,1540938
+Bank BCA,2009-09-30,Liabilities,Current Liabilities,"Other Bearing Liabilities, Total",2111447
+Bank BCA,2009-09-30,Liabilities,Non-Current Liabilities,Deferred Income Tax,0
+Bank BCA,2009-09-30,Liabilities,Non-Current Liabilities,Total Long Term Debt,0
+Bank BCA,2009-09-30,Liabilities,Current Liabilities,"Other Current Liabilities, Total",2029375
+Bank BCA,2009-09-30,Liabilities,Non-Current Liabilities,Other Liabilities Total,529794
+Bank BCA,2009-09-30,Liabilities,Current Liabilities,Total Short Term Borrowings,690091
+Bank BCA,2009-09-30,Liabilities,Non-Current Liabilities,Other Liabilities Total,529794
+Bank BCA,2009-09-30,Liabilities,Current Liabilities,Accrued Expenses,3872380
+Bank BCA,2009-09-30,Liabilities,Current Liabilities,Accounts Payable,0
+Bank BCA,2009-09-30,Liabilities,Current Liabilities,Total Deposits,237009056
+Bank BCA,2009-06-30,Assets,"Other Assets, Total",Other Assets,6498568
+Bank BCA,2009-06-30,Assets,Fixed Assets,"Goodwill, Net",0
+Bank BCA,2009-06-30,Assets,Fixed Assets,"Property/Plant/Equipment, Total - Net",2639200
+Bank BCA,2009-06-30,Assets,Current Assets,Cash and Due from Banks,36995488
+Bank BCA,2009-06-30,Assets,Current Assets,Other Earning Assets,208343315
+Bank BCA,2009-06-30,Assets,Fixed Assets,"Other Long Term Assets, Total",1030599
+Bank BCA,2009-06-30,Assets,Non-Current Assets,Net Loans,103312767
+Bank BCA,2009-06-30,Equities,Unrealized Gain (Loss),Unrealized Gain (Loss),172099
+Bank BCA,2009-06-30,Equities,Retained Earnings,Retained Earnings,20059111
+Bank BCA,2009-06-30,Equities,Additional Paid-In Capital,Additional Paid-In Capital,3895933
+Bank BCA,2009-06-30,Equities,"Other Equity, Total",Other Equity,3895933
+Bank BCA,2009-06-30,Equities,"Common Stock, Total",Common Stock,1540938
+Bank BCA,2009-06-30,Liabilities,Current Liabilities,"Other Bearing Liabilities, Total",2028699
+Bank BCA,2009-06-30,Liabilities,Non-Current Liabilities,Deferred Income Tax,0
+Bank BCA,2009-06-30,Liabilities,Non-Current Liabilities,Total Long Term Debt,0
+Bank BCA,2009-06-30,Liabilities,Current Liabilities,"Other Current Liabilities, Total",1667973
+Bank BCA,2009-06-30,Liabilities,Non-Current Liabilities,Other Liabilities Total,490637
+Bank BCA,2009-06-30,Liabilities,Current Liabilities,Total Short Term Borrowings,605029
+Bank BCA,2009-06-30,Liabilities,Non-Current Liabilities,Other Liabilities Total,490637
+Bank BCA,2009-06-30,Liabilities,Current Liabilities,Accrued Expenses,4252435
+Bank BCA,2009-06-30,Liabilities,Current Liabilities,Accounts Payable,0
+Bank BCA,2009-06-30,Liabilities,Current Liabilities,Total Deposits,221973698
+Bank BCA,2009-03-31,Assets,"Other Assets, Total",Other Assets,5081461
+Bank BCA,2009-03-31,Assets,Fixed Assets,"Goodwill, Net",0
+Bank BCA,2009-03-31,Assets,Fixed Assets,"Property/Plant/Equipment, Total - Net",2611376
+Bank BCA,2009-03-31,Assets,Current Assets,Cash and Due from Banks,39457937
+Bank BCA,2009-03-31,Assets,Current Assets,Other Earning Assets,188870272
+Bank BCA,2009-03-31,Assets,Fixed Assets,"Other Long Term Assets, Total",918773
+Bank BCA,2009-03-31,Assets,Non-Current Assets,Net Loans,103895583
+Bank BCA,2009-03-31,Equities,Unrealized Gain (Loss),Unrealized Gain (Loss),66138
+Bank BCA,2009-03-31,Equities,Retained Earnings,Retained Earnings,19971824
+Bank BCA,2009-03-31,Equities,Additional Paid-In Capital,Additional Paid-In Capital,3895933
+Bank BCA,2009-03-31,Equities,"Other Equity, Total",Other Equity,3895933
+Bank BCA,2009-03-31,Equities,"Common Stock, Total",Common Stock,1540938
+Bank BCA,2009-03-31,Liabilities,Current Liabilities,"Other Bearing Liabilities, Total",1876840
+Bank BCA,2009-03-31,Liabilities,Non-Current Liabilities,Deferred Income Tax,0
+Bank BCA,2009-03-31,Liabilities,Non-Current Liabilities,Total Long Term Debt,0
+Bank BCA,2009-03-31,Liabilities,Current Liabilities,"Other Current Liabilities, Total",336307
+Bank BCA,2009-03-31,Liabilities,Non-Current Liabilities,Other Liabilities Total,530710
+Bank BCA,2009-03-31,Liabilities,Current Liabilities,Total Short Term Borrowings,497090
+Bank BCA,2009-03-31,Liabilities,Non-Current Liabilities,Other Liabilities Total,530710
+Bank BCA,2009-03-31,Liabilities,Current Liabilities,Accrued Expenses,2448800
+Bank BCA,2009-03-31,Liabilities,Current Liabilities,Accounts Payable,0
+Bank BCA,2009-03-31,Liabilities,Current Liabilities,Total Deposits,217085800
+Bank BCA,2008-12-31,Assets,"Other Assets, Total",Other Assets,4735996
+Bank BCA,2008-12-31,Assets,Fixed Assets,"Goodwill, Net",0
+Bank BCA,2008-12-31,Assets,Fixed Assets,"Property/Plant/Equipment, Total - Net",2644785
+Bank BCA,2008-12-31,Assets,Current Assets,Cash and Due from Banks,33434537
+Bank BCA,2008-12-31,Assets,Current Assets,Other Earning Assets,183872932
+Bank BCA,2008-12-31,Assets,Fixed Assets,"Other Long Term Assets, Total",770686
+Bank BCA,2008-12-31,Assets,Non-Current Assets,Net Loans,110026861
+Bank BCA,2008-12-31,Equities,Unrealized Gain (Loss),Unrealized Gain (Loss),37782
+Bank BCA,2008-12-31,Equities,Retained Earnings,Retained Earnings,18339886
+Bank BCA,2008-12-31,Equities,Additional Paid-In Capital,Additional Paid-In Capital,3895933
+Bank BCA,2008-12-31,Equities,"Other Equity, Total",Other Equity,3895933
+Bank BCA,2008-12-31,Equities,"Common Stock, Total",Common Stock,1540938
+Bank BCA,2008-12-31,Liabilities,Current Liabilities,"Other Bearing Liabilities, Total",3109382
+Bank BCA,2008-12-31,Liabilities,Non-Current Liabilities,Deferred Income Tax,0
+Bank BCA,2008-12-31,Liabilities,Non-Current Liabilities,Total Long Term Debt,0
+Bank BCA,2008-12-31,Liabilities,Current Liabilities,"Other Current Liabilities, Total",504635
+Bank BCA,2008-12-31,Liabilities,Non-Current Liabilities,Other Liabilities Total,670369
+Bank BCA,2008-12-31,Liabilities,Current Liabilities,Total Short Term Borrowings,498217
+Bank BCA,2008-12-31,Liabilities,Non-Current Liabilities,Other Liabilities Total,670369
+Bank BCA,2008-12-31,Liabilities,Current Liabilities,Accrued Expenses,2772557
+Bank BCA,2008-12-31,Liabilities,Current Liabilities,Accounts Payable,0
+Bank BCA,2008-12-31,Liabilities,Current Liabilities,Total Deposits,214735386
+Bank BCA,2008-09-30,Assets,"Other Assets, Total",Other Assets,4949111
+Bank BCA,2008-09-30,Assets,Fixed Assets,"Goodwill, Net",0
+Bank BCA,2008-09-30,Assets,Fixed Assets,"Property/Plant/Equipment, Total - Net",2378091
+Bank BCA,2008-09-30,Assets,Current Assets,Cash and Due from Banks,38418538
+Bank BCA,2008-09-30,Assets,Current Assets,Other Earning Assets,152389626
+Bank BCA,2008-09-30,Assets,Fixed Assets,"Other Long Term Assets, Total",478076
+Bank BCA,2008-09-30,Assets,Non-Current Assets,Net Loans,103280011
+Bank BCA,2008-09-30,Equities,Unrealized Gain (Loss),Unrealized Gain (Loss),81158
+Bank BCA,2008-09-30,Equities,Retained Earnings,Retained Earnings,17415927
+Bank BCA,2008-09-30,Equities,Additional Paid-In Capital,Additional Paid-In Capital,3895933
+Bank BCA,2008-09-30,Equities,"Other Equity, Total",Other Equity,3895933
+Bank BCA,2008-09-30,Equities,"Common Stock, Total",Common Stock,1540938
+Bank BCA,2008-09-30,Liabilities,Current Liabilities,"Other Bearing Liabilities, Total",3727961
+Bank BCA,2008-09-30,Liabilities,Non-Current Liabilities,Deferred Income Tax,0
+Bank BCA,2008-09-30,Liabilities,Non-Current Liabilities,Total Long Term Debt,0
+Bank BCA,2008-09-30,Liabilities,Current Liabilities,"Other Current Liabilities, Total",605378
+Bank BCA,2008-09-30,Liabilities,Non-Current Liabilities,Other Liabilities Total,617317
+Bank BCA,2008-09-30,Liabilities,Current Liabilities,Total Short Term Borrowings,1295563
+Bank BCA,2008-09-30,Liabilities,Non-Current Liabilities,Other Liabilities Total,617317
+Bank BCA,2008-09-30,Liabilities,Current Liabilities,Accrued Expenses,1834738
+Bank BCA,2008-09-30,Liabilities,Current Liabilities,Accounts Payable,0
+Bank BCA,2008-09-30,Liabilities,Current Liabilities,Total Deposits,197637783
+Bank BCA,2008-06-30,Assets,"Other Assets, Total",Other Assets,4910382
+Bank BCA,2008-06-30,Assets,Fixed Assets,"Goodwill, Net",0
+Bank BCA,2008-06-30,Assets,Fixed Assets,"Property/Plant/Equipment, Total - Net",2266347
+Bank BCA,2008-06-30,Assets,Current Assets,Cash and Due from Banks,38802336
+Bank BCA,2008-06-30,Assets,Current Assets,Other Earning Assets,161104109
+Bank BCA,2008-06-30,Assets,Fixed Assets,"Other Long Term Assets, Total",406250
+Bank BCA,2008-06-30,Assets,Non-Current Assets,Net Loans,93756432
+Bank BCA,2008-06-30,Equities,Unrealized Gain (Loss),Unrealized Gain (Loss),72552
+Bank BCA,2008-06-30,Equities,Retained Earnings,Retained Earnings,14787174
+Bank BCA,2008-06-30,Equities,Additional Paid-In Capital,Additional Paid-In Capital,3895933
+Bank BCA,2008-06-30,Equities,"Other Equity, Total",Other Equity,3895933
+Bank BCA,2008-06-30,Equities,"Common Stock, Total",Common Stock,1540938
+Bank BCA,2008-06-30,Liabilities,Current Liabilities,"Other Bearing Liabilities, Total",2423697
+Bank BCA,2008-06-30,Liabilities,Non-Current Liabilities,Deferred Income Tax,0
+Bank BCA,2008-06-30,Liabilities,Non-Current Liabilities,Total Long Term Debt,0
+Bank BCA,2008-06-30,Liabilities,Current Liabilities,"Other Current Liabilities, Total",709043
+Bank BCA,2008-06-30,Liabilities,Non-Current Liabilities,Other Liabilities Total,629660
+Bank BCA,2008-06-30,Liabilities,Current Liabilities,Total Short Term Borrowings,992034
+Bank BCA,2008-06-30,Liabilities,Non-Current Liabilities,Other Liabilities Total,629660
+Bank BCA,2008-06-30,Liabilities,Current Liabilities,Accrued Expenses,1903094
+Bank BCA,2008-06-30,Liabilities,Current Liabilities,Accounts Payable,0
+Bank BCA,2008-06-30,Liabilities,Current Liabilities,Total Deposits,194794168
+Bank BCA,2008-03-31,Assets,"Other Assets, Total",Other Assets,4806682
+Bank BCA,2008-03-31,Assets,Fixed Assets,"Goodwill, Net",0
+Bank BCA,2008-03-31,Assets,Fixed Assets,"Property/Plant/Equipment, Total - Net",2291674
+Bank BCA,2008-03-31,Assets,Current Assets,Cash and Due from Banks,42792860
+Bank BCA,2008-03-31,Assets,Current Assets,Other Earning Assets,161283537
+Bank BCA,2008-03-31,Assets,Fixed Assets,"Other Long Term Assets, Total",376321
+Bank BCA,2008-03-31,Assets,Non-Current Assets,Net Loans,82442019
+Bank BCA,2008-03-31,Equities,Unrealized Gain (Loss),Unrealized Gain (Loss),54779
+Bank BCA,2008-03-31,Equities,Retained Earnings,Retained Earnings,15057194
+Bank BCA,2008-03-31,Equities,Additional Paid-In Capital,Additional Paid-In Capital,3895933
+Bank BCA,2008-03-31,Equities,"Other Equity, Total",Other Equity,3895933
+Bank BCA,2008-03-31,Equities,"Common Stock, Total",Common Stock,1540938
+Bank BCA,2008-03-31,Liabilities,Current Liabilities,"Other Bearing Liabilities, Total",1611104
+Bank BCA,2008-03-31,Liabilities,Non-Current Liabilities,Deferred Income Tax,0
+Bank BCA,2008-03-31,Liabilities,Non-Current Liabilities,Total Long Term Debt,0
+Bank BCA,2008-03-31,Liabilities,Current Liabilities,"Other Current Liabilities, Total",316634
+Bank BCA,2008-03-31,Liabilities,Non-Current Liabilities,Other Liabilities Total,630112
+Bank BCA,2008-03-31,Liabilities,Current Liabilities,Total Short Term Borrowings,960257
+Bank BCA,2008-03-31,Liabilities,Non-Current Liabilities,Other Liabilities Total,630112
+Bank BCA,2008-03-31,Liabilities,Current Liabilities,Accrued Expenses,1964116
+Bank BCA,2008-03-31,Liabilities,Current Liabilities,Accounts Payable,0
+Bank BCA,2008-03-31,Liabilities,Current Liabilities,Total Deposits,187651369
+Bank BCA,2007-12-31,Assets,"Other Assets, Total",Other Assets,4448206
+Bank BCA,2007-12-31,Assets,Fixed Assets,"Goodwill, Net",0
+Bank BCA,2007-12-31,Assets,Fixed Assets,"Property/Plant/Equipment, Total - Net",2264841
+Bank BCA,2007-12-31,Assets,Current Assets,Cash and Due from Banks,35299806
+Bank BCA,2007-12-31,Assets,Current Assets,Other Earning Assets,187510463
+Bank BCA,2007-12-31,Assets,Fixed Assets,"Other Long Term Assets, Total",376154
+Bank BCA,2007-12-31,Assets,Non-Current Assets,Net Loans,80702481
+Bank BCA,2007-12-31,Equities,Unrealized Gain (Loss),Unrealized Gain (Loss),22313
+Bank BCA,2007-12-31,Equities,Retained Earnings,Retained Earnings,13906138
+Bank BCA,2007-12-31,Equities,Additional Paid-In Capital,Additional Paid-In Capital,3895933
+Bank BCA,2007-12-31,Equities,"Other Equity, Total",Other Equity,3895933
+Bank BCA,2007-12-31,Equities,"Common Stock, Total",Common Stock,1540938
+Bank BCA,2007-12-31,Liabilities,Current Liabilities,"Other Bearing Liabilities, Total",1691903
+Bank BCA,2007-12-31,Liabilities,Non-Current Liabilities,Deferred Income Tax,0
+Bank BCA,2007-12-31,Liabilities,Non-Current Liabilities,Total Long Term Debt,0
+Bank BCA,2007-12-31,Liabilities,Current Liabilities,"Other Current Liabilities, Total",500871
+Bank BCA,2007-12-31,Liabilities,Non-Current Liabilities,Other Liabilities Total,624861
+Bank BCA,2007-12-31,Liabilities,Current Liabilities,Total Short Term Borrowings,1083995
+Bank BCA,2007-12-31,Liabilities,Non-Current Liabilities,Other Liabilities Total,624861
+Bank BCA,2007-12-31,Liabilities,Current Liabilities,Accrued Expenses,1493419
+Bank BCA,2007-12-31,Liabilities,Current Liabilities,Accounts Payable,0
+Bank BCA,2007-12-31,Liabilities,Current Liabilities,Total Deposits,192168228
+Bank BCA,2007-09-30,Assets,"Other Assets, Total",Other Assets,4779860
+Bank BCA,2007-09-30,Assets,Fixed Assets,"Goodwill, Net",0
+Bank BCA,2007-09-30,Assets,Fixed Assets,"Property/Plant/Equipment, Total - Net",-2154824
+Bank BCA,2007-09-30,Assets,Current Assets,Cash and Due from Banks,36180339
+Bank BCA,2007-09-30,Assets,Current Assets,Other Earning Assets,170489353
+Bank BCA,2007-09-30,Assets,Fixed Assets,"Other Long Term Assets, Total",379886
+Bank BCA,2007-09-30,Assets,Non-Current Assets,Net Loans,67095840
+Bank BCA,2007-09-30,Equities,Unrealized Gain (Loss),Unrealized Gain (Loss),8827
+Bank BCA,2007-09-30,Equities,Retained Earnings,Retained Earnings,13450849
+Bank BCA,2007-09-30,Equities,Additional Paid-In Capital,Additional Paid-In Capital,3895933
+Bank BCA,2007-09-30,Equities,"Other Equity, Total",Other Equity,3895933
+Bank BCA,2007-09-30,Equities,"Common Stock, Total",Common Stock,1540938
+Bank BCA,2007-09-30,Liabilities,Current Liabilities,"Other Bearing Liabilities, Total",1801972
+Bank BCA,2007-09-30,Liabilities,Non-Current Liabilities,Deferred Income Tax,0
+Bank BCA,2007-09-30,Liabilities,Non-Current Liabilities,Total Long Term Debt,0
+Bank BCA,2007-09-30,Liabilities,Current Liabilities,"Other Current Liabilities, Total",339109
+Bank BCA,2007-09-30,Liabilities,Non-Current Liabilities,Other Liabilities Total,641956
+Bank BCA,2007-09-30,Liabilities,Current Liabilities,Total Short Term Borrowings,465529
+Bank BCA,2007-09-30,Liabilities,Non-Current Liabilities,Other Liabilities Total,641956
+Bank BCA,2007-09-30,Liabilities,Current Liabilities,Accrued Expenses,1468149
+Bank BCA,2007-09-30,Liabilities,Current Liabilities,Accounts Payable,0
+Bank BCA,2007-09-30,Liabilities,Current Liabilities,Total Deposits,172370126
+Bank BCA,2007-06-30,Assets,"Other Assets, Total",Other Assets,4460440
+Bank BCA,2007-06-30,Assets,Fixed Assets,"Goodwill, Net",0
+Bank BCA,2007-06-30,Assets,Fixed Assets,"Property/Plant/Equipment, Total - Net",-2069901
+Bank BCA,2007-06-30,Assets,Current Assets,Cash and Due from Banks,31654721
+Bank BCA,2007-06-30,Assets,Current Assets,Other Earning Assets,165134697
+Bank BCA,2007-06-30,Assets,Fixed Assets,"Other Long Term Assets, Total",370739
+Bank BCA,2007-06-30,Assets,Non-Current Assets,Net Loans,62166238
+Bank BCA,2007-06-30,Equities,Unrealized Gain (Loss),Unrealized Gain (Loss),2720
+Bank BCA,2007-06-30,Equities,Retained Earnings,Retained Earnings,12320568
+Bank BCA,2007-06-30,Equities,Additional Paid-In Capital,Additional Paid-In Capital,3895933
+Bank BCA,2007-06-30,Equities,"Other Equity, Total",Other Equity,3895933
+Bank BCA,2007-06-30,Equities,"Common Stock, Total",Common Stock,1540938
+Bank BCA,2007-06-30,Liabilities,Current Liabilities,"Other Bearing Liabilities, Total",1329760
+Bank BCA,2007-06-30,Liabilities,Non-Current Liabilities,Deferred Income Tax,0
+Bank BCA,2007-06-30,Liabilities,Non-Current Liabilities,Total Long Term Debt,0
+Bank BCA,2007-06-30,Liabilities,Current Liabilities,"Other Current Liabilities, Total",523494
+Bank BCA,2007-06-30,Liabilities,Non-Current Liabilities,Other Liabilities Total,585732
+Bank BCA,2007-06-30,Liabilities,Current Liabilities,Total Short Term Borrowings,274489
+Bank BCA,2007-06-30,Liabilities,Non-Current Liabilities,Other Liabilities Total,585732
+Bank BCA,2007-06-30,Liabilities,Current Liabilities,Accrued Expenses,1454690
+Bank BCA,2007-06-30,Liabilities,Current Liabilities,Accounts Payable,0
+Bank BCA,2007-06-30,Liabilities,Current Liabilities,Total Deposits,161309662
+Bank BCA,2007-03-31,Assets,"Other Assets, Total",Other Assets,4300917
+Bank BCA,2007-03-31,Assets,Fixed Assets,"Goodwill, Net",0
+Bank BCA,2007-03-31,Assets,Fixed Assets,"Property/Plant/Equipment, Total - Net",-1986728
+Bank BCA,2007-03-31,Assets,Current Assets,Cash and Due from Banks,29148371
+Bank BCA,2007-03-31,Assets,Current Assets,Other Earning Assets,172516951
+Bank BCA,2007-03-31,Assets,Fixed Assets,"Other Long Term Assets, Total",347022
+Bank BCA,2007-03-31,Assets,Non-Current Assets,Net Loans,55632656
+Bank BCA,2007-03-31,Equities,Unrealized Gain (Loss),Unrealized Gain (Loss),27139
+Bank BCA,2007-03-31,Equities,Retained Earnings,Retained Earnings,12618036
+Bank BCA,2007-03-31,Equities,Additional Paid-In Capital,Additional Paid-In Capital,3895933
+Bank BCA,2007-03-31,Equities,"Other Equity, Total",Other Equity,3895933
+Bank BCA,2007-03-31,Equities,"Common Stock, Total",Common Stock,1540938
+Bank BCA,2007-03-31,Liabilities,Current Liabilities,"Other Bearing Liabilities, Total",1352985
+Bank BCA,2007-03-31,Liabilities,Non-Current Liabilities,Deferred Income Tax,0
+Bank BCA,2007-03-31,Liabilities,Non-Current Liabilities,Total Long Term Debt,0
+Bank BCA,2007-03-31,Liabilities,Current Liabilities,"Other Current Liabilities, Total",367162
+Bank BCA,2007-03-31,Liabilities,Non-Current Liabilities,Other Liabilities Total,575359
+Bank BCA,2007-03-31,Liabilities,Current Liabilities,Total Short Term Borrowings,124542
+Bank BCA,2007-03-31,Liabilities,Non-Current Liabilities,Other Liabilities Total,575359
+Bank BCA,2007-03-31,Liabilities,Current Liabilities,Accrued Expenses,1464501
+Bank BCA,2007-03-31,Liabilities,Current Liabilities,Accounts Payable,0
+Bank BCA,2007-03-31,Liabilities,Current Liabilities,Total Deposits,155805971
+Bank BCA,2006-12-31,Assets,"Other Assets, Total",Other Assets,3946742
+Bank BCA,2006-12-31,Assets,Fixed Assets,"Goodwill, Net",0
+Bank BCA,2006-12-31,Assets,Fixed Assets,"Property/Plant/Equipment, Total - Net",2210500
+Bank BCA,2006-12-31,Assets,Current Assets,Cash and Due from Banks,31476365
+Bank BCA,2006-12-31,Assets,Current Assets,Other Earning Assets,156491719
+Bank BCA,2006-12-31,Assets,Fixed Assets,"Other Long Term Assets, Total",354565
+Bank BCA,2006-12-31,Assets,Non-Current Assets,Net Loans,59688265
+Bank BCA,2006-12-31,Equities,Unrealized Gain (Loss),Unrealized Gain (Loss),12083
+Bank BCA,2006-12-31,Equities,Retained Earnings,Retained Earnings,11556474
+Bank BCA,2006-12-31,Equities,Additional Paid-In Capital,Additional Paid-In Capital,3895933
+Bank BCA,2006-12-31,Equities,"Other Equity, Total",Other Equity,3895933
+Bank BCA,2006-12-31,Equities,"Common Stock, Total",Common Stock,1540938
+Bank BCA,2006-12-31,Liabilities,Current Liabilities,"Other Bearing Liabilities, Total",1280515
+Bank BCA,2006-12-31,Liabilities,Non-Current Liabilities,Deferred Income Tax,0
+Bank BCA,2006-12-31,Liabilities,Non-Current Liabilities,Total Long Term Debt,0
+Bank BCA,2006-12-31,Liabilities,Current Liabilities,"Other Current Liabilities, Total",418562
+Bank BCA,2006-12-31,Liabilities,Non-Current Liabilities,Other Liabilities Total,93434
+Bank BCA,2006-12-31,Liabilities,Current Liabilities,Total Short Term Borrowings,701195
+Bank BCA,2006-12-31,Liabilities,Non-Current Liabilities,Other Liabilities Total,93434
+Bank BCA,2006-12-31,Liabilities,Current Liabilities,Accrued Expenses,1021491
+Bank BCA,2006-12-31,Liabilities,Current Liabilities,Accounts Payable,0
+Bank BCA,2006-12-31,Liabilities,Current Liabilities,Total Deposits,155214787
+Bank BCA,2006-09-30,Assets,"Other Assets, Total",Other Assets,3296080
+Bank BCA,2006-09-30,Assets,Fixed Assets,"Goodwill, Net",0
+Bank BCA,2006-09-30,Assets,Fixed Assets,"Property/Plant/Equipment, Total - Net",-1850566
+Bank BCA,2006-09-30,Assets,Current Assets,Cash and Due from Banks,29265858
+Bank BCA,2006-09-30,Assets,Current Assets,Other Earning Assets,151324347
+Bank BCA,2006-09-30,Assets,Fixed Assets,"Other Long Term Assets, Total",356034
+Bank BCA,2006-09-30,Assets,Non-Current Assets,Net Loans,52043091
+Bank BCA,2006-09-30,Equities,Unrealized Gain (Loss),Unrealized Gain (Loss),-389
+Bank BCA,2006-09-30,Equities,Retained Earnings,Retained Earnings,11110817
+Bank BCA,2006-09-30,Equities,Additional Paid-In Capital,Additional Paid-In Capital,3895354
+Bank BCA,2006-09-30,Equities,"Other Equity, Total",Other Equity,3895354
+Bank BCA,2006-09-30,Equities,"Common Stock, Total",Common Stock,1540859
+Bank BCA,2006-09-30,Liabilities,Current Liabilities,"Other Bearing Liabilities, Total",1763632
+Bank BCA,2006-09-30,Liabilities,Non-Current Liabilities,Deferred Income Tax,0
+Bank BCA,2006-09-30,Liabilities,Non-Current Liabilities,Total Long Term Debt,0
+Bank BCA,2006-09-30,Liabilities,Current Liabilities,"Other Current Liabilities, Total",429430
+Bank BCA,2006-09-30,Liabilities,Non-Current Liabilities,Other Liabilities Total,94282
+Bank BCA,2006-09-30,Liabilities,Current Liabilities,Total Short Term Borrowings,571618
+Bank BCA,2006-09-30,Liabilities,Non-Current Liabilities,Other Liabilities Total,94282
+Bank BCA,2006-09-30,Liabilities,Current Liabilities,Accrued Expenses,1207800
+Bank BCA,2006-09-30,Liabilities,Current Liabilities,Accounts Payable,0
+Bank BCA,2006-09-30,Liabilities,Current Liabilities,Total Deposits,142048252
+Bank BCA,2006-06-30,Assets,"Other Assets, Total",Other Assets,3222781
+Bank BCA,2006-06-30,Assets,Fixed Assets,"Goodwill, Net",0
+Bank BCA,2006-06-30,Assets,Fixed Assets,"Property/Plant/Equipment, Total - Net",-1789071
+Bank BCA,2006-06-30,Assets,Current Assets,Cash and Due from Banks,33405598
+Bank BCA,2006-06-30,Assets,Current Assets,Other Earning Assets,132526939
+Bank BCA,2006-06-30,Assets,Fixed Assets,"Other Long Term Assets, Total",352918
+Bank BCA,2006-06-30,Assets,Non-Current Assets,Net Loans,51362430
+Bank BCA,2006-06-30,Equities,Unrealized Gain (Loss),Unrealized Gain (Loss),-14953
+Bank BCA,2006-06-30,Equities,Retained Earnings,Retained Earnings,10031778
+Bank BCA,2006-06-30,Equities,Additional Paid-In Capital,Additional Paid-In Capital,3895354
+Bank BCA,2006-06-30,Equities,"Other Equity, Total",Other Equity,3895354
+Bank BCA,2006-06-30,Equities,"Common Stock, Total",Common Stock,1540859
+Bank BCA,2006-06-30,Liabilities,Current Liabilities,"Other Bearing Liabilities, Total",1767384
+Bank BCA,2006-06-30,Liabilities,Non-Current Liabilities,Deferred Income Tax,0
+Bank BCA,2006-06-30,Liabilities,Non-Current Liabilities,Total Long Term Debt,0
+Bank BCA,2006-06-30,Liabilities,Current Liabilities,"Other Current Liabilities, Total",637573
+Bank BCA,2006-06-30,Liabilities,Non-Current Liabilities,Other Liabilities Total,309823
+Bank BCA,2006-06-30,Liabilities,Current Liabilities,Total Short Term Borrowings,545804
+Bank BCA,2006-06-30,Liabilities,Non-Current Liabilities,Other Liabilities Total,309823
+Bank BCA,2006-06-30,Liabilities,Current Liabilities,Accrued Expenses,1106944
+Bank BCA,2006-06-30,Liabilities,Current Liabilities,Accounts Payable,0
+Bank BCA,2006-06-30,Liabilities,Current Liabilities,Total Deposits,136619062
+Bank BCA,2006-03-31,Assets,"Other Assets, Total",Other Assets,3075567
+Bank BCA,2006-03-31,Assets,Fixed Assets,"Goodwill, Net",0
+Bank BCA,2006-03-31,Assets,Fixed Assets,"Property/Plant/Equipment, Total - Net",-1748912
+Bank BCA,2006-03-31,Assets,Current Assets,Cash and Due from Banks,34349623
+Bank BCA,2006-03-31,Assets,Current Assets,Other Earning Assets,118780216
+Bank BCA,2006-03-31,Assets,Fixed Assets,"Other Long Term Assets, Total",319567
+Bank BCA,2006-03-31,Assets,Non-Current Assets,Net Loans,50622414
+Bank BCA,2006-03-31,Equities,Unrealized Gain (Loss),Unrealized Gain (Loss),-9232
+Bank BCA,2006-03-31,Equities,Retained Earnings,Retained Earnings,10123738
+Bank BCA,2006-03-31,Equities,Additional Paid-In Capital,Additional Paid-In Capital,3889441
+Bank BCA,2006-03-31,Equities,"Other Equity, Total",Other Equity,3889441
+Bank BCA,2006-03-31,Equities,"Common Stock, Total",Common Stock,1539888
+Bank BCA,2006-03-31,Liabilities,Current Liabilities,"Other Bearing Liabilities, Total",1182548
+Bank BCA,2006-03-31,Liabilities,Non-Current Liabilities,Deferred Income Tax,0
+Bank BCA,2006-03-31,Liabilities,Non-Current Liabilities,Total Long Term Debt,0
+Bank BCA,2006-03-31,Liabilities,Current Liabilities,"Other Current Liabilities, Total",369684
+Bank BCA,2006-03-31,Liabilities,Non-Current Liabilities,Other Liabilities Total,304140
+Bank BCA,2006-03-31,Liabilities,Current Liabilities,Total Short Term Borrowings,512856
+Bank BCA,2006-03-31,Liabilities,Non-Current Liabilities,Other Liabilities Total,304140
+Bank BCA,2006-03-31,Liabilities,Current Liabilities,Accrued Expenses,1241388
+Bank BCA,2006-03-31,Liabilities,Current Liabilities,Accounts Payable,0
+Bank BCA,2006-03-31,Liabilities,Current Liabilities,Total Deposits,130065977
+Bank BCA,2005-12-31,Assets,"Other Assets, Total",Other Assets,3032010
+Bank BCA,2005-12-31,Assets,Fixed Assets,"Goodwill, Net",0
+Bank BCA,2005-12-31,Assets,Fixed Assets,"Property/Plant/Equipment, Total - Net",-1656305
+Bank BCA,2005-12-31,Assets,Current Assets,Cash and Due from Banks,33857122
+Bank BCA,2005-12-31,Assets,Current Assets,Other Earning Assets,113236954
+Bank BCA,2005-12-31,Assets,Fixed Assets,"Other Long Term Assets, Total",262110
+Bank BCA,2005-12-31,Assets,Non-Current Assets,Net Loans,52781820
+Bank BCA,2005-12-31,Equities,Unrealized Gain (Loss),Unrealized Gain (Loss),-14286
+Bank BCA,2005-12-31,Equities,Retained Earnings,Retained Earnings,9143121
+Bank BCA,2005-12-31,Equities,Additional Paid-In Capital,Additional Paid-In Capital,3889441
+Bank BCA,2005-12-31,Equities,"Other Equity, Total",Other Equity,3889441
+Bank BCA,2005-12-31,Equities,"Common Stock, Total",Common Stock,1539888
+Bank BCA,2005-12-31,Liabilities,Current Liabilities,"Other Bearing Liabilities, Total",1435546
+Bank BCA,2005-12-31,Liabilities,Non-Current Liabilities,Deferred Income Tax,0
+Bank BCA,2005-12-31,Liabilities,Non-Current Liabilities,Total Long Term Debt,0
+Bank BCA,2005-12-31,Liabilities,Current Liabilities,"Other Current Liabilities, Total",286074
+Bank BCA,2005-12-31,Liabilities,Non-Current Liabilities,Other Liabilities Total,763993
+Bank BCA,2005-12-31,Liabilities,Current Liabilities,Total Short Term Borrowings,525316
+Bank BCA,2005-12-31,Liabilities,Non-Current Liabilities,Other Liabilities Total,763993
+Bank BCA,2005-12-31,Liabilities,Current Liabilities,Accrued Expenses,883571
+Bank BCA,2005-12-31,Liabilities,Current Liabilities,Accounts Payable,0
+Bank BCA,2005-12-31,Liabilities,Current Liabilities,Total Deposits,130437830
+Bank BCA,2005-09-30,Assets,"Other Assets, Total",Other Assets,2439626
+Bank BCA,2005-09-30,Assets,Fixed Assets,"Goodwill, Net",0
+Bank BCA,2005-09-30,Assets,Fixed Assets,"Property/Plant/Equipment, Total - Net",-1593747
+Bank BCA,2005-09-30,Assets,Current Assets,Cash and Due from Banks,32453180
+Bank BCA,2005-09-30,Assets,Current Assets,Other Earning Assets,117374934
+Bank BCA,2005-09-30,Assets,Fixed Assets,"Other Long Term Assets, Total",300377
+Bank BCA,2005-09-30,Assets,Non-Current Assets,Net Loans,49698824
+Bank BCA,2005-09-30,Equities,Unrealized Gain (Loss),Unrealized Gain (Loss),-86372
+Bank BCA,2005-09-30,Equities,Retained Earnings,Retained Earnings,8788315
+Bank BCA,2005-09-30,Equities,Additional Paid-In Capital,Additional Paid-In Capital,3888330
+Bank BCA,2005-09-30,Equities,"Other Equity, Total",Other Equity,3888330
+Bank BCA,2005-09-30,Equities,"Common Stock, Total",Common Stock,1539705
+Bank BCA,2005-09-30,Liabilities,Current Liabilities,"Other Bearing Liabilities, Total",1606634
+Bank BCA,2005-09-30,Liabilities,Non-Current Liabilities,Deferred Income Tax,0
+Bank BCA,2005-09-30,Liabilities,Non-Current Liabilities,Total Long Term Debt,0
+Bank BCA,2005-09-30,Liabilities,Current Liabilities,"Other Current Liabilities, Total",251462
+Bank BCA,2005-09-30,Liabilities,Non-Current Liabilities,Other Liabilities Total,945961
+Bank BCA,2005-09-30,Liabilities,Current Liabilities,Total Short Term Borrowings,589390
+Bank BCA,2005-09-30,Liabilities,Non-Current Liabilities,Other Liabilities Total,945961
+Bank BCA,2005-09-30,Liabilities,Current Liabilities,Accrued Expenses,1074068
+Bank BCA,2005-09-30,Liabilities,Current Liabilities,Accounts Payable,0
+Bank BCA,2005-09-30,Liabilities,Current Liabilities,Total Deposits,128644834
+Bank BCA,2005-06-30,Assets,"Other Assets, Total",Other Assets,2517789
+Bank BCA,2005-06-30,Assets,Fixed Assets,"Goodwill, Net",0
+Bank BCA,2005-06-30,Assets,Fixed Assets,"Property/Plant/Equipment, Total - Net",-1532676
+Bank BCA,2005-06-30,Assets,Current Assets,Cash and Due from Banks,19877759
+Bank BCA,2005-06-30,Assets,Current Assets,Other Earning Assets,154786837
+Bank BCA,2005-06-30,Assets,Fixed Assets,"Other Long Term Assets, Total",272724
+Bank BCA,2005-06-30,Assets,Non-Current Assets,Net Loans,42511491
+Bank BCA,2005-06-30,Equities,Unrealized Gain (Loss),Unrealized Gain (Loss),1516
+Bank BCA,2005-06-30,Equities,Retained Earnings,Retained Earnings,8942846
+Bank BCA,2005-06-30,Equities,Additional Paid-In Capital,Additional Paid-In Capital,3878288
+Bank BCA,2005-06-30,Equities,"Other Equity, Total",Other Equity,3878288
+Bank BCA,2005-06-30,Equities,"Common Stock, Total",Common Stock,1538056
+Bank BCA,2005-06-30,Liabilities,Current Liabilities,"Other Bearing Liabilities, Total",1300443
+Bank BCA,2005-06-30,Liabilities,Non-Current Liabilities,Deferred Income Tax,0
+Bank BCA,2005-06-30,Liabilities,Non-Current Liabilities,Total Long Term Debt,0
+Bank BCA,2005-06-30,Liabilities,Current Liabilities,"Other Current Liabilities, Total",199610
+Bank BCA,2005-06-30,Liabilities,Non-Current Liabilities,Other Liabilities Total,546889
+Bank BCA,2005-06-30,Liabilities,Current Liabilities,Total Short Term Borrowings,515534
+Bank BCA,2005-06-30,Liabilities,Non-Current Liabilities,Other Liabilities Total,546889
+Bank BCA,2005-06-30,Liabilities,Current Liabilities,Accrued Expenses,883157
+Bank BCA,2005-06-30,Liabilities,Current Liabilities,Accounts Payable,0
+Bank BCA,2005-06-30,Liabilities,Current Liabilities,Total Deposits,129632817
+Bank BCA,2005-03-31,Assets,"Other Assets, Total",Other Assets,3194308
+Bank BCA,2005-03-31,Assets,Fixed Assets,"Goodwill, Net",0
+Bank BCA,2005-03-31,Assets,Fixed Assets,"Property/Plant/Equipment, Total - Net",-1496741
+Bank BCA,2005-03-31,Assets,Current Assets,Cash and Due from Banks,32838404
+Bank BCA,2005-03-31,Assets,Current Assets,Other Earning Assets,134999710
+Bank BCA,2005-03-31,Assets,Fixed Assets,"Other Long Term Assets, Total",312549
+Bank BCA,2005-03-31,Assets,Non-Current Assets,Net Loans,40463751
+Bank BCA,2005-03-31,Equities,Unrealized Gain (Loss),Unrealized Gain (Loss),18832
+Bank BCA,2005-03-31,Equities,Retained Earnings,Retained Earnings,8023897
+Bank BCA,2005-03-31,Equities,Additional Paid-In Capital,Additional Paid-In Capital,3877347
+Bank BCA,2005-03-31,Equities,"Other Equity, Total",Other Equity,3877347
+Bank BCA,2005-03-31,Equities,"Common Stock, Total",Common Stock,1537902
+Bank BCA,2005-03-31,Liabilities,Current Liabilities,"Other Bearing Liabilities, Total",1238501
+Bank BCA,2005-03-31,Liabilities,Non-Current Liabilities,Deferred Income Tax,0
+Bank BCA,2005-03-31,Liabilities,Non-Current Liabilities,Total Long Term Debt,0
+Bank BCA,2005-03-31,Liabilities,Current Liabilities,"Other Current Liabilities, Total",417457
+Bank BCA,2005-03-31,Liabilities,Non-Current Liabilities,Other Liabilities Total,668373
+Bank BCA,2005-03-31,Liabilities,Current Liabilities,Total Short Term Borrowings,450911
+Bank BCA,2005-03-31,Liabilities,Non-Current Liabilities,Other Liabilities Total,668373
+Bank BCA,2005-03-31,Liabilities,Current Liabilities,Accrued Expenses,950118
+Bank BCA,2005-03-31,Liabilities,Current Liabilities,Accounts Payable,0
+Bank BCA,2005-03-31,Liabilities,Current Liabilities,Total Deposits,129598354
+Bank BCA,2004-12-31,Assets,"Other Assets, Total",Other Assets,2845427
+Bank BCA,2004-12-31,Assets,Fixed Assets,"Goodwill, Net",0
+Bank BCA,2004-12-31,Assets,Fixed Assets,"Property/Plant/Equipment, Total - Net",-1442188
+Bank BCA,2004-12-31,Assets,Current Assets,Cash and Due from Banks,16524334
+Bank BCA,2004-12-31,Assets,Current Assets,Other Earning Assets,174747353
+Bank BCA,2004-12-31,Assets,Fixed Assets,"Other Long Term Assets, Total",299238
+Bank BCA,2004-12-31,Assets,Non-Current Assets,Net Loans,39280369
+Bank BCA,2004-12-31,Equities,Unrealized Gain (Loss),Unrealized Gain (Loss),45934
+Bank BCA,2004-12-31,Equities,Retained Earnings,Retained Earnings,7187069
+Bank BCA,2004-12-31,Equities,Additional Paid-In Capital,Additional Paid-In Capital,3877347
+Bank BCA,2004-12-31,Equities,"Other Equity, Total",Other Equity,3877347
+Bank BCA,2004-12-31,Equities,"Common Stock, Total",Common Stock,1537902
+Bank BCA,2004-12-31,Liabilities,Current Liabilities,"Other Bearing Liabilities, Total",891762
+Bank BCA,2004-12-31,Liabilities,Non-Current Liabilities,Deferred Income Tax,0
+Bank BCA,2004-12-31,Liabilities,Non-Current Liabilities,Total Long Term Debt,0
+Bank BCA,2004-12-31,Liabilities,Current Liabilities,"Other Current Liabilities, Total",197410
+Bank BCA,2004-12-31,Liabilities,Non-Current Liabilities,Other Liabilities Total,464559
+Bank BCA,2004-12-31,Liabilities,Current Liabilities,Total Short Term Borrowings,484127
+Bank BCA,2004-12-31,Liabilities,Non-Current Liabilities,Other Liabilities Total,464559
+Bank BCA,2004-12-31,Liabilities,Current Liabilities,Accrued Expenses,646977
+Bank BCA,2004-12-31,Liabilities,Current Liabilities,Accounts Payable,0
+Bank BCA,2004-12-31,Liabilities,Current Liabilities,Total Deposits,132557616
+Bank BCA,2004-09-30,Assets,"Other Assets, Total",Other Assets,2905542
+Bank BCA,2004-09-30,Assets,Fixed Assets,"Goodwill, Net",0
+Bank BCA,2004-09-30,Assets,Fixed Assets,"Property/Plant/Equipment, Total - Net",-1380018
+Bank BCA,2004-09-30,Assets,Current Assets,Cash and Due from Banks,26451308
+Bank BCA,2004-09-30,Assets,Current Assets,Other Earning Assets,153827007
+Bank BCA,2004-09-30,Assets,Fixed Assets,"Other Long Term Assets, Total",306257
+Bank BCA,2004-09-30,Assets,Non-Current Assets,Net Loans,34924293
+Bank BCA,2004-09-30,Equities,Unrealized Gain (Loss),Unrealized Gain (Loss),51493
+Bank BCA,2004-09-30,Equities,Retained Earnings,Retained Earnings,6946195
+Bank BCA,2004-09-30,Equities,Additional Paid-In Capital,Additional Paid-In Capital,3867600
+Bank BCA,2004-09-30,Equities,"Other Equity, Total",Other Equity,3867600
+Bank BCA,2004-09-30,Equities,"Common Stock, Total",Common Stock,1536301
+Bank BCA,2004-09-30,Liabilities,Current Liabilities,"Other Bearing Liabilities, Total",849733
+Bank BCA,2004-09-30,Liabilities,Non-Current Liabilities,Deferred Income Tax,0
+Bank BCA,2004-09-30,Liabilities,Non-Current Liabilities,Total Long Term Debt,0
+Bank BCA,2004-09-30,Liabilities,Current Liabilities,"Other Current Liabilities, Total",324279
+Bank BCA,2004-09-30,Liabilities,Non-Current Liabilities,Other Liabilities Total,404739
+Bank BCA,2004-09-30,Liabilities,Current Liabilities,Total Short Term Borrowings,523679
+Bank BCA,2004-09-30,Liabilities,Non-Current Liabilities,Other Liabilities Total,404739
+Bank BCA,2004-09-30,Liabilities,Current Liabilities,Accrued Expenses,803767
+Bank BCA,2004-09-30,Liabilities,Current Liabilities,Accounts Payable,0
+Bank BCA,2004-09-30,Liabilities,Current Liabilities,Total Deposits,127209855
+Bank BCA,2004-06-30,Assets,"Other Assets, Total",Other Assets,2936325
+Bank BCA,2004-06-30,Assets,Fixed Assets,"Goodwill, Net",0
+Bank BCA,2004-06-30,Assets,Fixed Assets,"Property/Plant/Equipment, Total - Net",-1317240
+Bank BCA,2004-06-30,Assets,Current Assets,Cash and Due from Banks,16172567
+Bank BCA,2004-06-30,Assets,Current Assets,Other Earning Assets,174249021
+Bank BCA,2004-06-30,Assets,Fixed Assets,"Other Long Term Assets, Total",284570
+Bank BCA,2004-06-30,Assets,Non-Current Assets,Net Loans,32496641
+Bank BCA,2004-06-30,Equities,Unrealized Gain (Loss),Unrealized Gain (Loss),-60235
+Bank BCA,2004-06-30,Equities,Retained Earnings,Retained Earnings,7520453
+Bank BCA,2004-06-30,Equities,Additional Paid-In Capital,Additional Paid-In Capital,3856897
+Bank BCA,2004-06-30,Equities,"Other Equity, Total",Other Equity,3856897
+Bank BCA,2004-06-30,Equities,"Common Stock, Total",Common Stock,1534544
+Bank BCA,2004-06-30,Liabilities,Current Liabilities,"Other Bearing Liabilities, Total",860903
+Bank BCA,2004-06-30,Liabilities,Non-Current Liabilities,Deferred Income Tax,0
+Bank BCA,2004-06-30,Liabilities,Non-Current Liabilities,Total Long Term Debt,0
+Bank BCA,2004-06-30,Liabilities,Current Liabilities,"Other Current Liabilities, Total",359159
+Bank BCA,2004-06-30,Liabilities,Non-Current Liabilities,Other Liabilities Total,340949
+Bank BCA,2004-06-30,Liabilities,Current Liabilities,Total Short Term Borrowings,373420
+Bank BCA,2004-06-30,Liabilities,Non-Current Liabilities,Other Liabilities Total,340949
+Bank BCA,2004-06-30,Liabilities,Current Liabilities,Accrued Expenses,799420
+Bank BCA,2004-06-30,Liabilities,Current Liabilities,Accounts Payable,0
+Bank BCA,2004-06-30,Liabilities,Current Liabilities,Total Deposits,124452764
+Bank BCA,2004-03-31,Assets,"Other Assets, Total",Other Assets,2777569
+Bank BCA,2004-03-31,Assets,Fixed Assets,"Goodwill, Net",0
+Bank BCA,2004-03-31,Assets,Fixed Assets,"Property/Plant/Equipment, Total - Net",-1253265
+Bank BCA,2004-03-31,Assets,Current Assets,Cash and Due from Banks,11869935
+Bank BCA,2004-03-31,Assets,Current Assets,Other Earning Assets,180119185
+Bank BCA,2004-03-31,Assets,Fixed Assets,"Other Long Term Assets, Total",277396
+Bank BCA,2004-03-31,Assets,Non-Current Assets,Net Loans,28740988
+Bank BCA,2004-03-31,Equities,Unrealized Gain (Loss),Unrealized Gain (Loss),23481
+Bank BCA,2004-03-31,Equities,Retained Earnings,Retained Earnings,6787406
+Bank BCA,2004-03-31,Equities,Additional Paid-In Capital,Additional Paid-In Capital,3846181
+Bank BCA,2004-03-31,Equities,"Other Equity, Total",Other Equity,3846181
+Bank BCA,2004-03-31,Equities,"Common Stock, Total",Common Stock,1532784
+Bank BCA,2004-03-31,Liabilities,Current Liabilities,"Other Bearing Liabilities, Total",722123
+Bank BCA,2004-03-31,Liabilities,Non-Current Liabilities,Deferred Income Tax,0
+Bank BCA,2004-03-31,Liabilities,Non-Current Liabilities,Total Long Term Debt,0
+Bank BCA,2004-03-31,Liabilities,Current Liabilities,"Other Current Liabilities, Total",246886
+Bank BCA,2004-03-31,Liabilities,Non-Current Liabilities,Other Liabilities Total,275307
+Bank BCA,2004-03-31,Liabilities,Current Liabilities,Total Short Term Borrowings,302896
+Bank BCA,2004-03-31,Liabilities,Non-Current Liabilities,Other Liabilities Total,275307
+Bank BCA,2004-03-31,Liabilities,Current Liabilities,Accrued Expenses,710599
+Bank BCA,2004-03-31,Liabilities,Current Liabilities,Accounts Payable,0
+Bank BCA,2004-03-31,Liabilities,Current Liabilities,Total Deposits,120283974
+Bank BCA,2003-12-31,Assets,"Other Assets, Total",Other Assets,2120979
+Bank BCA,2003-12-31,Assets,Fixed Assets,"Goodwill, Net",0
+Bank BCA,2003-12-31,Assets,Fixed Assets,"Property/Plant/Equipment, Total - Net",-1193323
+Bank BCA,2003-12-31,Assets,Current Assets,Cash and Due from Banks,14639726
+Bank BCA,2003-12-31,Assets,Current Assets,Other Earning Assets,170870419
+Bank BCA,2003-12-31,Assets,Fixed Assets,"Other Long Term Assets, Total",234337
+Bank BCA,2003-12-31,Assets,Non-Current Assets,Net Loans,28329341
+Bank BCA,2003-12-31,Equities,Unrealized Gain (Loss),Unrealized Gain (Loss),-41637
+Bank BCA,2003-12-31,Equities,Retained Earnings,Retained Earnings,6019338
+Bank BCA,2003-12-31,Equities,Additional Paid-In Capital,Additional Paid-In Capital,3846181
+Bank BCA,2003-12-31,Equities,"Other Equity, Total",Other Equity,3846181
+Bank BCA,2003-12-31,Equities,"Common Stock, Total",Common Stock,1532784
+Bank BCA,2003-12-31,Liabilities,Current Liabilities,"Other Bearing Liabilities, Total",569271
+Bank BCA,2003-12-31,Liabilities,Non-Current Liabilities,Deferred Income Tax,0
+Bank BCA,2003-12-31,Liabilities,Non-Current Liabilities,Total Long Term Debt,0
+Bank BCA,2003-12-31,Liabilities,Current Liabilities,"Other Current Liabilities, Total",106583
+Bank BCA,2003-12-31,Liabilities,Non-Current Liabilities,Other Liabilities Total,275365
+Bank BCA,2003-12-31,Liabilities,Current Liabilities,Total Short Term Borrowings,219652
+Bank BCA,2003-12-31,Liabilities,Non-Current Liabilities,Other Liabilities Total,275365
+Bank BCA,2003-12-31,Liabilities,Current Liabilities,Accrued Expenses,521579
+Bank BCA,2003-12-31,Liabilities,Current Liabilities,Accounts Payable,0
+Bank BCA,2003-12-31,Liabilities,Current Liabilities,Total Deposits,118941416
+Bank BCA,2003-09-30,Assets,"Other Assets, Total",Other Assets,1910889
+Bank BCA,2003-09-30,Assets,Fixed Assets,"Goodwill, Net",0
+Bank BCA,2003-09-30,Assets,Fixed Assets,"Property/Plant/Equipment, Total - Net",-1116734
+Bank BCA,2003-09-30,Assets,Current Assets,Cash and Due from Banks,10844731
+Bank BCA,2003-09-30,Assets,Current Assets,Other Earning Assets,167794803
+Bank BCA,2003-09-30,Assets,Fixed Assets,"Other Long Term Assets, Total",468622
+Bank BCA,2003-09-30,Assets,Non-Current Assets,Net Loans,23370457
+Bank BCA,2003-09-30,Equities,Unrealized Gain (Loss),Unrealized Gain (Loss),0
+Bank BCA,2003-09-30,Equities,Retained Earnings,Retained Earnings,6674702
+Bank BCA,2003-09-30,Equities,Additional Paid-In Capital,Additional Paid-In Capital,3733179
+Bank BCA,2003-09-30,Equities,"Other Equity, Total",Other Equity,3733179
+Bank BCA,2003-09-30,Equities,"Common Stock, Total",Common Stock,1513904
+Bank BCA,2003-09-30,Liabilities,Current Liabilities,"Other Bearing Liabilities, Total",274727
+Bank BCA,2003-09-30,Liabilities,Non-Current Liabilities,Deferred Income Tax,0
+Bank BCA,2003-09-30,Liabilities,Non-Current Liabilities,Total Long Term Debt,0
+Bank BCA,2003-09-30,Liabilities,Current Liabilities,"Other Current Liabilities, Total",105327
+Bank BCA,2003-09-30,Liabilities,Non-Current Liabilities,Other Liabilities Total,77407
+Bank BCA,2003-09-30,Liabilities,Current Liabilities,Total Short Term Borrowings,431623
+Bank BCA,2003-09-30,Liabilities,Non-Current Liabilities,Other Liabilities Total,77407
+Bank BCA,2003-09-30,Liabilities,Current Liabilities,Accrued Expenses,589177
+Bank BCA,2003-09-30,Liabilities,Current Liabilities,Accounts Payable,0
+Bank BCA,2003-09-30,Liabilities,Current Liabilities,Total Deposits,107914707
+Bank BCA,2003-06-30,Assets,"Other Assets, Total",Other Assets,1562487
+Bank BCA,2003-06-30,Assets,Fixed Assets,"Goodwill, Net",0
+Bank BCA,2003-06-30,Assets,Fixed Assets,"Property/Plant/Equipment, Total - Net",1946992
+Bank BCA,2003-06-30,Assets,Current Assets,Cash and Due from Banks,13194525
+Bank BCA,2003-06-30,Assets,Current Assets,Other Earning Assets,156577515
+Bank BCA,2003-06-30,Assets,Fixed Assets,"Other Long Term Assets, Total",518682
+Bank BCA,2003-06-30,Assets,Non-Current Assets,Net Loans,21350476
+Bank BCA,2003-06-30,Equities,Unrealized Gain (Loss),Unrealized Gain (Loss),0
+Bank BCA,2003-06-30,Equities,Retained Earnings,Retained Earnings,6058493
+Bank BCA,2003-06-30,Equities,Additional Paid-In Capital,Additional Paid-In Capital,3708894
+Bank BCA,2003-06-30,Equities,"Other Equity, Total",Other Equity,3708894
+Bank BCA,2003-06-30,Equities,"Common Stock, Total",Common Stock,1504381
+Bank BCA,2003-06-30,Liabilities,Current Liabilities,"Other Bearing Liabilities, Total",205179
+Bank BCA,2003-06-30,Liabilities,Non-Current Liabilities,Deferred Income Tax,0
+Bank BCA,2003-06-30,Liabilities,Non-Current Liabilities,Total Long Term Debt,0
+Bank BCA,2003-06-30,Liabilities,Current Liabilities,"Other Current Liabilities, Total",116247
+Bank BCA,2003-06-30,Liabilities,Non-Current Liabilities,Other Liabilities Total,82440
+Bank BCA,2003-06-30,Liabilities,Current Liabilities,Total Short Term Borrowings,295990
+Bank BCA,2003-06-30,Liabilities,Non-Current Liabilities,Other Liabilities Total,82440
+Bank BCA,2003-06-30,Liabilities,Current Liabilities,Accrued Expenses,518643
+Bank BCA,2003-06-30,Liabilities,Current Liabilities,Accounts Payable,0
+Bank BCA,2003-06-30,Liabilities,Current Liabilities,Total Deposits,103249563
+Bank BCA,2003-03-31,Assets,"Other Assets, Total",Other Assets,1742743
+Bank BCA,2003-03-31,Assets,Fixed Assets,"Goodwill, Net",0
+Bank BCA,2003-03-31,Assets,Fixed Assets,"Property/Plant/Equipment, Total - Net",1987731
+Bank BCA,2003-03-31,Assets,Current Assets,Cash and Due from Banks,14250597
+Bank BCA,2003-03-31,Assets,Current Assets,Other Earning Assets,153056631
+Bank BCA,2003-03-31,Assets,Fixed Assets,"Other Long Term Assets, Total",747382
+Bank BCA,2003-03-31,Assets,Non-Current Assets,Net Loans,21152972
+Bank BCA,2003-03-31,Equities,Unrealized Gain (Loss),Unrealized Gain (Loss),0
+Bank BCA,2003-03-31,Equities,Retained Earnings,Retained Earnings,5515324
+Bank BCA,2003-03-31,Equities,Additional Paid-In Capital,Additional Paid-In Capital,3708894
+Bank BCA,2003-03-31,Equities,"Other Equity, Total",Other Equity,3708894
+Bank BCA,2003-03-31,Equities,"Common Stock, Total",Common Stock,1504381
+Bank BCA,2003-03-31,Liabilities,Current Liabilities,"Other Bearing Liabilities, Total",191166
+Bank BCA,2003-03-31,Liabilities,Non-Current Liabilities,Deferred Income Tax,0
+Bank BCA,2003-03-31,Liabilities,Non-Current Liabilities,Total Long Term Debt,0
+Bank BCA,2003-03-31,Liabilities,Current Liabilities,"Other Current Liabilities, Total",132911
+Bank BCA,2003-03-31,Liabilities,Non-Current Liabilities,Other Liabilities Total,87613
+Bank BCA,2003-03-31,Liabilities,Current Liabilities,Total Short Term Borrowings,443204
+Bank BCA,2003-03-31,Liabilities,Non-Current Liabilities,Other Liabilities Total,87613
+Bank BCA,2003-03-31,Liabilities,Current Liabilities,Accrued Expenses,619391
+Bank BCA,2003-03-31,Liabilities,Current Liabilities,Accounts Payable,0
+Bank BCA,2003-03-31,Liabilities,Current Liabilities,Total Deposits,103089856
+Bank BCA,2002-12-31,Assets,"Other Assets, Total",Other Assets,1684121
+Bank BCA,2002-12-31,Assets,Fixed Assets,"Goodwill, Net",0
+Bank BCA,2002-12-31,Assets,Fixed Assets,"Property/Plant/Equipment, Total - Net",-908613
+Bank BCA,2002-12-31,Assets,Current Assets,Cash and Due from Banks,16437535
+Bank BCA,2002-12-31,Assets,Current Assets,Other Earning Assets,150201370
+Bank BCA,2002-12-31,Assets,Fixed Assets,"Other Long Term Assets, Total",971816
+Bank BCA,2002-12-31,Assets,Non-Current Assets,Net Loans,20569141
+Bank BCA,2002-12-31,Equities,Unrealized Gain (Loss),Unrealized Gain (Loss),0
+Bank BCA,2002-12-31,Equities,Retained Earnings,Retained Earnings,5039327
+Bank BCA,2002-12-31,Equities,Additional Paid-In Capital,Additional Paid-In Capital,3708894
+Bank BCA,2002-12-31,Equities,"Other Equity, Total",Other Equity,3708894
+Bank BCA,2002-12-31,Equities,"Common Stock, Total",Common Stock,1504381
+Bank BCA,2002-12-31,Liabilities,Current Liabilities,"Other Bearing Liabilities, Total",193735
+Bank BCA,2002-12-31,Liabilities,Non-Current Liabilities,Deferred Income Tax,0
+Bank BCA,2002-12-31,Liabilities,Non-Current Liabilities,Total Long Term Debt,0
+Bank BCA,2002-12-31,Liabilities,Current Liabilities,"Other Current Liabilities, Total",196677
+Bank BCA,2002-12-31,Liabilities,Non-Current Liabilities,Other Liabilities Total,122882
+Bank BCA,2002-12-31,Liabilities,Current Liabilities,Total Short Term Borrowings,385854
+Bank BCA,2002-12-31,Liabilities,Non-Current Liabilities,Other Liabilities Total,122882
+Bank BCA,2002-12-31,Liabilities,Current Liabilities,Accrued Expenses,470530
+Bank BCA,2002-12-31,Liabilities,Current Liabilities,Accounts Payable,0
+Bank BCA,2002-12-31,Liabilities,Current Liabilities,Total Deposits,104426355
+Bank BCA,2002-09-30,Assets,"Other Assets, Total",Other Assets,1882524
+Bank BCA,2002-09-30,Assets,Fixed Assets,"Goodwill, Net",0
+Bank BCA,2002-09-30,Assets,Fixed Assets,"Property/Plant/Equipment, Total - Net",-821928
+Bank BCA,2002-09-30,Assets,Current Assets,Cash and Due from Banks,12770648
+Bank BCA,2002-09-30,Assets,Current Assets,Other Earning Assets,152469143
+Bank BCA,2002-09-30,Assets,Fixed Assets,"Other Long Term Assets, Total",1218682
+Bank BCA,2002-09-30,Assets,Non-Current Assets,Net Loans,17242798
+Bank BCA,2002-09-30,Equities,Unrealized Gain (Loss),Unrealized Gain (Loss),0
+Bank BCA,2002-09-30,Equities,Retained Earnings,Retained Earnings,5530230
+Bank BCA,2002-09-30,Equities,Additional Paid-In Capital,Additional Paid-In Capital,3669374
+Bank BCA,2002-09-30,Equities,"Other Equity, Total",Other Equity,3669374
+Bank BCA,2002-09-30,Equities,"Common Stock, Total",Common Stock,1492238
+Bank BCA,2002-09-30,Liabilities,Current Liabilities,"Other Bearing Liabilities, Total",212393
+Bank BCA,2002-09-30,Liabilities,Non-Current Liabilities,Deferred Income Tax,0
+Bank BCA,2002-09-30,Liabilities,Non-Current Liabilities,Total Long Term Debt,0
+Bank BCA,2002-09-30,Liabilities,Current Liabilities,"Other Current Liabilities, Total",141724
+Bank BCA,2002-09-30,Liabilities,Non-Current Liabilities,Other Liabilities Total,114578
+Bank BCA,2002-09-30,Liabilities,Current Liabilities,Total Short Term Borrowings,401966
+Bank BCA,2002-09-30,Liabilities,Non-Current Liabilities,Other Liabilities Total,114578
+Bank BCA,2002-09-30,Liabilities,Current Liabilities,Accrued Expenses,620615
+Bank BCA,2002-09-30,Liabilities,Current Liabilities,Accounts Payable,0
+Bank BCA,2002-09-30,Liabilities,Current Liabilities,Total Deposits,98057347
+Bank BCA,2002-06-30,Assets,"Other Assets, Total",Other Assets,1822453
+Bank BCA,2002-06-30,Assets,Fixed Assets,"Goodwill, Net",0
+Bank BCA,2002-06-30,Assets,Fixed Assets,"Property/Plant/Equipment, Total - Net",2088204
+Bank BCA,2002-06-30,Assets,Current Assets,Cash and Due from Banks,14082372
+Bank BCA,2002-06-30,Assets,Current Assets,Other Earning Assets,139169491
+Bank BCA,2002-06-30,Assets,Fixed Assets,"Other Long Term Assets, Total",1441944
+Bank BCA,2002-06-30,Assets,Non-Current Assets,Net Loans,14988740
+Bank BCA,2002-06-30,Equities,Unrealized Gain (Loss),Unrealized Gain (Loss),0
+Bank BCA,2002-06-30,Equities,Retained Earnings,Retained Earnings,4860845
+Bank BCA,2002-06-30,Equities,Additional Paid-In Capital,Additional Paid-In Capital,3669374
+Bank BCA,2002-06-30,Equities,"Other Equity, Total",Other Equity,3669374
+Bank BCA,2002-06-30,Equities,"Common Stock, Total",Common Stock,1492238
+Bank BCA,2002-06-30,Liabilities,Current Liabilities,"Other Bearing Liabilities, Total",190167
+Bank BCA,2002-06-30,Liabilities,Non-Current Liabilities,Deferred Income Tax,0
+Bank BCA,2002-06-30,Liabilities,Non-Current Liabilities,Total Long Term Debt,0
+Bank BCA,2002-06-30,Liabilities,Current Liabilities,"Other Current Liabilities, Total",155539
+Bank BCA,2002-06-30,Liabilities,Non-Current Liabilities,Other Liabilities Total,123670
+Bank BCA,2002-06-30,Liabilities,Current Liabilities,Total Short Term Borrowings,365427
+Bank BCA,2002-06-30,Liabilities,Non-Current Liabilities,Other Liabilities Total,123670
+Bank BCA,2002-06-30,Liabilities,Current Liabilities,Accrued Expenses,509102
+Bank BCA,2002-06-30,Liabilities,Current Liabilities,Accounts Payable,0
+Bank BCA,2002-06-30,Liabilities,Current Liabilities,Total Deposits,91945986
+Bank BCA,2002-03-31,Assets,"Other Assets, Total",Other Assets,1947744
+Bank BCA,2002-03-31,Assets,Fixed Assets,"Goodwill, Net",0
+Bank BCA,2002-03-31,Assets,Fixed Assets,"Property/Plant/Equipment, Total - Net",2120556
+Bank BCA,2002-03-31,Assets,Current Assets,Cash and Due from Banks,16075034
+Bank BCA,2002-03-31,Assets,Current Assets,Other Earning Assets,128958979
+Bank BCA,2002-03-31,Assets,Fixed Assets,"Other Long Term Assets, Total",1625931
+Bank BCA,2002-03-31,Assets,Non-Current Assets,Net Loans,14063907
+Bank BCA,2002-03-31,Equities,Unrealized Gain (Loss),Unrealized Gain (Loss),0
+Bank BCA,2002-03-31,Equities,Retained Earnings,Retained Earnings,4170340
+Bank BCA,2002-03-31,Equities,Additional Paid-In Capital,Additional Paid-In Capital,3648826
+Bank BCA,2002-03-31,Equities,"Other Equity, Total",Other Equity,3648826
+Bank BCA,2002-03-31,Equities,"Common Stock, Total",Common Stock,1486499
+Bank BCA,2002-03-31,Liabilities,Current Liabilities,"Other Bearing Liabilities, Total",133031
+Bank BCA,2002-03-31,Liabilities,Non-Current Liabilities,Deferred Income Tax,0
+Bank BCA,2002-03-31,Liabilities,Non-Current Liabilities,Total Long Term Debt,0
+Bank BCA,2002-03-31,Liabilities,Current Liabilities,"Other Current Liabilities, Total",126983
+Bank BCA,2002-03-31,Liabilities,Non-Current Liabilities,Other Liabilities Total,112175
+Bank BCA,2002-03-31,Liabilities,Current Liabilities,Total Short Term Borrowings,1416675
+Bank BCA,2002-03-31,Liabilities,Non-Current Liabilities,Other Liabilities Total,112175
+Bank BCA,2002-03-31,Liabilities,Current Liabilities,Accrued Expenses,558878
+Bank BCA,2002-03-31,Liabilities,Current Liabilities,Accounts Payable,0
+Bank BCA,2002-03-31,Liabilities,Current Liabilities,Total Deposits,87439555
